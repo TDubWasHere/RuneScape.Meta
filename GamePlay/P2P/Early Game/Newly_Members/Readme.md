@@ -371,12 +371,12 @@ waterall quest
 
 > [!IMPORTANT]
 > # 12: Complete Firemaking Training
-> - burn normal logs till 15
-> - burn 175 oak logs to 29
+> - burn normal logs 		[to lvl 15]
+> - burn 175 oak logs       [to lvl 29]
 > - burn 100 willow logs 	[to lvl 35]
-> - buy 220 teak			[to lvl 42]
-> - buy 130 arctic pine	[to lvl 45]
-> - buy 250 maple		[to lvl 50]
+> - burn 220 teak			[to lvl 42]
+> - burn 130 arctic pine	[to lvl 45]
+> - burn 250 maple		    [to lvl 50]
 
 > [!IMPORTANT]
 > # 23: The Giant Dwarf
@@ -399,13 +399,6 @@ waterall quest
 > - Agility XP
 > - [ ] Withdraw Bag of Salt
 > - [ ] Withdraw Linen
-
-> [!Tip]
-> # 27: Dragon Slayer <sup>(R4D Prereq)</sup>
-> - Note gives 18k def xp
-> - Only do if you want def XP otherwise skip
-> - Ability to wear rune pl8 and dragonhide body
-> - Ability to be assigned Slayer Tasks for slayer skill
 
 > [!IMPORTANT]
 > # 28: Get 35 Woodcutting <sup>(Animal Magnetism & Lost City Prereq)</sup>
@@ -452,6 +445,18 @@ waterall quest
 > - [WARNING] Gives 2k def xp
 > - Crafting xp <sup>(Lost City Prereq)</sup>
 
+> [!Tip]
+> # 35: Haunted Mine
+> - Strength xp (22,000)
+> - [ ] Use Mort'tron teleport
+
+> [!Tip]
+> # 27: Dragon Slayer <sup>(R4D Prereq)</sup>
+> - Note gives 18k def xp
+> - Only do if you want def XP otherwise skip
+> - Ability to wear rune pl8 and dragonhide body
+> - Ability to be assigned Slayer Tasks for slayer skill
+
 > [!IMPORTANT]
 > # 36: The Golem
 > - Crafting XP <sup>(Lost City Prereq)</sup>
@@ -464,6 +469,7 @@ waterall quest
 > - [ ] When you are told to bank everything:
 > 		- Add food to your invy (you will fight monsters with no armor)
 >		- Add RUNES to kill level 25s and 101 (bring best spell you can) <sup>you can safespot them</sup>
+> - [ ] After you kill the spirit , chop down the tree and get *4 dramen branches* which we will use for future quests <sup>(RFD & MM2)</sup>
 
 > [!IMPORTANT]
 > # 38: Do sea slug quest
@@ -573,6 +579,25 @@ for blue dragons w\ cannon
 			-> 160 kills/hr w\ cannon (930k)
 			-> USED 1650 cannonballs (350k)
 			-> 40k ranged xp/hr
+
+HOW TO GET TO tal teklan
+	-> to instantly teleport to tal teklan
+		You mean a crystal teleport seed to get another Teleport Crystal for Lletya.
+			1. Go to Lletya.
+			2. Kill Elf Warriors or Elf Archers.
+			3. They drop crystal teleport seeds at a 25/128 rate.
+			4. Take the seed to Eluned.
+			5. Pay her to enchant it into a Teleport Crystal.
+			You need to have started Mourning's End Part I.
+	
+	-> NO CUSTOM TELEPORT:
+		-> use teleport tab: "Civitas illa Fortis"
+			-> or teleport to varrock and run west outside of the walls to the bird and travel to civitas
+		-> run west till you see two travel birds
+		-> find Renu and travel to tal teklan (middle left)
+
+
+
 ```
 ```
 rev caves (dragon level 135)
@@ -647,7 +672,6 @@ SLAYER MASTERS:
 -> [The Ectophial teleport] Ghosts Ahoy → Ectophial
 -> [The Camule teleport] Enakhra's Lament → Camulet
 -> wilderness diaries for wilderness boss access??
--> final recipe for disasster
 ```
 
 
@@ -671,12 +695,6 @@ SLAYER MASTERS:
 
 NOTES
 
-```
-quest:
--> add haunted mine for 22k str xp
-	-> AFTER priest in peril
-	-> AFTER 35 crafting TODO find out when we get 35 crafting during next run through
-```
 
 ```
 "70+ ranged @ kuraks (big green monkey looking thing) 1m+ an hour"
