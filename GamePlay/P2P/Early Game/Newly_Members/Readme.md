@@ -10,9 +10,15 @@
 -> 100 hours	>> 2nd round of questing
 ```
 
+```
+LEGEND
+	📜 = quest
+```
+
+
 # 1) Build F2P starter account before buying members
 
-# 2) Do quest Children of The Sun
+# 2) 📜 Children of The Sun
 > - When going to GE finish this quest in varrock square
 
 # 3) Quality Of Life Upgrade [$???k<sup>/$???m for rich setup</sup>]
@@ -74,33 +80,33 @@
 -> x13 bread						(1k)
 -> x3 cake tin						(500)
 x3 plank						    (500)
--> Touris Trap
+-> 📜 Touris Trap
 	x1 desert shirt					(500)
 	x1 desert robe					(500)
 	x1 desert boots					(500)
 	x3 bronze bars					(500)			
 	x1 black pickaxe				(2k)
--> Druidic Ritual
+-> 📜 Druidic Ritual
 	x1 raw rat meat					(500)
 	x1 raw bear meat				(500)
 	x1 raw beef						(500)
 	x1 raw chicken					(500)
--> Death Plateau	
+-> 📜 Death Plateau	
 	x1 premade blurb'sp				(1k)
 	x10 trout						(500)
--> Troll Romance 
+-> 📜 Troll Romance 
 	x1 maple logs					(500)
 	x1 yew logs						(500)
 	x1 bucket of wax				(1k)
 	x5 climbing boots				(5k)
--> Gertrude's Cat
+-> 📜 Gertrude's Cat
 	x40 raw sardines				(2000)
--> Horror from the Deep
+-> 📜 Horror from the Deep
 	x1 steel longsword				(500)
 	x1 adamant arrow				(500)
 	x1 molten glass					(500)
 	x60 steel nails					(3k)
--> The Giant Dwarf
+-> 📜 The Giant Dwarf
 	x1 coal							(500)
 	x3 sapphire				        (500)
 	x2 redberry pie					(1k)
@@ -118,56 +124,56 @@ x3 plank						    (500)
 	x10 gold bar
 	x10 steel bar
 	x10 mithril bar
--> Icthlarin's Little Helper
+-> 📜 Icthlarin's Little Helper
 	x1 willow log					(500)
 	x1 bucket of sap				(500)
 	x1 bag of salt					(500)
 	x5 waterskin(4)					(500)
 	x1 linen						(2k)
--> Animal Magnetism
+-> 📜 Animal Magnetism
 	x4 bones						(500)
 	x4 empty pots					(500)
 	x4 empty buckets				(500)
 	x1 hard leather					(500)
 	x1 holy symbol					(500)
 	x1 polished buttons				(1k)
--> witches house
+-> 📜 witches house
 	x3 cheese						()
 	x1 gloves
--> Nature spirit
+-> 📜 Nature spirit
 	x1 silver sickle				()
--> The Golem
+-> 📜 The Golem
 	x4 soft clay					()
 	x1 papyrus
--> sea slug
+-> 📜 sea slug
 	x1 swamp paste
--> big chompy bird hunting
+-> 📜 big chompy bird hunting
 	x1 chisel
 	x12 wolf bones
--> plague city
+-> 📜 plague city
 	x1 dwellberries
 	x1 chocolate dust
 	x1 snape grass
 	x4 bucket of water
--> shadow of the storm
+-> 📜 shadow of the storm
 	x1 silver bar
 	x1 wizard hat (black)
 	x1 black cape
 	x1 shade robe
--> the dig site
+-> 📜 the dig site
 	x1 cup of tea
 	x1 opal
 	x1 charcoal
--> temple of ikov
+-> 📜 temple of ikov
 	x1 candle
 	x20 limpwurt
--> Fishing Contest
+-> 📜 Fishing Contest
 	x1 red vine worm
 	x1 garlic
 	x1 fishing rod
 	x50 fishing bait
 	x1 small fishing net
--> Recipe for Disaster
+-> 📜 Recipe for Disaster
 	x1 eye of newt
 	x1 greenman's ale
 	x1 ashes
@@ -194,17 +200,17 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 
 > [!IMPORTANT]
-> # 1: Plague City <sup>(R4D Prereq)</sup>
+> # 1: 📜 Plague City <sup>(R4D Prereq)</sup>
 > - Access to ardougne Teleports
 > - Mining xp <sup>(The Knight's Sword Prereq)</sup>
 > - [ ] Do not drop your gas mask when completed <sub>(you'll need it later)</sub>
 
 > [!IMPORTANT]
-> # 2: The Knight's Sword
+> # 2: 📜 The Knight's Sword
 > - Smithing xp <sup>(Tourist Trap Prereq)</sup>
 
 > [!IMPORTANT]
-> # 3: The Tourist Trap
+> # 3: 📜 The Tourist Trap
 > - [ ] Use both lamps on Agility
 > - On Complete drop:
 > 	-> keys
@@ -213,7 +219,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 >   -> slave gear
 
 > [!IMPORTANT]
-> # 4: The Grand Tree
+> # 4: 📜 The Grand Tree
 > - Agility XP
 > - Attack xp (18,400)
 > - [ ] Teleport to Ardy then run south west to gnome strongold
@@ -224,7 +230,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 >   -> key
 
 > [!IMPORTANT]
-> # 5: Client of Kourend <sup>(Depths of Despair prereq)</sup>
+> # 5: 📜 Client of Kourend <sup>(Depths of Despair prereq)</sup>
 > - Slayer XP <sup>(Animal Magnetism Prereq)</sup>
 > - [ ] Teleport to fally
 >	-> Bank at west bank
@@ -233,7 +239,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > 	-> broken glass
 
 > [!IMPORTANT]
-> # 6: The Depths of Despair <sup>(RfD prereq)</sup>
+> # 6: 📜 The Depths of Despair <sup>(RfD prereq)</sup>
 > - Agility XP
 > - [ ] Gear up with best ranged
 > - [ ] grab tele tabs
@@ -243,7 +249,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > 	-> book
 
 > [!IMPORTANT]
-> # 7: Witch's House <sup>(R4d Prereq)</sup>
+> # 7: 📜 Witch's House <sup>(R4d Prereq)</sup>
 ```
 	-> update to "witches house & Druidic Ritual"
 	-> bring all items needed for both
@@ -258,7 +264,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 ```
 
 > [!IMPORTANT]
-> # 8: Waterfall Quest <sup>(R4D Prereq)</sup>
+> # 8: 📜 Waterfall Quest <sup>(R4D Prereq)</sup>
 > - Great Attack & Strength XP (13,750)
 ```
 waterall quest
@@ -269,17 +275,17 @@ waterall quest
 	-> teleport to camelot run east to seers bank, get quest items and go
 	
 	-> When running north to talk to XXXX 
-		-> start Drwaft Cannon by talking to Captain Lawgof
+		-> start 📜 Drwaft Cannon by talking to Captain Lawgof
 			-> STOP after giving goblin remains to Captain Lawgof
-		-> resume Waterfall quest
+		-> resume 📜 Waterfall quest
 	-> When doing down gnome village ladder
 		-> After you are done
 		-> Go back up ladder
 		-> Keep running past and sqeeze through loose railing
-		-> start & finish Tree Gnome Village by talking to King Bolren
+		-> start & finish 📜 Tree Gnome Village by talking to King Bolren
 	
-	-> Start & Complete monks friend
-	-> Start & Complete Fight Arena
+	-> Start & Complete 📜 monks friend
+	-> Start & Complete 📜 Fight Arena
 	
 	-> use camelote teleport to get out of gnome village
 		-> bank everything but:
@@ -289,9 +295,9 @@ waterall quest
 			-> 6 air, water, earth runes
 			-> rope
 			-> teletabs
-	-> resume dwarf cannon when running by fishing guild
+	-> resume 📜 dwarf cannon when running by fishing guild
 		-> STOP after fixing the cannon
-		-> resume waterfall quest
+		-> resume 📜 waterfall quest
 	-> on completion drop:
 		-> key
 		-> urn
@@ -299,65 +305,57 @@ waterall quest
 ```
 
 > [!IMPORTANT]
-> # 9: Tree Gnome Village <sup>(Monkey Madness Prereq)</sup>
+> # 9: 📜 Tree Gnome Village <sup>(Monkey Madness Prereq)</sup>
 > - Unlocks spirit trees for navigation
 > - Good Attack XP (11,450)
 
 > [!IMPORTANT]
-> # 10: Dwarf Cannon
+> # 10: Resume & Complete 📜 Dwarf Cannon
 > - Unlocks Cannon
 > - Crafting xp <sup>(Animal Magnetism & Lost City Prereq)</sup>
 
-> [!IMPORTANT]
-> # 11: Get 10 Fletching
-> - make shafts the whole time (logs + knife)
 
 > [!IMPORTANT]
-> # 13: Druidic Ritual <sup>(R4D prereq)</sup>
+> # 13: 📜 Druidic Ritual <sup>(R4D prereq)</sup>
 > - Unlocks Herblore
 
 > [!IMPORTANT]
-> # 14: Death Plateau <sup>(R4D Prereq)</sup>
+> # 14: 📜 Death Plateau <sup>(R4D Prereq)</sup>
 > - Unlocks Climbing Boots, best in slot cheap boots 
 
 > [!IMPORTANT]
-> # 15: Troll Stronghold <sup>(DT1 Prereq)</sup>
+> # 15: 📜 Troll Stronghold <sup>(DT1 Prereq)</sup>
 > - Unlocks access to Godwars
 > - Troll romance prereq
 > - [ ] Do not drop Glarial's Pebble
 
 > [!IMPORTANT]
-> # 16: Troll Romance
+> # 16: 📜 Troll Romance
 > - Agility XP
 > - [ ] Bring food for this quest
 
 > [!IMPORTANT]
-> # 17: Gertrude's Cat <sup>(R4D Prereq)</sup>
+> # 17: 📜 Gertrude's Cat <sup>(R4D Prereq)</sup>
 > - Woodcutting xp <sup>(Animal Magnatism & Lost City Prereq)</sup>
 > - NOTE Start growing a cat for future quest
 > 	- West varrock talk to Gertrude in her house
 >   - Give your cat raw sardines to keep it fed  
 
 > [!IMPORTANT]
-> # 18: Priest in peril <sup>(Animal magnetism & R4D Prereq)</sup>
+> # 18: 📜 Priest in peril <sup>(Animal magnetism & R4D Prereq)</sup>
 > - **WARNING** Gives 1406 Prayer XP
 
-> [!IMPORTANT]
-> # 19: Fight Arena
-> - Thieving XP <sup>(DT1 Prereq)</sup>
-> - Attack xp (12,175)
-> - [ ] When completed drop:
-> 	-> Khazard helmet and plate
 
 > [!IMPORTANT]
-> # 20: Death on the Isle
+> # 20: 📜 Death on the Isle
 > - Agility xp
 > - Crafting xp <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - Thieving XP <sup>(DT1 Prereq)</sup>
 
 > [!IMPORTANT]
-> # 21: The Fued
+> # 21: 📜 The Fued
 > - Thieving XP <sup>(DT1 Prereq)</sup>
+> - [ ] Collect x4 Camel dung for future quests <sup>bring x4 empty bucket</sup>
 
 > [!IMPORTANT]
 > # 22: Get 19 Crafting
@@ -379,26 +377,27 @@ waterall quest
 > - burn 250 maple		    [to lvl 50]
 
 > [!IMPORTANT]
-> # 23: The Giant Dwarf
+> # 23: 📜 The Giant Dwarf
 > - Crafting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 
-> [!IMPORTANT]
-> # 24: Monks Friend
-> - Woodcutting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 
 > [!IMPORTANT]
-> # 25: Ribbiting Tale of Lily Pad 
+> # 25: 📜 Ribbiting Tale of Lily Pad 
 > - Woodcutting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - [ ] Withdraw black axe
 > - [ ] withdraw 3 sardines
 > - [ ] Chop down normal trees to 15 WC right before talking to Marcellus
 
 > [!IMPORTANT]
-> # 26: Icthlarin's Little Helper
+> # 26: 📜 Icthlarin's Little Helper
 > - Woodcutting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - Agility XP
 > - [ ] Withdraw Bag of Salt
 > - [ ] Withdraw Linen
+
+> [!IMPORTANT]
+> # 11: Get 10 Fletching
+> - make shafts to level 10 (logs + knife)
 
 > [!IMPORTANT]
 > # 28: Get 35 Woodcutting <sup>(Animal Magnetism & Lost City Prereq)</sup>
@@ -409,7 +408,7 @@ waterall quest
 >	-> adamant axe
 
 > [!IMPORTANT]
-> # 29: Porcine of Interest
+> # 29: 📜 Porcine of Interest
 > - Slayer xp <sup>(Animal Magnetism Prereq)</sup>
 
 > [!IMPORTANT]
@@ -419,7 +418,7 @@ waterall quest
 > - Located in Varrock Museum (north of the east bank)
 
 > [!IMPORTANT]
-> # 31: Animal Magnetism
+> # 31: 📜 Animal Magnetism
 > - Unlocks Accumulator
 > - For x20 Eco-tokens bring in your invy:
 > 	- [ ] x4 Bones
@@ -433,38 +432,38 @@ waterall quest
 > - There is a RuneLite quest help for this, search barcrawl
 
 > [!IMPORTANT]
-> # 33: Horror from the Deep <sup>(R4D Prereq)</sup>
+> # 33: 📜 Horror from the Deep <sup>(R4D Prereq)</sup>
 > - Unlocks godbook for mage bonus
 
 > [!IMPORTANT]
-> # 34: Murder Mystery <sup>(R4D Prereq)</sup>
+> # 34: 📜 Murder Mystery <sup>(R4D Prereq)</sup>
 > - Crafting XP <sup>(Lost City Prereq)</sup>
 
 > [!Tip]
-> # 35: Nature Spirit <sup>(R4D Prereq)</sup>
+> # 35: 📜 Nature Spirit <sup>(R4D Prereq)</sup>
 > - [WARNING] Gives 2k def xp
 > - Crafting xp <sup>(Lost City Prereq)</sup>
 
 > [!Tip]
-> # 35: Haunted Mine
+> # 35: 📜 Haunted Mine
 > - Strength xp (22,000)
 > - [ ] Use Mort'tron teleport
 
 > [!Tip]
-> # 27: Dragon Slayer <sup>(R4D Prereq)</sup>
+> # 27: 📜 Dragon Slayer <sup>(R4D Prereq)</sup>
 > - Note gives 18k def xp
 > - Only do if you want def XP otherwise skip
 > - Ability to wear rune pl8 and dragonhide body
 > - Ability to be assigned Slayer Tasks for slayer skill
 
 > [!IMPORTANT]
-> # 36: The Golem
+> # 36: 📜 The Golem
 > - Crafting XP <sup>(Lost City Prereq)</sup>
 > - Thieving XP <sup>(R4D Prereq)</sup>
 > - [ ] Use Necklace of Passage teleport "Eagle's Eyrie"
 
 > [!IMPORTANT]
-> # 37: Lost City <sup>(R4D Prereq)</sup>
+> # 37: 📜 Lost City <sup>(R4D Prereq)</sup>
 > - Unlocks ability to wield Dragon Weapons
 > - [ ] When you are told to bank everything:
 > 		- Add food to your invy (you will fight monsters with no armor)
@@ -472,32 +471,33 @@ waterall quest
 > - [ ] After you kill the spirit , chop down the tree and get *4 dramen branches* which we will use for future quests <sup>(RFD & MM2)</sup>
 
 > [!IMPORTANT]
-> # 38: Do sea slug quest
+> # 38: 📜 Sea slug
+> - Fishing xp <sup>(fishing contest prereq)</sup>
 
 > [!IMPORTANT]
-> # 39: Fishing Contest <sup>(R4D Prereq)</sup>
+> # 39: 📜 Fishing Contest <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
-> # 40: Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
+> # 40:📜  Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
 > - NOTE keep the following items:
 > - [ ] Use all 14 wolf bones for arrow tips
 > - [ ] Make ~50 arrows
 > - [ ] Keep bellow, bow, and arrows after quest completion
 
 > [!IMPORTANT]
-> # 41: BioHazard <sup>(R4D Prereq)</sup>
+> # 41: 📜 BioHazard <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
-> # 42: Underground Pass <sup>(R4D Prereq)</sup>
+> # 42: 📜 Underground Pass <sup>(R4D Prereq)</sup>
 > - Agility xp
 
 > [!IMPORTANT]
-> # 43: Shadow of the Storm <sup>(R4D Prereq)</sup>
+> # 43: 📜 Shadow of the Storm <sup>(R4D Prereq)</sup>
 > - [ ] Bring x2 Waterskins
 > - [ ] when you go past alkarid bank start this quest by tlaking to Father Reen who is at the bank in al karihd
 
 > [!IMPORTANT]
-> # 44: The Dig Site <sup>(R4D & DT1 Prereq)</sup>
+> # 44: 📜 The Dig Site <sup>(R4D & DT1 Prereq)</sup>
 
 > [!IMPORTANT]
 > # 45: Get 48 Thieving
@@ -506,22 +506,22 @@ waterall quest
 > 	- [ ] Stay at one stall, drop your item immediately, wait for respone 
 
 > [!IMPORTANT]
-> # 46: Temple of Ikov <sup>(R4D Prereq)</sup>
+> # 46: 📜 Temple of Ikov <sup>(R4D Prereq)</sup>
 > - [ ] Do NOT bring energy potions, you need food
 > - [ ] After getting boots of lightness remove candle and tinderbox from inventory and get more food
 > - [ ] Bring magic shortbow and rune arrows w\ boots of lightness into temple
 
 > [!IMPORTANT]
-> # 47: Start R4D
+> # 47: 📜 Start R4D
 > - Complete the subquests in this order:
-> - [ ] Mountain Dwarf
-> - [ ] Pirate Pete<br>
+> - [ ] 📜 Mountain Dwarf
+> - [ ] 📜 Pirate Pete<br>
 > 	- Must weigh less than 27kg <sub>(bank d hide body, chaps, coif, and acumulator)</sub><br>
 >	- Must bank cat, cannot have it out or in your inventory
-> - [ ] Wartface and Bentnoz
-> - [ ] Evil Dave
-> - [ ] Lumbridge Guide
-> - [ ] Scratch Uglogwee
+> - [ ] 📜 Wartface and Bentnoz
+> - [ ] 📜 Evil Dave
+> - [ ] 📜 Lumbridge Guide
+> - [ ] 📜 Scratch Uglogwee
 
 
 
