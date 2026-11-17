@@ -6,7 +6,8 @@
 -> 9 hours		>> accumulator gained
 -> 9 hours		>> back to questing
 -> 14 hours		>> training thieving
--> 22 hours		>> Onto money Makers
+-> 22 hours		>> Onto money Makers + slayer
+-> 100 hours	>> 2nd round of questing
 ```
 
 # 1) Build F2P starter account before buying members
