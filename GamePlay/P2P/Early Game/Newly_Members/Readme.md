@@ -13,8 +13,8 @@
 ```
 LEGEND
 	📜 = quest
+	📊 = skilling
 ```
-
 
 # 1) Build F2P starter account before buying members
 
@@ -25,7 +25,7 @@ LEGEND
 - [ ] Go to GE and purchase:
 ```
 -> x50 energy potion(4)				(20k)
--> x100 extreme energy potion(4)
+-> x50 extended stamina potion(4)
 -> "teleport" tabs for: 					(100k)
 	x30 Varrock teleport
 	x30 Falador teleport
@@ -53,7 +53,7 @@ LEGEND
 -> x2000 Runite Bolts
 ```
 
-# 3) Purchase Quest Items [$????k]
+# 4) Purchase Quest Items [$????k]
 ```
 -> x6 knife							(500)
 -> x5 spade							()
@@ -62,14 +62,14 @@ LEGEND
 -> x3 bucket						(500)
 -> x2 vial							()
 -> x3 pestle and mortar				()
--> x600 normal logs					(16.5k)
--> x300 leather					(5k)
--> x150 thread						(5k)
+-> x600 📊 normal logs					(16.5k)
+-> x300 📊 leather					(5k)
+-> x150 📊 thread						(5k)
 -> x2 needle						(500)
 -> x1 black axe
 -> x1 mithril axe					(500)
 -> x1 adamant axe					(1k)
--> x255 feathers					(500)
+-> x255 📊 feathers					(500)
 -> x10 iron bar						(2k)
 -> x2 swamp tar						(500)
 -> x50 pure essence					(1k)
@@ -79,7 +79,8 @@ LEGEND
 -> x7 rope							()
 -> x13 bread						(1k)
 -> x3 cake tin						(500)
-x3 plank						    (500)
+-> x3 plank						    (500)
+
 -> 📜 Touris Trap
 	x1 desert shirt					(500)
 	x1 desert robe					(500)
@@ -178,7 +179,6 @@ x3 plank						    (500)
 	x1 greenman's ale
 	x1 ashes
 	x1 fruit blast
-	x1 rotten tomato (must buy near varrock ranged shop, south of ranged shop, north of the pub on the east side of town)
 	x2 pot of flour
 	x2 egg
 	x1 bowl of water
@@ -190,9 +190,10 @@ x3 plank						    (500)
 	x1 cake tin
 	x1 iron spit
 	x1 balls of wool
+	x1 rotten tomato (must buy near varrock ranged shop, south of ranged shop, north of the pub on the east side of town)
 ```
 
-# 4) Start Questing mainly for Accumulator & Agility levels
+# 5) Start Questing mainly for Accumulator & Agility levels
 > [!CAUTION]
 > Do these in order as the experience from one quest is needed for the next
 
@@ -211,7 +212,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 3: 📜 The Tourist Trap
-> - [ ] Use both lamps on Agility
+> - [ ] Use both 📊 lamps on Agility
 > - On Complete drop:
 > 	-> keys
 >   -> dart
@@ -249,7 +250,18 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > 	-> book
 
 > [!IMPORTANT]
-> # 7: 📜 Witch's House <sup>(R4d Prereq)</sup>
+> # 7: 📜 Druidic Ritual & 📜 Witch's House <sup>(R4d Prereq)</sup>
+> - [ ] Bring in your inventory:
+> 	- x6 cheese
+>  	- x1 leather gloves (wear)
+>  	- x1 raw bear meat
+>  	- x1 raw rat meat
+>  	- x1 raw beef
+>  	- x1 raw chicken
+> - [ ] Teleport to falador and run north through members gate
+> - [ ] Start & Complete Druidic Ritual
+> - [ ] Start & Complete Witch's House
+
 ```
 	-> update to "witches house & Druidic Ritual"
 	-> bring all items needed for both
@@ -358,7 +370,7 @@ waterall quest
 > - [ ] Collect x4 Camel dung for future quests <sup>bring x4 empty bucket</sup>
 
 > [!IMPORTANT]
-> # 22: Get 19 Crafting
+> # 22: 📊 Get 19 Crafting
 > ```
 > -> make one leather boot
 > -> make cowls to level 11
@@ -368,7 +380,7 @@ waterall quest
 > ```
 
 > [!IMPORTANT]
-> # 12: Complete Firemaking Training
+> # 12: 📊 Get 50 Firemaking
 > - burn normal logs 		[to lvl 15]
 > - burn 175 oak logs       [to lvl 29]
 > - burn 100 willow logs 	[to lvl 35]
@@ -380,6 +392,11 @@ waterall quest
 > # 23: 📜 The Giant Dwarf
 > - Crafting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 
+> [!IMPORTANT]
+> # 24: 📜 Tears of Guthix
+> - Crafting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
+> - Access to tears minigame which gives free xp to lowest stat
+> - [ ] Start doing this minigame once a day<sup> (use games necklace to teleport)</sup>
 
 > [!IMPORTANT]
 > # 25: 📜 Ribbiting Tale of Lily Pad 
@@ -396,11 +413,11 @@ waterall quest
 > - [ ] Withdraw Linen
 
 > [!IMPORTANT]
-> # 11: Get 10 Fletching
+> # 11: 📊 Get 10 Fletching
 > - make shafts to level 10 (logs + knife)
 
 > [!IMPORTANT]
-> # 28: Get 35 Woodcutting <sup>(Animal Magnetism & Lost City Prereq)</sup>
+> # 28: 📊 Get 35 Woodcutting <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - [ ] cut oak logs till level 35
 > - [ ] Withdraw all axes so you automatically use the best axe
 > 	-> black axe
@@ -478,7 +495,7 @@ waterall quest
 > # 39: 📜 Fishing Contest <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
-> # 40:📜  Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
+> # 40:📜 Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
 > - NOTE keep the following items:
 > - [ ] Use all 14 wolf bones for arrow tips
 > - [ ] Make ~50 arrows
@@ -492,6 +509,17 @@ waterall quest
 > - Agility xp
 
 > [!IMPORTANT]
+> # 43: 📊 Get 52 Agility
+> - <sup>Once you are 52 you can start doing wilderness agility masses inside `agility fc` friends chat</sup>
+> - [ ] Go to Brimhaven Agility Course<sup>Karmja glory teleport then west</sup>
+> - ~2 hours and 15 minutes
+> - [ ] Get 100 tickets <sup>should be at level 48 agility</sup>
+> - [ ] Use all tickets to get to 52
+> - TIP: Spam traps near ticket dispensary while you wait for the dispenser to change
+> - [ ] Spam Spike Trap (ideal) <sup>you can click off screen in the "mountains" to keep jumping over infinitately </sup>
+> - [ ] Spinning Trap <sup>fallback if no spike trap</sup>
+
+> [!IMPORTANT]
 > # 43: 📜 Shadow of the Storm <sup>(R4D Prereq)</sup>
 > - [ ] Bring x2 Waterskins
 > - [ ] when you go past alkarid bank start this quest by tlaking to Father Reen who is at the bank in al karihd
@@ -500,7 +528,7 @@ waterall quest
 > # 44: 📜 The Dig Site <sup>(R4D & DT1 Prereq)</sup>
 
 > [!IMPORTANT]
-> # 45: Get 48 Thieving
+> # 45: 📊 Get 48 Thieving
 > - steal from the Hosidius fruit stalls <sup>by woodcutting guild</sup>
 >	- [ ] Use skills necklace tele
 > 	- [ ] Stay at one stall, drop your item immediately, wait for respone 
@@ -522,6 +550,39 @@ waterall quest
 > - [ ] 📜 Evil Dave
 > - [ ] 📜 Lumbridge Guide
 > - [ ] 📜 Scratch Uglogwee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+
+
 
 
 
