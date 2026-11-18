@@ -65,6 +65,11 @@ LEGEND
 -> x600 📊 normal logs					(16.5k)
 -> x300 📊 leather					(5k)
 -> x150 📊 thread						(5k)
+-> x175 📊 oak logs
+-> x100 📊 willow logs
+-> x220 📊 teak logs
+-> x130 📊 arctic pine logs
+-> x250 📊 maple logs
 -> x2 needle						(500)
 -> x1 black axe
 -> x1 mithril axe					(500)
@@ -213,10 +218,10 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > [!IMPORTANT]
 > # 3: 📜 The Tourist Trap
 > - [ ] Use both 📊 lamps on Agility
-> - On Complete drop:
-> 	-> keys
->   -> dart
->   -> shantay pass
+> - On Complete drop:<br>
+> 	-> keys<br>
+>   -> dart<br>
+>   -> shantay pass<br>
 >   -> slave gear
 
 > [!IMPORTANT]
@@ -225,18 +230,18 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Attack xp (18,400)
 > - [ ] Teleport to Ardy then run south west to gnome strongold
 > - [ ] Alternatively go to GE then northeast to use Spirit Tree Travel
-> - When completed drop:
-> 	-> All scrolls
->   -> All books
+> - When completed drop:<br>
+> 	-> All scrolls<br>
+>   -> All books<br>
 >   -> key
 
 > [!IMPORTANT]
 > # 5: 📜 Client of Kourend <sup>(Depths of Despair prereq)</sup>
 > - Slayer XP <sup>(Animal Magnetism Prereq)</sup>
-> - [ ] Teleport to fally
->	-> Bank at west bank
->	-> south to port
-> - [ ] After completion drop:
+> - [ ] Teleport to fally<Br>
+>	-> Bank at west bank<br>
+>	-> south to port<br>
+> - [ ] After completion drop:<br>
 > 	-> broken glass
 
 > [!IMPORTANT]
@@ -246,7 +251,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - [ ] grab tele tabs
 > - [ ] 4 food
 > - [ ] 8 energy potions
-> - [ ] When completed drop:
+> - [ ] When completed drop:<br>
 > 	-> book
 
 > [!IMPORTANT]
@@ -326,11 +331,6 @@ waterall quest
 > - Unlocks Cannon
 > - Crafting xp <sup>(Animal Magnetism & Lost City Prereq)</sup>
 
-
-> [!IMPORTANT]
-> # 13: 📜 Druidic Ritual <sup>(R4D prereq)</sup>
-> - Unlocks Herblore
-
 > [!IMPORTANT]
 > # 14: 📜 Death Plateau <sup>(R4D Prereq)</sup>
 > - Unlocks Climbing Boots, best in slot cheap boots 
@@ -371,22 +371,20 @@ waterall quest
 
 > [!IMPORTANT]
 > # 22: 📊 Get 19 Crafting
-> ```
-> -> make one leather boot
-> -> make cowls to level 11
-> -> make vambraces till 14
-> -> make bodies to level 18
-> -> make chaps till 26
-> ```
+> - [ ] make one leather boot
+> - [ ] make cowls to level 11
+> - [ ] make vambraces till 14
+> - [ ] make bodies to level 18
+> - [ ] make chaps till 26
 
 > [!IMPORTANT]
 > # 12: 📊 Get 50 Firemaking
-> - burn normal logs 		[to lvl 15]
-> - burn 175 oak logs       [to lvl 29]
-> - burn 100 willow logs 	[to lvl 35]
-> - burn 220 teak			[to lvl 42]
-> - burn 130 arctic pine	[to lvl 45]
-> - burn 250 maple		    [to lvl 50]
+> - [ ] burn normal logs 		[to lvl 15]
+> - [ ] burn 175 oak logs       [to lvl 29]
+> - [ ] burn 100 willow logs 	[to lvl 35]
+> - [ ] burn 220 teak			[to lvl 42]
+> - [ ] burn 130 arctic pine	[to lvl 45]
+> - [ ] burn 250 maple		    [to lvl 50]
 
 > [!IMPORTANT]
 > # 23: 📜 The Giant Dwarf
@@ -419,10 +417,10 @@ waterall quest
 > [!IMPORTANT]
 > # 28: 📊 Get 35 Woodcutting <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - [ ] cut oak logs till level 35
-> - [ ] Withdraw all axes so you automatically use the best axe
-> 	-> black axe
->	-> mithril axe
->	-> adamant axe
+> - [ ] Withdraw all axes so you automatically use the best axe<br>
+> 	-> black axe<br>
+>	-> mithril axe<br>
+>	-> adamant axe<br>
 
 > [!IMPORTANT]
 > # 29: 📜 Porcine of Interest
@@ -482,9 +480,9 @@ waterall quest
 > [!IMPORTANT]
 > # 37: 📜 Lost City <sup>(R4D Prereq)</sup>
 > - Unlocks ability to wield Dragon Weapons
-> - [ ] When you are told to bank everything:
-> 		- Add food to your invy (you will fight monsters with no armor)
->		- Add RUNES to kill level 25s and 101 (bring best spell you can) <sup>you can safespot them</sup>
+> - [ ] When you are told to bank everything:<Br>
+> 		- Add food to your invy (you will fight monsters with no armor)<br>
+>		- Add RUNES to kill level 25s and 101 (bring best spell you can) <sup>you can safespot them</sup><br>
 > - [ ] After you kill the spirit , chop down the tree and get *4 dramen branches* which we will use for future quests <sup>(RFD & MM2)</sup>
 
 > [!IMPORTANT]
@@ -707,7 +705,7 @@ STARTER:
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
 
-After you have money for a few bonds start slayer
+SLAYER
 
 ```
 SLAYER MASTERS:
@@ -723,7 +721,31 @@ SLAYER MASTERS:
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
 
-# 6) Finish mid game
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+.
+
+
+
+
+
+
+NOTES
+
+
 ```
 -> mage arena i				>> god cape
 	60 mage
@@ -734,28 +756,6 @@ SLAYER MASTERS:
 -> [The Camule teleport] Enakhra's Lament → Camulet
 -> wilderness diaries for wilderness boss access??
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-NOTES
-
 
 ```
 "70+ ranged @ kuraks (big green monkey looking thing) 1m+ an hour"
