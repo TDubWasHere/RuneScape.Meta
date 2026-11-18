@@ -570,7 +570,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 >### 2) join a wilderness agility mass any time you are playing and they are running
 
 >[!NOTE]
->### 3) Keep this cycle up until 65 slayer
+>### 3) Keep this cycle up until around 60-65 slayer
 
 
 ---------------------------------------------------------------------------------------------
