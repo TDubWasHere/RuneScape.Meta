@@ -234,7 +234,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > [!IMPORTANT]
 > # 3: 📜 The Tourist Trap
 > - [ ] Use both 📊 lamps on Agility
-> - When completed drop::<br>
+> - When completed drop:<br>
 > 	-> keys<br>
 >   -> dart<br>
 >   -> shantay pass<br>
@@ -323,7 +323,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - [ ] **Resume 📜 dwarf cannon**<br>
 >	- STOP after fixing the cannon
 > - [ ] **Complete 📜 waterfall quest**
-> - [ ] Drop:<br>
+> - [ ] When completed drop:<br>
 >	- key<br>
 >	- urn<br>
 >	- pebble
@@ -502,7 +502,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 39: Complete 📜 Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
 > - [ ] Use all 14 wolf bones for arrow tips
 > - [ ] Make ~50 arrows
-> - [ ] Make sure you keep:<br>
+> - [ ] Make sure you **keep**:<br>
 >	- bellow<br>
 > 	- bow<br>
 > 	- arrows
@@ -528,7 +528,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > [!IMPORTANT]
 > # 43: Complete 📜 Shadow of the Storm <sup>(R4D Prereq)</sup>
 > - [ ] Bring x2 Waterskins
-> - [ ] when you go past alkarid bank start this quest by tlaking to Father Reen who is at the bank in al karihd
+> - [ ] when you go past alkarid bank start this quest by talking to Father Reen who is at the bank in al karihd
 
 > [!IMPORTANT]
 > # 44: Complete 📜 The Dig Site <sup>(R4D & DT1 Prereq)</sup>
@@ -713,7 +713,7 @@ STARTER:
 ---------------------------------------------------------------------------------------------
 
 >[!TIP]
-> Rec Caves
+> Rev Caves
 ```
 rev caves (dragon level 135)
 https://www.youtube.com/watch?v=AwclIKUTMPo
