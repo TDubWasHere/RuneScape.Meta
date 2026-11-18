@@ -601,7 +601,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 >[!TIP]
 > ## Green Dragons
-> ```
+```
 for green dragons level 79
 	-> weakness (50%) to water spells
 	-> 23 wilderness
@@ -630,13 +630,12 @@ for green dragons level 79
 	-> bring 20 blighted mantarays per invy (you will eat them)
 	-> longer banking but 3 spawns
 	-> ring of dueling -> ferox >> run west till dragons
-> ```
+```
 
 ---------------------------------------------------------------------------------------------
 
 >[!TIP]
 > ## Blue Dragons
-> ```
 ```
 for blue dragons w\ cannon
 	-> tal teklan
@@ -665,13 +664,12 @@ HOW TO GET TO tal teklan
 			-> or teleport to varrock and run west outside of the walls to the bird and travel to civitas
 		-> run west till you see two travel birds
 		-> find Renu and travel to tal teklan (middle left)
-> ```
+```
 
 ---------------------------------------------------------------------------------------------
 
 >[!TIP]
 > ## Lava Dragons
-> ```
 ```
 lava dragons
 
@@ -702,7 +700,24 @@ STARTER:
 	occult necklace
 	wizard boots
 	pestle and mortar to crush lava scales
-> ```
+```
+
+---------------------------------------------------------------------------------------------
+
+>[!TIP]
+> Rec Caves
+```
+rev caves (dragon level 135)
+https://www.youtube.com/watch?v=AwclIKUTMPo
+	-> consider getting 50 hunter for the crossbow
+	-> bracelet of ether
+		-> toggle absorbtion
+	-> must have range & mage defense bonus higher than melee 
+		>> this will make the rev want to melee you
+	-> use rev teleport
+	-> enter cave
+	-> run south
+```
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
@@ -756,33 +771,13 @@ SLAYER MASTERS:
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
-
----------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------
-
-```
-rev caves (dragon level 135)
-https://www.youtube.com/watch?v=AwclIKUTMPo
-	-> consider getting 50 hunter for the crossbow
-	-> bracelet of ether
-		-> toggle absorbtion
-	-> must have range & mage defense bonus higher than melee 
-		>> this will make the rev want to melee you
-	-> use rev teleport
-	-> enter cave
-	-> run south
-```
-
----------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------
-
-
-
-
+.
+.
+.
+.
+.
+.
 NOTES
-
 
 ```
 -> mage arena i				>> god cape
@@ -793,8 +788,6 @@ NOTES
 -> [The Ectophial teleport] Ghosts Ahoy → Ectophial
 -> [The Camule teleport] Enakhra's Lament → Camulet
 -> wilderness diaries for wilderness boss access??
-```
 
-```
 "70+ ranged @ kuraks (big green monkey looking thing) 1m+ an hour"
 ```
