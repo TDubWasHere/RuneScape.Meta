@@ -234,7 +234,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > [!IMPORTANT]
 > # 3: 📜 The Tourist Trap
 > - [ ] Use both 📊 lamps on Agility
-> - On Complete drop:<br>
+> - When completed drop::<br>
 > 	-> keys<br>
 >   -> dart<br>
 >   -> shantay pass<br>
@@ -257,7 +257,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - [ ] Teleport to fally<Br>
 >	-> Bank at west bank<br>
 >	-> south to port<br>
-> - [ ] After completion drop:<br>
+> - [ ] When completed drop:<br>
 > 	-> broken glass
 
 > [!IMPORTANT]
@@ -285,7 +285,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - [ ] Teleport to falador and run north through members gate
 > - [ ] Start & **Complete 📜 Druidic Ritual**
 > - [ ] Start & **Complete 📜 Witch's House**
-> - When Finished with both quests drop:<br>
+> - [ ] When completed drop:<br>
 >	-> any extra cheese left<br>
 >	-> diary<br>
 >   -> both keys
@@ -500,10 +500,12 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 39: Complete 📜 Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
-> - NOTE keep the following items:
 > - [ ] Use all 14 wolf bones for arrow tips
 > - [ ] Make ~50 arrows
-> - [ ] Keep bellow, bow, and arrows after quest completion
+> - [ ] Make sure you keep:<br>
+>	- bellow<br>
+> 	- bow<br>
+> 	- arrows
 
 > [!IMPORTANT]
 > # 40: Complete 📜 BioHazard <sup>(R4D Prereq)</sup>
@@ -514,9 +516,9 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 42: 📊 Get 52 Agility
+> <sup>Once you are 52 you can start doing wilderness agility masses inside `agility fc` friends chat</sup>
 > - ~2 hours and 15 minutes
-> - <sup>Once you are 52 you can start doing wilderness agility masses inside `agility fc` friends chat</sup>
-> - [ ] Go to Brimhaven Agility Course<sup>Karmja glory teleport then west</sup>
+> - [ ] Go to Brimhaven Agility Course <sup>Karmja glory teleport then west</sup>
 > - [ ] Get 100 tickets <sup>should be at level 48 agility</sup>
 > - [ ] Use all tickets to get to 52
 > - TIP: Spam traps near ticket dispensary while you wait for the dispenser to change
@@ -561,9 +563,15 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 # 5) Make Money & Train Slayer
 
-## 1) cycle between training slayer and making money methods <sup>see below</sup><br>
-## 2) join a wilderness agility mass any time you are playing and they are running<Br>
-## 3) Keep this cycle up until 65 slayer
+>[!NOTE]
+>### 1) cycle between training slayer and making money methods <sup>see below</sup>
+
+>[!NOTE]
+>### 2) join a wilderness agility mass any time you are playing and they are running
+
+>[!NOTE]
+>### 3) Keep this cycle up until 65 slayer
+
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
@@ -771,12 +779,12 @@ SLAYER MASTERS:
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
-.
-.
-.
-.
-.
-.
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
 NOTES
 
 ```
