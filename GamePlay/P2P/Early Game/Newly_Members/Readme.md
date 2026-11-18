@@ -283,8 +283,8 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 >  	- x1 raw beef
 >  	- x1 raw chicken
 > - [ ] Teleport to falador and run north through members gate
-> - [ ] Start & Complete 📜 Druidic Ritual
-> - [ ] Start & Complete 📜 Witch's House
+> - [ ] Start & **Complete 📜 Druidic Ritual**
+> - [ ] Start & **Complete 📜 Witch's House**
 > - When Finished with both quests drop:<br>
 >	-> any extra cheese left<br>
 >	-> diary<br>
@@ -303,14 +303,14 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > 	- x3 camelot teleport
 > 	- x10 manta ray
 > - [ ] use skills necklace to teleport to fishing guild
-> - [ ] Run northwest, Start 📜 Dwarf Cannon by talking to Captain Lawgof<br>
+> - [ ] Run northwest, **Start 📜 Dwarf Cannon** by talking to Captain Lawgof<br>
 > 	- STOP quest line after giving goblin remains to captain lawgof
-> - [ ] Start 📜 Waterfall Quest, run northwest <br>
+> - [ ] **Start 📜 Waterfall Quest**, run northwest <br>
 > 	- STOP quest after you are done with the trap door in the gnome maze
 > - [ ] Go up the ladder and squeeze through loose railing
-> - [ ] Complete 📜 Tree Gnome Village by talking to King Bolren
-> - [ ] Complete 📜 Monks Friend
-> - [ ] Complete 📜 Fight Arena
+> - [ ] **Complete 📜 Tree Gnome Village** by talking to King Bolren
+> - [ ] **Complete 📜 Monks Friend**
+> - [ ] **Complete 📜 Fight Arena**
 > - [ ] Use Camelote teleport run west to seers bank
 > - [ ] Bank everything (including gear) except:<br>
 >	- pebble<br>
@@ -320,9 +320,9 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 >	- x1 rope<br>
 >	- x5 camelot teleport<br>
 >	- x1 skills necklace<br>
-> - [ ] Resume 📜 dwarf cannon<br>
+> - [ ] **Resume 📜 dwarf cannon**<br>
 >	- STOP after fixing the cannon
-> - [ ] Complete 📜 waterfall quest
+> - [ ] **Complete 📜 waterfall quest**
 > - [ ] Drop:<br>
 >	- key<br>
 >	- urn<br>
@@ -514,14 +514,14 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 42: 📊 Get 52 Agility
+> - ~2 hours and 15 minutes
 > - <sup>Once you are 52 you can start doing wilderness agility masses inside `agility fc` friends chat</sup>
 > - [ ] Go to Brimhaven Agility Course<sup>Karmja glory teleport then west</sup>
-> - ~2 hours and 15 minutes
 > - [ ] Get 100 tickets <sup>should be at level 48 agility</sup>
 > - [ ] Use all tickets to get to 52
 > - TIP: Spam traps near ticket dispensary while you wait for the dispenser to change
-> - [ ] Spam Spike Trap (ideal) <sup>you can click off screen in the "mountains" to keep jumping over infinitately </sup>
-> - [ ] Spinning Trap <sup>fallback if no spike trap</sup>
+> 	- [ ] Spike Trap (ideal) <sup>you can click off screen in the "mountains" to keep jumping over infinitately </sup>
+> 	- [ ] Spinning Trap <sup>fallback if no spike trap</sup>
 
 > [!IMPORTANT]
 > # 43: Complete 📜 Shadow of the Storm <sup>(R4D Prereq)</sup>
@@ -560,10 +560,10 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 ---------------------------------------------------------------------------------------------
 
 # 5) Make Money & Train Slayer
--> cycle between training slayer and making money<br>
--> you should join a wilderness agility mass any time you are playing and they are running<Br>
--> See Money maker methods below<br>
--> Keep this cycle up until 65 slayer
+
+## 1) cycle between training slayer and making money methods <sup>see below</sup><br>
+## 2) join a wilderness agility mass any time you are playing and they are running<Br>
+## 3) Keep this cycle up until 65 slayer
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
