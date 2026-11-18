@@ -589,7 +589,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 >[!TIP]
 > ## [Wilderness Agility Course Massing](https://oldschool.runescape.wiki/w/Guide:Agility_FC)
-> **Join every mass you can until ~80 agility**<br>
+> **Join every mass you can for quickest immediate money maker/bond money**<br>
 > 💸💸 1.5m-4m an hour <sup>with 61+ streak</sup> 💸💸<br>
 > - [ ] Join "Agility FC" [discord](https://discord.com/invite/agilityfc) and friends chat (in game)
 > 	- read #rules. Discord explains gear, technique, goal, how to join, etc
