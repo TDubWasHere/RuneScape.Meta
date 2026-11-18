@@ -18,8 +18,16 @@ LEGEND
 
 # 1) Build F2P starter account before buying members
 
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+
 # 2) 📜 Children of The Sun
 > - When going to GE finish this quest in varrock square
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 
 # 3) Quality Of Life Upgrade [$???k<sup>/$???m for rich setup</sup>]
 - [ ] Go to GE and purchase:
@@ -52,6 +60,10 @@ LEGEND
 -> x200 Dragonstone bolts (e) 				(80k)
 -> x2000 Runite Bolts
 ```
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 
 # 4) Purchase Quest Items [$????k]
 ```
@@ -198,6 +210,10 @@ LEGEND
 	x1 rotten tomato (must buy near varrock ranged shop, south of ranged shop, north of the pub on the east side of town)
 ```
 
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+
 # 5) Start Questing mainly for Accumulator & Agility levels
 > [!CAUTION]
 > Do these in order as the experience from one quest is needed for the next
@@ -257,6 +273,9 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > [!IMPORTANT]
 > # 7: 📜 Druidic Ritual & 📜 Witch's House <sup>(R4d Prereq)</sup>
 > - [ ] Bring in your inventory:
+> 	- x2 falador teleport
+>   - x2 camelot teleport
+>   - x1 extended energy potion
 > 	- x6 cheese
 >  	- x1 leather gloves (wear)
 >  	- x1 raw bear meat
@@ -266,106 +285,94 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - [ ] Teleport to falador and run north through members gate
 > - [ ] Start & Complete Druidic Ritual
 > - [ ] Start & Complete Witch's House
+> - When Finished with both quests drop:<br>
+>	-> any extra cheese lef<br>
+>	-> diary
+>   -> both keys
 
-```
-	-> update to "witches house & Druidic Ritual"
-	-> bring all items needed for both
-		-> do druidic ritual first
-		-> then witches house
-	-> add 4 energy potions
-	-> teleport to falador run north
-	-> drop:
-		-> extra cheese
-		-> diary
-		-> both keys
-```
 
 > [!IMPORTANT]
-> # 8: 📜 Waterfall Quest <sup>(R4D Prereq)</sup>
-> - Great Attack & Strength XP (13,750)
-```
-waterall quest
-	-> get 8 energy potions
-	-> get 7 logs
-	-> jug of water
-	-> best ranged gear
-	-> teleport to camelot run east to seers bank, get quest items and go
-	
-	-> When running north to talk to XXXX 
-		-> start 📜 Drwaft Cannon by talking to Captain Lawgof
-			-> STOP after giving goblin remains to Captain Lawgof
-		-> resume 📜 Waterfall quest
-	-> When doing down gnome village ladder
-		-> After you are done
-		-> Go back up ladder
-		-> Keep running past and sqeeze through loose railing
-		-> start & finish 📜 Tree Gnome Village by talking to King Bolren
-	
-	-> Start & Complete 📜 monks friend
-	-> Start & Complete 📜 Fight Arena
-	
-	-> use camelote teleport to get out of gnome village
-		-> bank everything but:
-			-> pebble
-			-> 4 energy potions
-			-> 12 food
-			-> 6 air, water, earth runes
-			-> rope
-			-> teletabs
-	-> resume 📜 dwarf cannon when running by fishing guild
-		-> STOP after fixing the cannon
-		-> resume 📜 waterfall quest
-	-> on completion drop:
-		-> key
-		-> urn
-		-> pebble
-```
+> # 8: Combining a few Quest in one for tons of XP and prereqs
+> - [ ] Use Camelot teleport and run west to seers bank
+> - [ ] Equip best ranged gear be prepared for combat
+> - [ ] Bring in your inventory:<br>
+> 	- x1 skills necklace (will be using fishing guild teleport)
+> 	- x2 extended stamina potion<br>
+> 	- x7 logs<br>
+>	- x1 jug of water
+> 	- x3 camelot teleport
+> 	- x10 manta ray
+> - [ ] use skills necklace to teleport to fishing guild
+> - [ ] Run northwest, Start 📜 Dwarf Cannon by talking to Captain Lawgof
+> 	-> STOP quest line after giving goblin remains to captain lawgof
+> - [ ] Start 📜 Waterfall Quest, run northwest 
+> 	- STOP quest after you are done with the trap door in the gnome maze
+> - [ ] Go up the ladder and squeeze through loose railing
+> - [ ] Complete 📜 Tree Gnome Village by talking to King Bolren
+> - [ ] Complete 📜 Monks Friend
+> - [ ] Complete 📜 Fight Arena
+> - [ ] Use Camelote teleport run west to seers bank
+> - [ ] Bank everything (including gear) except:<br>
+>	-> pebble<br>
+>	-> x1 extended energy potion<br>
+>	-> x12 manta ray food<br>
+>	-> x6 air, water, & earth runes<br>
+>	-> x1 rope<br>
+>	-> x5 camelot teleport<br>
+>	-> x1 skills necklace<br>
+> - [ ] Resume 📜 dwarf cannon<br>
+>	-> STOP after fixing the cannon
+> - [ ] Complete 📜 waterfall quest
+> - [ ] Drop:<br>
+>	- key<br>
+>	- urn<br>
+>	- pebble
 
 > [!IMPORTANT]
-> # 9: 📜 Tree Gnome Village <sup>(Monkey Madness Prereq)</sup>
+> # 9: Complete 📜 Tree Gnome Village <sup>(Monkey Madness Prereq)</sup>
 > - Unlocks spirit trees for navigation
 > - Good Attack XP (11,450)
 
 > [!IMPORTANT]
-> # 10: Resume & Complete 📜 Dwarf Cannon
+> # 10: Complete 📜 Dwarf Cannon
 > - Unlocks Cannon
 > - Crafting xp <sup>(Animal Magnetism & Lost City Prereq)</sup>
 
 > [!IMPORTANT]
-> # 14: 📜 Death Plateau <sup>(R4D Prereq)</sup>
+> # 14: Complete 📜 Death Plateau <sup>(R4D Prereq)</sup>
 > - Unlocks Climbing Boots, best in slot cheap boots 
 
 > [!IMPORTANT]
-> # 15: 📜 Troll Stronghold <sup>(DT1 Prereq)</sup>
+> # 15: Complete 📜 Troll Stronghold <sup>(DT1 Prereq)</sup>
 > - Unlocks access to Godwars
 > - Troll romance prereq
 > - [ ] Do not drop Glarial's Pebble
 
 > [!IMPORTANT]
-> # 16: 📜 Troll Romance
+> # 16: Complete 📜 Troll Romance
 > - Agility XP
 > - [ ] Bring food for this quest
 
 > [!IMPORTANT]
-> # 17: 📜 Gertrude's Cat <sup>(R4D Prereq)</sup>
+> # 17: Complete 📜 Gertrude's Cat <sup>(R4D Prereq)</sup>
 > - Woodcutting xp <sup>(Animal Magnatism & Lost City Prereq)</sup>
 > - NOTE Start growing a cat for future quest
 > 	- West varrock talk to Gertrude in her house
 >   - Give your cat raw sardines to keep it fed  
 
-> [!IMPORTANT]
-> # 18: 📜 Priest in peril <sup>(Animal magnetism & R4D Prereq)</sup>
+> [!CAUTION]
+> # 18: Complete 📜 Priest in peril <sup>(Animal magnetism & R4D Prereq)</sup>
 > - **WARNING** Gives 1406 Prayer XP
 
 
 > [!IMPORTANT]
-> # 20: 📜 Death on the Isle
+> # 20: Complete 📜 Death on the Isle
 > - Agility xp
 > - Crafting xp <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - Thieving XP <sup>(DT1 Prereq)</sup>
 
 > [!IMPORTANT]
-> # 21: 📜 The Fued
+> # 21: Complete 📜 The Fued
 > - Thieving XP <sup>(DT1 Prereq)</sup>
 > - [ ] Collect x4 Camel dung for future quests <sup>bring x4 empty bucket</sup>
 
@@ -387,24 +394,24 @@ waterall quest
 > - [ ] burn 250 maple		    [to lvl 50]
 
 > [!IMPORTANT]
-> # 23: 📜 The Giant Dwarf
+> # 23: Complete 📜 The Giant Dwarf
 > - Crafting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 
 > [!IMPORTANT]
-> # 24: 📜 Tears of Guthix
+> # 24: Complete 📜 Tears of Guthix
 > - Crafting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - Access to tears minigame which gives free xp to lowest stat
 > - [ ] Start doing this minigame once a day<sup> (use games necklace to teleport)</sup>
 
 > [!IMPORTANT]
-> # 25: 📜 Ribbiting Tale of Lily Pad 
+> # 25: Complete 📜 Ribbiting Tale of Lily Pad 
 > - Woodcutting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - [ ] Withdraw black axe
 > - [ ] withdraw 3 sardines
 > - [ ] Chop down normal trees to 15 WC right before talking to Marcellus
 
 > [!IMPORTANT]
-> # 26: 📜 Icthlarin's Little Helper
+> # 26: Complete 📜 Icthlarin's Little Helper
 > - Woodcutting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - Agility XP
 > - [ ] Withdraw Bag of Salt
@@ -412,7 +419,7 @@ waterall quest
 
 > [!IMPORTANT]
 > # 11: 📊 Get 10 Fletching
-> - make shafts to level 10 (logs + knife)
+> - [ ] make shafts to level 10 (logs + knife)
 
 > [!IMPORTANT]
 > # 28: 📊 Get 35 Woodcutting <sup>(Animal Magnetism & Lost City Prereq)</sup>
@@ -423,7 +430,7 @@ waterall quest
 >	-> adamant axe<br>
 
 > [!IMPORTANT]
-> # 29: 📜 Porcine of Interest
+> # 29: Complete 📜 Porcine of Interest
 > - Slayer xp <sup>(Animal Magnetism Prereq)</sup>
 
 > [!IMPORTANT]
@@ -433,7 +440,7 @@ waterall quest
 > - Located in Varrock Museum (north of the east bank)
 
 > [!IMPORTANT]
-> # 31: 📜 Animal Magnetism
+> # 31: Complete 📜 Animal Magnetism
 > - Unlocks Accumulator
 > - For x20 Eco-tokens bring in your invy:
 > 	- [ ] x4 Bones
@@ -447,38 +454,37 @@ waterall quest
 > - There is a RuneLite quest help for this, search barcrawl
 
 > [!IMPORTANT]
-> # 33: 📜 Horror from the Deep <sup>(R4D Prereq)</sup>
+> # 33: Complete 📜 Horror from the Deep <sup>(R4D Prereq)</sup>
 > - Unlocks godbook for mage bonus
 
 > [!IMPORTANT]
-> # 34: 📜 Murder Mystery <sup>(R4D Prereq)</sup>
+> # 34: Complete 📜 Murder Mystery <sup>(R4D Prereq)</sup>
 > - Crafting XP <sup>(Lost City Prereq)</sup>
 
 > [!Tip]
-> # 35: 📜 Nature Spirit <sup>(R4D Prereq)</sup>
+> # 35: Complete 📜 Nature Spirit <sup>(R4D Prereq)</sup>
 > - [WARNING] Gives 2k def xp
 > - Crafting xp <sup>(Lost City Prereq)</sup>
 
 > [!Tip]
-> # 35: 📜 Haunted Mine
+> # 35: Complete 📜 Haunted Mine
 > - Strength xp (22,000)
 > - [ ] Use Mort'tron teleport
 
-> [!Tip]
-> # 27: 📜 Dragon Slayer <sup>(R4D Prereq)</sup>
-> - Note gives 18k def xp
-> - Only do if you want def XP otherwise skip
+> [!CAUTION]
+> # 27: Complete 📜 Dragon Slayer <sup>(R4D Prereq)</sup>
+> - WARNING gives 18k def xp
 > - Ability to wear rune pl8 and dragonhide body
 > - Ability to be assigned Slayer Tasks for slayer skill
 
 > [!IMPORTANT]
-> # 36: 📜 The Golem
+> # 36: Complete 📜 The Golem
 > - Crafting XP <sup>(Lost City Prereq)</sup>
 > - Thieving XP <sup>(R4D Prereq)</sup>
 > - [ ] Use Necklace of Passage teleport "Eagle's Eyrie"
 
 > [!IMPORTANT]
-> # 37: 📜 Lost City <sup>(R4D Prereq)</sup>
+> # 37: Complete 📜 Lost City <sup>(R4D Prereq)</sup>
 > - Unlocks ability to wield Dragon Weapons
 > - [ ] When you are told to bank everything:<Br>
 > 		- Add food to your invy (you will fight monsters with no armor)<br>
@@ -486,24 +492,24 @@ waterall quest
 > - [ ] After you kill the spirit , chop down the tree and get *4 dramen branches* which we will use for future quests <sup>(RFD & MM2)</sup>
 
 > [!IMPORTANT]
-> # 38: 📜 Sea slug
+> # 38: Complete 📜 Sea slug
 > - Fishing xp <sup>(fishing contest prereq)</sup>
 
 > [!IMPORTANT]
-> # 39: 📜 Fishing Contest <sup>(R4D Prereq)</sup>
+> # 39: Complete 📜 Fishing Contest <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
-> # 40:📜 Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
+> # 40: Complete 📜 Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
 > - NOTE keep the following items:
 > - [ ] Use all 14 wolf bones for arrow tips
 > - [ ] Make ~50 arrows
 > - [ ] Keep bellow, bow, and arrows after quest completion
 
 > [!IMPORTANT]
-> # 41: 📜 BioHazard <sup>(R4D Prereq)</sup>
+> # 41: Complete 📜 BioHazard <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
-> # 42: 📜 Underground Pass <sup>(R4D Prereq)</sup>
+> # 42: Complete 📜 Underground Pass <sup>(R4D Prereq)</sup>
 > - Agility xp
 
 > [!IMPORTANT]
@@ -518,12 +524,12 @@ waterall quest
 > - [ ] Spinning Trap <sup>fallback if no spike trap</sup>
 
 > [!IMPORTANT]
-> # 43: 📜 Shadow of the Storm <sup>(R4D Prereq)</sup>
+> # 43: Complete 📜 Shadow of the Storm <sup>(R4D Prereq)</sup>
 > - [ ] Bring x2 Waterskins
 > - [ ] when you go past alkarid bank start this quest by tlaking to Father Reen who is at the bank in al karihd
 
 > [!IMPORTANT]
-> # 44: 📜 The Dig Site <sup>(R4D & DT1 Prereq)</sup>
+> # 44: Complete 📜 The Dig Site <sup>(R4D & DT1 Prereq)</sup>
 
 > [!IMPORTANT]
 > # 45: 📊 Get 48 Thieving
@@ -532,7 +538,7 @@ waterall quest
 > 	- [ ] Stay at one stall, drop your item immediately, wait for respone 
 
 > [!IMPORTANT]
-> # 46: 📜 Temple of Ikov <sup>(R4D Prereq)</sup>
+> # 46: Complete 📜 Temple of Ikov <sup>(R4D Prereq)</sup>
 > - [ ] Do NOT bring energy potions, you need food
 > - [ ] After getting boots of lightness remove candle and tinderbox from inventory and get more food
 > - [ ] Bring magic shortbow and rune arrows w\ boots of lightness into temple
@@ -540,48 +546,31 @@ waterall quest
 > [!IMPORTANT]
 > # 47: 📜 Start R4D
 > - Complete the subquests in this order:
-> - [ ] 📜 Mountain Dwarf
-> - [ ] 📜 Pirate Pete<br>
+> - [ ] Complete 📜 Mountain Dwarf
+> - [ ] Complete 📜 Pirate Pete<br>
 > 	- Must weigh less than 27kg <sub>(bank d hide body, chaps, coif, and acumulator)</sub><br>
 >	- Must bank cat, cannot have it out or in your inventory
-> - [ ] 📜 Wartface and Bentnoz
-> - [ ] 📜 Evil Dave
-> - [ ] 📜 Lumbridge Guide
-> - [ ] 📜 Scratch Uglogwee
+> - [ ] Complete 📜 Wartface and Bentnoz
+> - [ ] Complete 📜 Evil Dave
+> - [ ] Complete 📜 Lumbridge Guide
+> - [ ] Complete 📜 Scratch Uglogwee
 
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 
+# 5) Make Money & Train Slayer
+-> cycle between training slayer and making money
+-> you should join a wilderness agility mass any time you are playing and they are running
+-> See Money maker methods below
+-> Keep this cycle up until 65 slayer
 
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-...
-
-
-
-
+# 6) Mid Game Questing
+	todo yo
 
 
 ---------------------------------------------------------------------------------------------
@@ -589,7 +578,78 @@ waterall quest
 ---------------------------------------------------------------------------------------------
 
 
-# 5) Now go make moneyyyyyyy
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+
+
+
+
 
 -> green dragons to build quick money & ranged xp<br>
 -> once you have some money switch to lava dragons and train mage (higher your mage the better your mage defense so even if you don't attack with mage it is useful against enemies)<br>
