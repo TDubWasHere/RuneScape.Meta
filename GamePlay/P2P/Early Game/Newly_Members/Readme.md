@@ -461,7 +461,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 31: Complete 📜 Murder Mystery <sup>(R4D Prereq)</sup>
 > - Crafting XP <sup>(Lost City Prereq)</sup>
 
-> [!Tip]
+> [!CAUTION]
 > # 32: Complete 📜 Nature Spirit <sup>(R4D Prereq)</sup>
 > - [WARNING] Gives 2k def xp
 > - Crafting xp <sup>(Lost City Prereq)</sup>
@@ -487,8 +487,8 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 36: Complete 📜 Lost City <sup>(R4D Prereq)</sup>
 > - Unlocks ability to wield Dragon Weapons
 > - [ ] When you are told to bank everything:<Br>
-> 		- Add food to your invy (you will fight monsters with no armor)<br>
->		- Add RUNES to kill level 25s and 101 (bring best spell you can) <sup>you can safespot them</sup><br>
+> 	- Add food to your invy (you will fight monsters with no armor)<br>
+>	- Add RUNES to kill level 25s and 101 (bring best spell you can) <sup>you can safespot them</sup><br>
 > - [ ] After you kill the spirit , chop down the tree and get **4 dramen branches** which we will use for future quests <sup>(RFD & MM2)</sup>
 
 > [!IMPORTANT]
@@ -546,14 +546,14 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > [!IMPORTANT]
 > # 47: 📜 Start R4D
 > - Complete the subquests in this order:
-> - [ ] Complete 📜 Mountain Dwarf
-> - [ ] Complete 📜 Pirate Pete<br>
-> 	- Must weigh less than 27kg <sub>(bank d hide body, chaps, coif, and acumulator)</sub><br>
->	- Must bank cat, cannot have it out or in your inventory
-> - [ ] Complete 📜 Wartface and Bentnoz
-> - [ ] Complete 📜 Evil Dave
-> - [ ] Complete 📜 Lumbridge Guide
-> - [ ] Complete 📜 Scratch Uglogwee
+> 	- [ ] Complete 📜 Mountain Dwarf
+> 	- [ ] Complete 📜 Pirate Pete<br>
+> 		- Must weigh less than 27kg <sub>(bank d hide body, chaps, coif, and acumulator)</sub><br>
+>		- Must bank cat, cannot have it out or in your inventory
+> 	- [ ] Complete 📜 Wartface and Bentnoz
+> 	- [ ] Complete 📜 Evil Dave
+> 	- [ ] Complete 📜 Lumbridge Guide
+> 	- [ ] Complete 📜 Scratch Uglogwee
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
@@ -581,8 +581,8 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 >[!TIP]
 > ## [Wilderness Agility Course Massing](https://oldschool.runescape.wiki/w/Guide:Agility_FC)
-> **Join every mass you can until ~80 agility**
-> 💸💸 2m+ an hour <sup>with 61+ streak</sup> 💸💸
+> **Join every mass you can until ~80 agility**<br>
+> 💸💸 2m+ an hour <sup>with 61+ streak</sup> 💸💸<br>
 > - [ ] Join "Agility FC" [discord](https://discord.com/invite/agilityfc) and friends chat (in game)
 > 	- read #rules. Discord explains gear, technique, goal, how to join, etc
 >  	- Identify yourself as a Runner/bee and monitor #bees
