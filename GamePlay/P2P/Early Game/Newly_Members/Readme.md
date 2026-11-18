@@ -466,7 +466,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - [WARNING] Gives 2k def xp
 > - Crafting xp <sup>(Lost City Prereq)</sup>
 
-> [!Tip]
+> [!IMPORTANT]
 > # 33: Complete 📜 Haunted Mine
 > - Strength xp (22,000)
 > - [ ] Use Mort'tron teleport to start quest
