@@ -568,6 +568,9 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 >[!NOTE]
 >### 2) join a wilderness agility mass any time you are playing and they are running
+> - Best immediate money maker
+> - Can sustain a bond with 4-8 hours of massing
+> - The earlier you train agility the more useful it is throughout gameplay
 
 >[!NOTE]
 >### 3) Keep this cycle up until around 60-65 slayer
