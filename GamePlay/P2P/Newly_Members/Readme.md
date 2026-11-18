@@ -252,7 +252,12 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 >   -> key
 
 > [!IMPORTANT]
-> # 5: 📜 Client of Kourend <sup>(Depths of Despair prereq)</sup>
+> # 5: Start 📜 The Eyes of Glouphrie
+> - You don't need any items we are only starting the quest
+> - [ ] Enter the cave and start the quest until the quest wants you to talk to Hazelmere in Yanille, then move onto next quests
+
+> [!IMPORTANT]
+> # 6: 📜 Client of Kourend <sup>(Depths of Despair prereq)</sup>
 > - Slayer XP <sup>(Animal Magnetism Prereq)</sup>
 > - [ ] Teleport to fally<Br>
 >	-> Bank at west bank<br>
@@ -583,7 +588,135 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 ---------------------------------------------------------------------------------------------
 
 # 6) Mid Game Questing
-	todo yo
+
+## 1) Purchase Supplies at GE
+```
+todo list
+```
+
+> [!IMPORTANT]
+> # 1: Twilight's Promise
+> - XXX
+
+> [!IMPORTANT]
+> # 1: Ratchers
+> - XXX
+
+> [!IMPORTANT]
+> # 1: Contact
+> - XXX
+
+> [!IMPORTANT]
+> # 1: Shield of arrav (do black arm)
+>	- in game friends chat: "osrs soa" to find a partner
+
+> [!IMPORTANT]
+> # 1: Ethically Acquired Antiquities
+> - Thieving xp
+
+> [!IMPORTANT]
+> # 1: Sheep Herder
+> - XXX
+
+> [!IMPORTANT]
+> # 1: Underground Pass
+> - XXX
+
+> [!IMPORTANT]
+> # 1: Regicide
+> - XXX
+
+> [!IMPORTANT]
+> # 1: Roving Elves
+> - NOTE when you **make naphtha** inside rimington, make sure to make 2 barrels of it so you have one already made for mournings end part 1.<Br>
+>	- means you need two barrels
+>	- need to make two barrels of tar
+>	- need 20 coal and need a full invy of it when you go to rimgington
+
+> [!IMPORTANT]
+> # 1: Mourning's End Part 1
+> - XXX
+
+> [!IMPORTANT]
+> # 1: Merlin's Crystal
+> - XXX
+
+> [!IMPORTANT]
+> # 1: Alfred grimhand's barcrawl
+> - XXX
+
+> [!IMPORTANT]
+> # 1: Get 35 fishing
+>  todo figure out method
+
+> [!IMPORTANT]
+> # 1: Get 70 Cooking [costs 400k]
+>  NOTE should we do minigame Tempoross?? get cooking fishing and firemaking xp???
+>	- get 53 fishing using this method
+> - buy 4k grapes
+> - buy 4k jug of water
+
+> [!IMPORTANT]
+> # 1: Get 44 Woodcutting
+> - Cut down teak logs
+>   - NOTE bring x5 camelot teleport tabs in inventory
+> 	- TODO figure out location (cannot do monkey madness location yet)
+
+> [!IMPORTANT]
+> # 1: Element Workshop 1 and 2
+> - [ ] Teleport to camelot and run to seers bank (west)
+> - [ ] Bring all items needed for both Elemental Workshop 1 and Elemental Workshop 2
+> - [ ] Start & Complete Elemental Workshop 1
+> - [ ] Start & Complete Elemental workshop 2
+
+> [!IMPORTANT]
+> # 1: Horror From The Deep
+> - XXX
+
+> [!IMPORTANT]
+> # 1: Jungle Potion & Shilo Village
+> - [ ] get everything needed for both Jungle Potion and Shilo Village
+> - [ ] Bring:
+> 	- x3 extended stamina
+> 	- bring ranged gear
+>   - x1 super antiposion
+>   - x1 machete
+> - [ ] After completing Jungle poition
+> 	- [ ] Pick up extra items for legends quest
+>  		- x1 ardrigal
+>      	- x1 snake weed
+> ![](https://images.openai.com/static-rsc-4/EV-1AjkVrrsk16pVkC9rktK-ZnMd-gU9ja5yEz9wLOPGeCoDJJ9-8F17lWqRVQf1sv9zMdEils6uanG6EX5Qxx2eO2TYIjGl0LS4lrJui97dpaOG67f75uCoMczYdg4EUlGStNx6CImwfwGfJqlF7wqC3mo7CXtNdBJOTj0Rihc?raw=true)
+
+> [!IMPORTANT]
+> # 1: get 100% Tai Bwo Wannai Village favor <sup>(my arms big adventure prereq)</sup>
+> - [ ] Go to Tai Bwo Wannai village.
+> - [ ] Speak to Murcaily beside the Hardwood Grove gate. (east side of Tai Bwo Wannai Village)
+> - [ ] Agree to help clean up the village.
+> - [ ] Equip your machete.
+> - [ ] Cut some light jungle near the village. (south of murcaily)
+> - [ ] Collect the thatch spars.
+> - [ ] Repair one of the damaged fences. (south of light jungle patch)
+> - [ ] Important: Return to Murcaily and claim your first trading sticks. This unlocks the ability to earn favour from killing Jungle Spiders.
+> - [ ] Head north to the farming patch near the anvil north of the tribal statue
+> - [ ] Find the Jungle Spiders.
+> - [ ] Kill them repeatedly.
+> - [ ] Each spider gives approximately 1–2% favour.
+
+> [!IMPORTANT]
+> # 1: XXXXX
+> - XXX
+
+> [!IMPORTANT]
+> # 1: XXXXX
+> - XXX
+
+> [!IMPORTANT]
+> # 1: XXXXX
+> - XXX
+
+> [!IMPORTANT]
+> # 1: XXXXX
+> - XXX
 
 
 ---------------------------------------------------------------------------------------------
