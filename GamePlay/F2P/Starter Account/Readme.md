@@ -61,8 +61,10 @@
 		- [ ] Buy 1 spade
 		- [ ] Buy 1 hammer
 		- [ ] Buy 1 pot <sup>(yes another pot so you have 2 total)</sup>
+?????? Start Mudfoot's Big Adventure
 3. Resume X Marks the Spot
    	- [ ] AFTER getting the mysterious orb <sup>(2nd time digging)<sub>(after digging behind the castle)</sub></sup>
+		- Start Rune Mysteries <sup>Immeditaely resume X Marks the Spot</sup>
 		- Kill 1 giant rat behind the lumbridge castle and collect *rat meat*
    	- [ ] Run east to draynor and start vampire slayer
   		- Go upstairs and get garlic (Step 2)
@@ -333,6 +335,7 @@
 			- 15 food
 			- 2 energy potions (if you have them)
 			- All your beads (red, white, black, yellow)
+        	- x1 Air Talisman
 
 --------------------------
 
@@ -352,6 +355,8 @@
 - [ ] Then resume Restless ghost<sup>proceed one step</sup>
 	- Go downstairs into the basement
 		- Search the altar and get the skull
+- [ ] Resume Rune Mysteries
+	- TODO do we finish rune mysteries or do we resume it later yet again??
 
 --------------------------
 
