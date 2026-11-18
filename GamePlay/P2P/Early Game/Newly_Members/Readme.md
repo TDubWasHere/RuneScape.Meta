@@ -346,7 +346,8 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 12: Complete 📜 Troll Stronghold <sup>(DT1 Prereq)</sup>
 > - Unlocks access to Godwars
 > - Troll romance prereq
-> - [ ] Do not drop Glarial's Pebble
+> - [ ] Make sure you **keep**:<br>
+>	- Glarial's Pebble
 
 > [!IMPORTANT]
 > # 13: Complete 📜 Troll Romance
@@ -424,6 +425,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > [!IMPORTANT]
 > # 25: 📊 Get 35 Woodcutting <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - [ ] cut oak logs till level 35
+> 	- TODO figure out where some good locations are
 > - [ ] Withdraw all axes so you automatically use the best axe<br>
 > 	- black axe<br>
 >	- mithril axe<br>
@@ -446,7 +448,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > 	- [ ] x4 Bones
 >   - [ ] x4 pot <sup>(empty)</sup>
 >   - [ ] x4 bucket <sup>(empty)</sup>
-> - NOTE when you run by Drezel stop and talk to him to start Nature Spirit
+> - NOTE when you run by Drezel stop and talk to him to start 📜 Nature Spirit
 
 > [!IMPORTANT]
 > # 29: Alfred Grimhand's Barcrawl <sup>(Horror from the deep Prereq)</sup>
