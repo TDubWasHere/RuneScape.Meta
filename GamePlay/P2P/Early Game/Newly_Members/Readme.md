@@ -283,11 +283,11 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 >  	- x1 raw beef
 >  	- x1 raw chicken
 > - [ ] Teleport to falador and run north through members gate
-> - [ ] Start & Complete Druidic Ritual
-> - [ ] Start & Complete Witch's House
+> - [ ] Start & Complete 📜 Druidic Ritual
+> - [ ] Start & Complete 📜 Witch's House
 > - When Finished with both quests drop:<br>
->	-> any extra cheese lef<br>
->	-> diary
+>	-> any extra cheese left<br>
+>	-> diary<br>
 >   -> both keys
 
 
@@ -303,9 +303,9 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > 	- x3 camelot teleport
 > 	- x10 manta ray
 > - [ ] use skills necklace to teleport to fishing guild
-> - [ ] Run northwest, Start 📜 Dwarf Cannon by talking to Captain Lawgof
+> - [ ] Run northwest, Start 📜 Dwarf Cannon by talking to Captain Lawgof<br>
 > 	-> STOP quest line after giving goblin remains to captain lawgof
-> - [ ] Start 📜 Waterfall Quest, run northwest 
+> - [ ] Start 📜 Waterfall Quest, run northwest <br>
 > 	- STOP quest after you are done with the trap door in the gnome maze
 > - [ ] Go up the ladder and squeeze through loose railing
 > - [ ] Complete 📜 Tree Gnome Village by talking to King Bolren
@@ -339,45 +339,45 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Crafting xp <sup>(Animal Magnetism & Lost City Prereq)</sup>
 
 > [!IMPORTANT]
-> # 14: Complete 📜 Death Plateau <sup>(R4D Prereq)</sup>
+> # 11: Complete 📜 Death Plateau <sup>(R4D Prereq)</sup>
 > - Unlocks Climbing Boots, best in slot cheap boots 
 
 > [!IMPORTANT]
-> # 15: Complete 📜 Troll Stronghold <sup>(DT1 Prereq)</sup>
+> # 12: Complete 📜 Troll Stronghold <sup>(DT1 Prereq)</sup>
 > - Unlocks access to Godwars
 > - Troll romance prereq
 > - [ ] Do not drop Glarial's Pebble
 
 > [!IMPORTANT]
-> # 16: Complete 📜 Troll Romance
+> # 13: Complete 📜 Troll Romance
 > - Agility XP
 > - [ ] Bring food for this quest
 
 > [!IMPORTANT]
-> # 17: Complete 📜 Gertrude's Cat <sup>(R4D Prereq)</sup>
+> # 14: Complete 📜 Gertrude's Cat <sup>(R4D Prereq)</sup>
 > - Woodcutting xp <sup>(Animal Magnatism & Lost City Prereq)</sup>
 > - NOTE Start growing a cat for future quest
 > 	- West varrock talk to Gertrude in her house
 >   - Give your cat raw sardines to keep it fed  
 
 > [!CAUTION]
-> # 18: Complete 📜 Priest in peril <sup>(Animal magnetism & R4D Prereq)</sup>
+> # 15: Complete 📜 Priest in peril <sup>(Animal magnetism & R4D Prereq)</sup>
 > - **WARNING** Gives 1406 Prayer XP
 
 
 > [!IMPORTANT]
-> # 20: Complete 📜 Death on the Isle
+> # 16: Complete 📜 Death on the Isle
 > - Agility xp
 > - Crafting xp <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - Thieving XP <sup>(DT1 Prereq)</sup>
 
 > [!IMPORTANT]
-> # 21: Complete 📜 The Fued
+> # 17: Complete 📜 The Fued
 > - Thieving XP <sup>(DT1 Prereq)</sup>
 > - [ ] Collect x4 Camel dung for future quests <sup>bring x4 empty bucket</sup>
 
 > [!IMPORTANT]
-> # 22: 📊 Get 19 Crafting
+> # 18: 📊 Get 19 Crafting
 > - [ ] make one leather boot
 > - [ ] make cowls to level 11
 > - [ ] make vambraces till 14
@@ -385,7 +385,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - [ ] make chaps till 26
 
 > [!IMPORTANT]
-> # 12: 📊 Get 50 Firemaking
+> # 19: 📊 Get 50 Firemaking
 > - [ ] burn normal logs 		[to lvl 15]
 > - [ ] burn 175 oak logs       [to lvl 29]
 > - [ ] burn 100 willow logs 	[to lvl 35]
@@ -394,35 +394,35 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - [ ] burn 250 maple		    [to lvl 50]
 
 > [!IMPORTANT]
-> # 23: Complete 📜 The Giant Dwarf
+> # 20: Complete 📜 The Giant Dwarf
 > - Crafting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 
 > [!IMPORTANT]
-> # 24: Complete 📜 Tears of Guthix
+> # 21: Complete 📜 Tears of Guthix
 > - Crafting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - Access to tears minigame which gives free xp to lowest stat
 > - [ ] Start doing this minigame once a day<sup> (use games necklace to teleport)</sup>
 
 > [!IMPORTANT]
-> # 25: Complete 📜 Ribbiting Tale of Lily Pad 
+> # 22: Complete 📜 Ribbiting Tale of Lily Pad 
 > - Woodcutting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - [ ] Withdraw black axe
 > - [ ] withdraw 3 sardines
 > - [ ] Chop down normal trees to 15 WC right before talking to Marcellus
 
 > [!IMPORTANT]
-> # 26: Complete 📜 Icthlarin's Little Helper
+> # 23: Complete 📜 Icthlarin's Little Helper
 > - Woodcutting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - Agility XP
 > - [ ] Withdraw Bag of Salt
 > - [ ] Withdraw Linen
 
 > [!IMPORTANT]
-> # 11: 📊 Get 10 Fletching
+> # 24: 📊 Get 10 Fletching
 > - [ ] make shafts to level 10 (logs + knife)
 
 > [!IMPORTANT]
-> # 28: 📊 Get 35 Woodcutting <sup>(Animal Magnetism & Lost City Prereq)</sup>
+> # 25: 📊 Get 35 Woodcutting <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - [ ] cut oak logs till level 35
 > - [ ] Withdraw all axes so you automatically use the best axe<br>
 > 	-> black axe<br>
@@ -430,17 +430,17 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 >	-> adamant axe<br>
 
 > [!IMPORTANT]
-> # 29: Complete 📜 Porcine of Interest
+> # 26: Complete 📜 Porcine of Interest
 > - Slayer xp <sup>(Animal Magnetism Prereq)</sup>
 
 > [!IMPORTANT]
-> # 30: Natural History Quiz 
+> # 27: Natural History Quiz 
 > - Slayer xp <sup>(Animal Magnetism Prereq)</sup>
 > - [Runelite has a helper](https://oldschool.runescape.wiki/w/Natural_history_quiz)
 > - Located in Varrock Museum (north of the east bank)
 
 > [!IMPORTANT]
-> # 31: Complete 📜 Animal Magnetism
+> # 28: Complete 📜 Animal Magnetism
 > - Unlocks Accumulator
 > - For x20 Eco-tokens bring in your invy:
 > 	- [ ] x4 Bones
@@ -449,71 +449,71 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - NOTE when you run by Drezel stop and talk to him to start Nature Spirit
 
 > [!IMPORTANT]
-> # 32: Alfred Grimhand's Barcrawl <sup>(Horror from the deep Prereq)</sup>
+> # 29: Alfred Grimhand's Barcrawl <sup>(Horror from the deep Prereq)</sup>
 > - https://oldschool.runescape.wiki/w/Alfred_Grimhand%27s_Barcrawl#mapFullscreen
 > - There is a RuneLite quest help for this, search barcrawl
 
 > [!IMPORTANT]
-> # 33: Complete 📜 Horror from the Deep <sup>(R4D Prereq)</sup>
+> # 30: Complete 📜 Horror from the Deep <sup>(R4D Prereq)</sup>
 > - Unlocks godbook for mage bonus
 
 > [!IMPORTANT]
-> # 34: Complete 📜 Murder Mystery <sup>(R4D Prereq)</sup>
+> # 31: Complete 📜 Murder Mystery <sup>(R4D Prereq)</sup>
 > - Crafting XP <sup>(Lost City Prereq)</sup>
 
 > [!Tip]
-> # 35: Complete 📜 Nature Spirit <sup>(R4D Prereq)</sup>
+> # 32: Complete 📜 Nature Spirit <sup>(R4D Prereq)</sup>
 > - [WARNING] Gives 2k def xp
 > - Crafting xp <sup>(Lost City Prereq)</sup>
 
 > [!Tip]
-> # 35: Complete 📜 Haunted Mine
+> # 33: Complete 📜 Haunted Mine
 > - Strength xp (22,000)
 > - [ ] Use Mort'tron teleport
 
 > [!CAUTION]
-> # 27: Complete 📜 Dragon Slayer <sup>(R4D Prereq)</sup>
+> # 34: Complete 📜 Dragon Slayer <sup>(R4D Prereq)</sup>
 > - WARNING gives 18k def xp
 > - Ability to wear rune pl8 and dragonhide body
 > - Ability to be assigned Slayer Tasks for slayer skill
 
 > [!IMPORTANT]
-> # 36: Complete 📜 The Golem
+> # 35: Complete 📜 The Golem
 > - Crafting XP <sup>(Lost City Prereq)</sup>
 > - Thieving XP <sup>(R4D Prereq)</sup>
 > - [ ] Use Necklace of Passage teleport "Eagle's Eyrie"
 
 > [!IMPORTANT]
-> # 37: Complete 📜 Lost City <sup>(R4D Prereq)</sup>
+> # 36: Complete 📜 Lost City <sup>(R4D Prereq)</sup>
 > - Unlocks ability to wield Dragon Weapons
 > - [ ] When you are told to bank everything:<Br>
 > 		- Add food to your invy (you will fight monsters with no armor)<br>
 >		- Add RUNES to kill level 25s and 101 (bring best spell you can) <sup>you can safespot them</sup><br>
-> - [ ] After you kill the spirit , chop down the tree and get *4 dramen branches* which we will use for future quests <sup>(RFD & MM2)</sup>
+> - [ ] After you kill the spirit , chop down the tree and get **4 dramen branches** which we will use for future quests <sup>(RFD & MM2)</sup>
 
 > [!IMPORTANT]
-> # 38: Complete 📜 Sea slug
+> # 37: Complete 📜 Sea slug
 > - Fishing xp <sup>(fishing contest prereq)</sup>
 
 > [!IMPORTANT]
-> # 39: Complete 📜 Fishing Contest <sup>(R4D Prereq)</sup>
+> # 38: Complete 📜 Fishing Contest <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
-> # 40: Complete 📜 Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
+> # 49: Complete 📜 Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
 > - NOTE keep the following items:
 > - [ ] Use all 14 wolf bones for arrow tips
 > - [ ] Make ~50 arrows
 > - [ ] Keep bellow, bow, and arrows after quest completion
 
 > [!IMPORTANT]
-> # 41: Complete 📜 BioHazard <sup>(R4D Prereq)</sup>
+> # 40: Complete 📜 BioHazard <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
-> # 42: Complete 📜 Underground Pass <sup>(R4D Prereq)</sup>
+> # 41: Complete 📜 Underground Pass <sup>(R4D Prereq)</sup>
 > - Agility xp
 
 > [!IMPORTANT]
-> # 43: 📊 Get 52 Agility
+> # 42: 📊 Get 52 Agility
 > - <sup>Once you are 52 you can start doing wilderness agility masses inside `agility fc` friends chat</sup>
 > - [ ] Go to Brimhaven Agility Course<sup>Karmja glory teleport then west</sup>
 > - ~2 hours and 15 minutes
@@ -535,7 +535,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 45: 📊 Get 48 Thieving
 > - steal from the Hosidius fruit stalls <sup>by woodcutting guild</sup>
 >	- [ ] Use skills necklace tele
-> 	- [ ] Stay at one stall, drop your item immediately, wait for respone 
+> 	- [ ] Stay at one stall, drop your item immediately, wait for respond 
 
 > [!IMPORTANT]
 > # 46: Complete 📜 Temple of Ikov <sup>(R4D Prereq)</sup>
@@ -560,9 +560,9 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 ---------------------------------------------------------------------------------------------
 
 # 5) Make Money & Train Slayer
--> cycle between training slayer and making money
--> you should join a wilderness agility mass any time you are playing and they are running
--> See Money maker methods below
+-> cycle between training slayer and making money<br>
+-> you should join a wilderness agility mass any time you are playing and they are running<Br>
+-> See Money maker methods below<br>
 -> Keep this cycle up until 65 slayer
 
 ---------------------------------------------------------------------------------------------
@@ -647,14 +647,6 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 
 
-
-
-
-
--> green dragons to build quick money & ranged xp<br>
--> once you have some money switch to lava dragons and train mage (higher your mage the better your mage defense so even if you don't attack with mage it is useful against enemies)<br>
--> go to revs once you are ready to get attacked more often<br>
--> blue dragons for non wilderness but is intensive<br>
 
 ```
 for green dragons level 79
