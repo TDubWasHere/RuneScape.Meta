@@ -304,7 +304,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > 	- x10 manta ray
 > - [ ] use skills necklace to teleport to fishing guild
 > - [ ] Run northwest, Start 📜 Dwarf Cannon by talking to Captain Lawgof<br>
-> 	-> STOP quest line after giving goblin remains to captain lawgof
+> 	- STOP quest line after giving goblin remains to captain lawgof
 > - [ ] Start 📜 Waterfall Quest, run northwest <br>
 > 	- STOP quest after you are done with the trap door in the gnome maze
 > - [ ] Go up the ladder and squeeze through loose railing
@@ -313,15 +313,15 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - [ ] Complete 📜 Fight Arena
 > - [ ] Use Camelote teleport run west to seers bank
 > - [ ] Bank everything (including gear) except:<br>
->	-> pebble<br>
->	-> x1 extended energy potion<br>
->	-> x12 manta ray food<br>
->	-> x6 air, water, & earth runes<br>
->	-> x1 rope<br>
->	-> x5 camelot teleport<br>
->	-> x1 skills necklace<br>
+>	- pebble<br>
+>	- x1 extended energy potion<br>
+>	- x12 manta ray food<br>
+>	- x6 air, water, & earth runes<br>
+>	- x1 rope<br>
+>	- x5 camelot teleport<br>
+>	- x1 skills necklace<br>
 > - [ ] Resume 📜 dwarf cannon<br>
->	-> STOP after fixing the cannon
+>	- STOP after fixing the cannon
 > - [ ] Complete 📜 waterfall quest
 > - [ ] Drop:<br>
 >	- key<br>
@@ -425,9 +425,9 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 25: 📊 Get 35 Woodcutting <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - [ ] cut oak logs till level 35
 > - [ ] Withdraw all axes so you automatically use the best axe<br>
-> 	-> black axe<br>
->	-> mithril axe<br>
->	-> adamant axe<br>
+> 	- black axe<br>
+>	- mithril axe<br>
+>	- adamant axe<br>
 
 > [!IMPORTANT]
 > # 26: Complete 📜 Porcine of Interest
@@ -469,7 +469,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > [!Tip]
 > # 33: Complete 📜 Haunted Mine
 > - Strength xp (22,000)
-> - [ ] Use Mort'tron teleport
+> - [ ] Use Mort'tron teleport to start quest
 
 > [!CAUTION]
 > # 34: Complete 📜 Dragon Slayer <sup>(R4D Prereq)</sup>
@@ -499,7 +499,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 38: Complete 📜 Fishing Contest <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
-> # 49: Complete 📜 Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
+> # 39: Complete 📜 Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
 > - NOTE keep the following items:
 > - [ ] Use all 14 wolf bones for arrow tips
 > - [ ] Make ~50 arrows
@@ -577,69 +577,100 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
 
+# MONEY MAKER METHODS
 
+>[!TIP]
+> ## [https://oldschool.runescape.wiki/w/Guide:Agility_FC]Wilderness Agility Course Massing
+> **Join every mass you can until ~80 agility**
+> 💸💸 2m+ an hour <sup>with 61+ streak</sup> 💸💸
+> - [ ] Join "Agility FC" [https://discord.com/invite/agilityfc]discord and friends chat (in game)
+> 	- read #rules. Discord explains gear, technique, goal, how to join, etc
+>  	- Identify yourself as a Runner/bee and monitor #bees
+> - [ ] Reedem the tickets at the dispenser in batches of 101+ tickets for the best Agility XP
+> - [ ] Bring:<br>
+>	- Appropriate ranged gear <sup>(read #rules in discord)</sup>
+>	- 150k cash
+> 	- looting bag
+> 	- Ice plateau teleport tab
+> 	- knife <sup>to cut mage bank web<sup>
+>	- x4 blighted super restore
+>	- x1 anti-venom+(4)
+> 	- rest blighted manta rays 
 
+>[!TIP]
+> ## Green Dragons
 
+>[!TIP]
+> ## Blue Dragons
 
+>[!TIP]
+> ## Lava Dragons
 
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 
+# SLAYER INFO
+```
+-> PURCHASE:
+		-> Black Mask
+		-> Bracelet of Slaughter
+		-> Expeditious Bracelet
+		-> Dwarf Cannon
+		-> enchanted gem (buy @ slayer master only)
+```
 
+```
+SLAYER MASTERS:
+	• Turael / Spria: Combat level 1. Best for low-level players or resetting/skipping tasks.
+	• Mazchna: Combat level 20 (requires Priest in Peril quest). Good for early low-level tasks.
+	• Vannaka: Combat level 40. Found in the Edgeville Dungeon.
+	• Chaeldar: Combat level 70. Popular mid-level choice located in Zanaris.
+		-> Lumbridge Swamp 
+			1. Go to the shed in Lumbridge Swamp, south of Lumbridge.
+			2. Equip a Dramen Staff or Lunar Staff.
+			3. Enter the shed.
+			4. You'll arrive in Zanaris.
+			5. Run south to Chaeldar.
+	• Konar quo Maten: Combat level 75. Assigns tasks in specific locations and rewards Brimstone Keys.
+	• Nieve /认 / Duradel: Combat level 85 to 100+ for fast experience and high-level bosses
+```
+```
+-> GOOD TASKS
+		-> blue dragons
+		-> green dragons
+		-> greater demons
+		-> bloodveld
+		-> trolls [90xp]
+		-> black demond [2k cannon balls] [200xp]
+		-> ice warrior (use fire spells)
+		-> hellhounds [1.5k cannon balls]
+```
+```
+-> BLOCK LIST/SKIP:
+		basilisks
+		mutarted zygomites
+		aberrant spectres	
+		Magic axes
+		Bears
+```
 
-
-
-
-
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 
 
 .
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---------------------------------------------------------------------------------------------
 
 
 
 
 
-
-
-
-
-
-
-
 ---------------------------------------------------------------------------------------------
-
-
 
 
 
@@ -756,41 +787,6 @@ STARTER:
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
-
-SLAYER
-
-```
-SLAYER MASTERS:
-	• Turael / Spria: Combat level 1. Best for low-level players or resetting/skipping tasks.
-	• Mazchna: Combat level 20 (requires Priest in Peril quest). Good for early low-level tasks.
-	• Vannaka: Combat level 40. Found in the Edgeville Dungeon.
-	• Chaeldar: Combat level 70. Popular mid-level choice located in Zanaris.
-	• Konar quo Maten: Combat level 75. Assigns tasks in specific locations and rewards Brimstone Keys.
-	• Nieve /认 / Duradel: Combat level 85 to 100+ for fast experience and high-level bosses
-```
-
----------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
-
-.
-
-
 
 
 
