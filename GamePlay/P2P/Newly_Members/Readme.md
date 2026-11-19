@@ -814,6 +814,97 @@ todo list
 > - [ ] Repeat until you identified 3 artifacts and have max kudos
 
 > [!IMPORTANT]
+> # 1: Complete 📜 Forgettable Tale & Herblore + Crafting Training
+> - Farming xp
+> - [ ] While waiting for your farming patch to grow (15-20 minutes)<br>
+> 	- Make all of your energy potions (50) for herblore training <sup>(Harralander potions (unf) + chocolate dust)</sup><br>
+>	- Then cut rubies with a chisel for crafting until your patch has grown<br>
+> - [ ] While waiting for your beer to brew (~10 minutes)<br>
+>	- Finish cutting all your rubies for crafting
+
+> [!IMPORTANT]
+> # 1: Complete 📜 Garden of Death
+> - Farming xp
+
+> [!IMPORTANT]
+> # 1: Complete 📜 Enlightened Journey 
+> - MM2 prereq
+> - Fill up 1 empty sack with 10 potatoes (use potatoes on the sack)
+
+> [!IMPORTANT]
+> # 1: Get 52 mining
+> - [ ] Wear varrock armor 1 body <sup>gives chance of double xp on iron ore</sup>
+> - [ ] Power mine iron the whole way <sup>(Click Mine ore, wait, when mined immediately drop previous iron ore, repeat)</sup>
+> - [ ] Go to Al kharid mine where there are 3 iron rocks in a U. <sup>(glory -> al kharid -> run north OR ring of dueling -> arena -> go west outside of arena then north)</sup><br>
+> https://oldschool.runescape.wiki/w/Al_Kharid_mine
+
+> [!IMPORTANT]
+> # 1: Complete 📜 Watchtower
+> - use castle wars (dueling ring) teleport to get to yanille
+
+> [!IMPORTANT]
+> # 1: Complete 📜 Family Crest
+> - XXX
+
+> [!IMPORTANT]
+> # 1: Complete 📜 Hero's Quest
+> - XXX
+
+> [!IMPORTANT]
+> # 1: Get 50 Crafting
+> - Cut part of your ruby stack to 50 crafting, if you haven't already.<br>
+> <sup>NOTE - You will cut ~2300 total Rubies to get to 70 crafting. You can continue to cut all your rubies now if you want but you only need 50 crafting to resume questing</sup>
+
+> [!IMPORTANT]
+> # 1: Get 31 Herblore
+> - Finish making your energy potions <sup>(you might have already finished these)</sup>
+
+> [!IMPORTANT]
+> # 1: Get 53 Fishing
+> - [ ] Bring in your invy<br>
+>	- x1 Fly fishing rod<br>
+> 	- x3000 feathers<br>
+> 	- x1 glory (wear it)<br>
+> - [ ] Go to Barbatian village and fly fish <sup>(Glory -> edgeville -> run south)</sup>
+> - [ ] Do this in a high populated FREE TO PLAY world <sup>(To contribute to when you picked up fish)</sup>
+> - [ ] Power fish <sup>(drop your trout and salmon when your inventory is full)</sup>
+
+> [!IMPORTANT]
+> # 1: Get 50 Smithing
+> - [ ] Take steel guantlets to Al kharid mind<br>
+>	- Find "avan fitzharmon" in the mine<br>
+>	- Give him your gauntlets to make **gold smith gauntlets**
+> - [ ] Bring in your inventory:<Br>
+>	- 300k cash<br>
+>	- ice gloves<br>
+>	- goldsmith gauntlents<br>
+>	- glory & ring of dueling (Wear both)<br>
+> - [ ] Use Blast furnace on a blast furnace world to make gold bars
+> - [ ] Use minigame teleport (blast furnace) or go to GE -> northwest mine travel<br>
+> 	- https://www.youtube.com/watch?v=HsDEOxTBrlU<br>
+
+> [!IMPORTANT]
+> # 1: Get 50 woodcutting
+> - Power chop teak logs the whole way <sup>(Chop a full inventory then drop the logs. Repeat)</sup>
+> - TODO location????
+
+> [!IMPORTANT]
+> # 1: Complete 📜 Eadgar's Ruse
+> - XXX
+
+> [!IMPORTANT]
+> # 1: Complete 📜 My Arm's Big Adventure
+> - XXX
+
+> [!IMPORTANT]
+> # 1: Get 45 Herblore
+> - Make All your prayer potions <sup>Ranarr potion (unf) + Snape Grass)</sup>
+
+> [!IMPORTANT]
+> # 1: 📜 XXXXX
+> - XXX
+
+> [!IMPORTANT]
 > # 1: 📜 XXXXX
 > - XXX
 
