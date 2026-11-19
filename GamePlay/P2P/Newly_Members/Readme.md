@@ -901,28 +901,101 @@ todo list
 > - Make All your prayer potions <sup>Ranarr potion (unf) + Snape Grass)</sup>
 
 > [!IMPORTANT]
-> # 1: 📜 XXXXX
+> # 1: Complete 📜 Desert Treasure I
+> - [ ] FIRST BOSS NOTES<br>
+>	- Kill with water spells ideally <sup>(ranged is fine if you're 70+)</sup>
+> - [ ] SECOND DIAMOND NOTES (Shadow Diamiond)<br>
+>	- Thieving the chest in the dessert usually takes 50+ failed attempts<br>
+>	- Bank EVERYTHING in your inventory and bring:<br>
+>		- Glory (wear)<br>
+>		- 2k Coins<br>
+>		- x1 super antiposion<br>
+>    	- x2 mantaray<br>
+>		- x1 shanty pass<br>
+> 		- rest lockpicks<br>
+>	- Once successful<br>
+>		- Get all quest items back into invy<br>
+>		- Get ranged gear + food and pots (prayer & ranged)
+
+> [!IMPORTANT]
+> # 1: Complete 📜 Monkey Madness I
+> - Do **not** drop your Translation book
+
+> [!IMPORTANT]
+> # 1: Complete 📜 Legends Quest
+> - [ ] When inside the Kharazi Jungle<br>
+>		- Go south of the tree patch icon and pick 1 vanilla pod <sup>(RFD prereq)</sup>
+> - [ ] Use lamps:<br>
+>	- x1 Thieving (need 55)
+> 	- x3 Crafting (need 70)
+
+> [!IMPORTANT]
+> # 1: Finish 📜 RFD (recipe For Disaster)
+> - [ ] Complete King Awowogei
+> - [ ] Complete Sir Amik Varze
+> - [ ] Complete Final Culinaromancer <sup>()</sup>
+>	- Bring your ice gloves
+>	- Bring your best gear w\ pots and food
+> - [ ] Use lamp on crafting
+
+> [!IMPORTANT]
+> # 1: 📜 Eagles' Peak & 📜 Pandemonium
+> - These quests will be done back to back<br>
+> - [ ] Bring in your invy:<br>
+>	- Glory<br>
+>	- Hammer<br>
+>	- Saw
+> - [ ] **Complete 📜 Eagle's Peak**
+> - [ ] **Complete 📜 Pandemonium**
+
+> [!IMPORTANT]
+> # 1: Unlock Tree Gnome Stronghold Balloon Route (Balloon Transport - Grand Tree)
+> - [ ] Travel to Entrana <sup>(glory -> draynor village -> run to port)</sup><br>
+>	- No armor/weapon<br>
+> - [ ] Bring with you:<br>
+>	- x13 Magic logs
+>	- glory (wear)
+>	- Ring of dueling (wear)
+> 	- x2 extended stamina potion
+
+> [!IMPORTANT]
+> # 1: Get 70 Crafting
+> - [ ] Cut the rest of your rubies if you have any left <sup>(you should be level 63+)</sup>
+> - [ ] Make green d hide bodies till 70
+
+> [!IMPORTANT]
+> # 1: Get 60 Hunter
 > - XXX
 
 > [!IMPORTANT]
-> # 1: 📜 XXXXX
-> - XXX
+> # 1: Get 60 Firemaking
+> - [ ] Burn your 1100 Mahogany logs
 
 > [!IMPORTANT]
-> # 1: 📜 XXXXX
-> - XXX
+> # 1: Get 69 Slayer
+> - See Slayer Guide if you need tips
 
 > [!IMPORTANT]
-> # 1: 📜 XXXXX
-> - XXX
+> # 1: Complete 📜 Perilous Monns
+> - [Watch how the fighting michanics work](https://www.youtube.com/watch?v=ugHndNlCvtQ)<br>
+> - [ ] Bring melee Gear only <sup>(Bosses have 2k+ defense for ranged and mage)</sup><br>
+>		- You need each style of attack (stab, slash, crush)<br>
+> 			- Rune scimmi & rune Battleaxe (for crush)<br>
+> - [ ] on the talisman locating step<br>
+>	- 1. Head through the southwest doorway into the Ancient Prison.<br>
+>	- 2. Continue southwest until you reach the room with the Sulphur Nagua.<br>
+>	- 3. Run past the Nagua (you don't need to kill them).<br>
+>	- 4. Take the southwestern passage.<br>
+>	- 5. This leads into the Ancient Shrine, where the Lunar Chest is located.<br>
+>	- 6. now use your talsimans to find the pool and use them
 
 > [!IMPORTANT]
-> # 1: 📜 XXXXX
-> - XXX
+> # 1: Complete 📜 Monkey Madness II
+> - [ ] Also Grab x5 Ape Atol Teleport
+> - [ ] TO GET ANOTHER TRANSLATION BOOK<br>
+> 	- King Narcode will give you one when you speak with him while having the mysterious note you found in Glough's house.
 
-> [!IMPORTANT]
-> # 1: 📜 XXXXX
-> - XXX
+
 
 
 ---------------------------------------------------------------------------------------------
