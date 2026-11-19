@@ -97,6 +97,7 @@ LEGEND
 -> x13 bread						(1k)
 -> x3 cake tin						(500)
 -> x3 plank						    (500)
+-> x5 vial of water
 
 -> 📜 Touris Trap
 	x1 desert shirt					(500)
