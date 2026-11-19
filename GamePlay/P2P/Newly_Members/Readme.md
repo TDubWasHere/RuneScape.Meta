@@ -22,7 +22,7 @@ LEGEND
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
 
-# 2) 📜 Children of The Sun
+# 2) Complete 📜 Children of The Sun
 > - Before going to GE Complete this quest in varrock square
 
 ---------------------------------------------------------------------------------------------
@@ -222,17 +222,17 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 
 > [!IMPORTANT]
-> # 1: 📜 Plague City <sup>(R4D Prereq)</sup>
+> # 1: Complete 📜 Plague City <sup>(R4D Prereq)</sup>
 > - Access to ardougne Teleports
 > - Mining xp <sup>(The Knight's Sword Prereq)</sup>
 > - [ ] Do not drop your gas mask when completed <sub>(you'll need it later)</sub>
 
 > [!IMPORTANT]
-> # 2: 📜 The Knight's Sword
+> # 2: Complete 📜 The Knight's Sword
 > - Smithing xp <sup>(Tourist Trap Prereq)</sup>
 
 > [!IMPORTANT]
-> # 3: 📜 The Tourist Trap
+> # 3: Complete 📜 The Tourist Trap
 > - [ ] Use both 📊 lamps on Agility
 > - When completed drop:<br>
 > 	-> keys<br>
@@ -241,7 +241,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 >   -> slave gear
 
 > [!IMPORTANT]
-> # 4: 📜 The Grand Tree
+> # 4: Complete 📜 The Grand Tree
 > - Agility XP
 > - Attack xp (18,400)
 > - [ ] Teleport to Ardy then run south west to gnome strongold
@@ -257,7 +257,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - [ ] Enter the cave and start the quest until the quest wants you to talk to Hazelmere in Yanille, then move onto next quests
 
 > [!IMPORTANT]
-> # 6: 📜 Client of Kourend <sup>(Depths of Despair prereq)</sup>
+> # 6: Complete 📜 Client of Kourend <sup>(Depths of Despair prereq)</sup>
 > - Slayer XP <sup>(Animal Magnetism Prereq)</sup>
 > - [ ] Teleport to fally<Br>
 >	-> Bank at west bank<br>
@@ -266,7 +266,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > 	-> broken glass
 
 > [!IMPORTANT]
-> # 6: 📜 The Depths of Despair <sup>(RfD prereq)</sup>
+> # 6: Complete 📜 The Depths of Despair <sup>(RfD prereq)</sup>
 > - Agility XP
 > - [ ] Gear up with best ranged
 > - [ ] grab tele tabs
@@ -288,8 +288,8 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 >  	- x1 raw beef
 >  	- x1 raw chicken
 > - [ ] Teleport to falador and run north through members gate
-> - [ ] Start & **Complete 📜 Druidic Ritual**
-> - [ ] Start & **Complete 📜 Witch's House**
+> - [ ] **Complete 📜 Druidic Ritual**
+> - [ ] **Complete 📜 Witch's House**
 > - [ ] When completed drop:<br>
 >	-> any extra cheese left<br>
 >	-> diary<br>
@@ -595,102 +595,100 @@ todo list
 ```
 
 > [!IMPORTANT]
-> # 1: Twilight's Promise
+> # 1: Complete 📜 Twilight's Promise
 > - XXX
 
 > [!IMPORTANT]
-> # 1: Ratchers
+> # 2: Complete 📜 Ratchers
 > - XXX
 
 > [!IMPORTANT]
-> # 1: Contact
+> # 3: Complete 📜 Contact
 > - XXX
 
 > [!IMPORTANT]
-> # 1: Shield of arrav (do black arm)
+> # 4: Complete 📜 Shield of arrav (do black arm)
 >	- in game friends chat: "osrs soa" to find a partner
 
 > [!IMPORTANT]
-> # 1: Ethically Acquired Antiquities
+> # 5: Complete 📜 Ethically Acquired Antiquities
 > - Thieving xp
 
 > [!IMPORTANT]
-> # 1: Sheep Herder
+> # 6: Complete 📜 Sheep Herder
 > - XXX
 
 > [!IMPORTANT]
-> # 1: Underground Pass
+> # 7: Complete 📜 Underground Pass
 > - XXX
 
 > [!IMPORTANT]
-> # 1: Regicide
+> # 8: Complete 📜 Regicide
 > - XXX
 
 > [!IMPORTANT]
-> # 1: Roving Elves
+> # 9: Complete 📜 Roving Elves
 > - NOTE when you **make naphtha** inside rimington, make sure to make 2 barrels of it so you have one already made for mournings end part 1.<Br>
 >	- means you need two barrels
 >	- need to make two barrels of tar
 >	- need 20 coal and need a full invy of it when you go to rimgington
 
 > [!IMPORTANT]
-> # 1: Mourning's End Part 1
+> # 10: Complete 📜 Mourning's End Part 1
 > - XXX
 
 > [!IMPORTANT]
-> # 1: Merlin's Crystal
+> # 11: Complete 📜 Merlin's Crystal
 > - XXX
 
 > [!IMPORTANT]
-> # 1: Alfred grimhand's barcrawl
+> # 12: Complete 📜 Alfred grimhand's barcrawl
 > - XXX
 
 > [!IMPORTANT]
-> # 1: Get 35 fishing
+> # 13: 📊 Get 35 fishing
 >  todo figure out method
 
 > [!IMPORTANT]
-> # 1: Get 70 Cooking [costs 400k]
+> # 14: 📊 Get 70 Cooking [costs 400k]
 >  NOTE should we do minigame Tempoross?? get cooking fishing and firemaking xp???
 >	- get 53 fishing using this method
 > - buy 4k grapes
 > - buy 4k jug of water
 
 > [!IMPORTANT]
-> # 1: Get 44 Woodcutting
+> # 15: 📊 Get 44 Woodcutting
 > - Cut down teak logs
 >   - NOTE bring x5 camelot teleport tabs in inventory
 > 	- TODO figure out location (cannot do monkey madness location yet)
 
 > [!IMPORTANT]
-> # 1: Element Workshop 1 and 2
+> # 16: Element Workshop 1 and 2
 > - [ ] Teleport to camelot and run to seers bank (west)
 > - [ ] Bring all items needed for both Elemental Workshop 1 and Elemental Workshop 2
-> - [ ] Start & Complete Elemental Workshop 1
-> - [ ] Start & Complete Elemental workshop 2
+> - [ ] Complete 📜 Elemental Workshop 1
+> - [ ] Complete 📜 Elemental workshop 2
+
 
 > [!IMPORTANT]
-> # 1: Horror From The Deep
-> - XXX
-
-> [!IMPORTANT]
-> # 1: Jungle Potion & Shilo Village
+> # 17: 📜 Jungle Potion & 📜 Shilo Village
 > - [ ] get everything needed for both Jungle Potion and Shilo Village
 > - [ ] Bring:
 > 	- x3 extended stamina
 > 	- bring ranged gear
 >   - x1 super antiposion
 >   - x1 machete
-> - [ ] After completing Jungle poition
-> 	- [ ] Pick up extra items for legends quest
->  		- x1 ardrigal
->      	- x1 snake weed
+> - [ ] **Complete 📜 Jungle Potion**
+> 	- [ ] After completing Jungle potion pick up extra items for legends quest
+>  		- x2 ardrigal
+>      	- x2 snake weed
 > ![](https://images.openai.com/static-rsc-4/EV-1AjkVrrsk16pVkC9rktK-ZnMd-gU9ja5yEz9wLOPGeCoDJJ9-8F17lWqRVQf1sv9zMdEils6uanG6EX5Qxx2eO2TYIjGl0LS4lrJui97dpaOG67f75uCoMczYdg4EUlGStNx6CImwfwGfJqlF7wqC3mo7CXtNdBJOTj0Rihc?raw=true)
+> - [ ] **Complete 📜 Shilo Vilage**
 
 > [!IMPORTANT]
-> # 1: get 100% Tai Bwo Wannai Village favor <sup>(my arms big adventure prereq)</sup>
+> # 18: get 100% Tai Bwo Wannai Village favor <sup>(my arms big adventure prereq)</sup>
 > - [ ] Go to Tai Bwo Wannai village.
-> - [ ] Speak to Murcaily beside the Hardwood Grove gate. (east side of Tai Bwo Wannai Village)
+> - [ ] Speak to Murcaily beside the Hardwood Grove gate. (northeast side of Tai Bwo Wannai Village)
 > - [ ] Agree to help clean up the village.
 > - [ ] Equip your machete.
 > - [ ] Cut some light jungle near the village. (south of murcaily)
@@ -703,19 +701,104 @@ todo list
 > - [ ] Each spider gives approximately 1–2% favour.
 
 > [!IMPORTANT]
-> # 1: XXXXX
+> # 19: Start 📜 Zogre Flesh Eaters
+> - [ ] use dueling ring castle wars tele x3
+> - [ ] when in yanille talk to hazelmere **Resume 📜 The Eyes Of Glouphrie** (no items needed)
+> 	- watch 3 cut scenes
+> - [ ] Resume & **Complete 📜 Zogre Flesh Eaters**
+
+> [!IMPORTANT]
+> # 20: Complete 📜 Fremennick Trials
+> - [ ] When first starting this quest bring:<br>
+>	- do **not wear** any armor or weapons
+>   - x1 axe you are ok with dropping
+>	- x2 ring of recoil
+>   - x10 food
+>   - x2 prayer potion
+>   - x1 extended stamina potion
+> - [ ] Available answers for Peers riddle to open the door
+> 		- "My first is in mage, but not in wizard"		MIND
+>		- "My first is in tar, but not in a swamp"		TREE
+>		- "My first is in the well, but not at sea"		LIFE
+>		- "My first is in fish, but not in the sea"		FIRE
+>		- "My first is in water, and also in tea"		TIME
+>		- "My first is in wizard, but not in a mage"	WIND
+
+> [!IMPORTANT]
+> # 21: Complete 📜 Sleeping Giant
+> - when making the blame make note of what Kovac tells you to make it, it'll be in red IE "flat and broad" (this is randomized for each player and will ask you for the answer)
+
+> [!IMPORTANT]
+> # 22: Complete 📜 Shades of Mort'ton
+> - [ ] switch to world 377 <sup>there is a dedicated world for mort'ton</sup>
+> - [ ] repair the WALLS (not the altar itself)
+> 	- need 100% repair state
+>	- need 20% Sancity
+> - [ ] click altar with tinderbox
+> - [ ] click altar again "use Flaming Altar"
+
+> [!IMPORTANT]
+> # 1: Complete 📜 Haunted Mine
 > - XXX
 
 > [!IMPORTANT]
-> # 1: XXXXX
+> # 1: Resume & Complete 📜 The Eyes Of Glourphrie <sup>(MM2 prereq)</sup>
+> - [ ] talk to Brimstail to get random pieces<br>
+> 	- keep talking to him until he stops giving you pieces<br>
+> 	- drop your pieces and talk to him again<br>
+> 	- repeat until you have 15+ pieces<br>
+> - https://www.youtube.com/watch?v=UsPocLGxINc
+
+> [!IMPORTANT]
+> # 1: 📜 XXXXX
 > - XXX
 
 > [!IMPORTANT]
-> # 1: XXXXX
+> # 1: 📜 XXXXX
 > - XXX
 
 > [!IMPORTANT]
-> # 1: XXXXX
+> # 1: 📜 XXXXX
+> - XXX
+
+> [!IMPORTANT]
+> # 1: 📜 XXXXX
+> - XXX
+
+> [!IMPORTANT]
+> # 1: 📜 XXXXX
+> - XXX
+
+> [!IMPORTANT]
+> # 1: 📜 XXXXX
+> - XXX
+
+> [!IMPORTANT]
+> # 1: 📜 XXXXX
+> - XXX
+
+> [!IMPORTANT]
+> # 1: 📜 XXXXX
+> - XXX
+
+> [!IMPORTANT]
+> # 1: 📜 XXXXX
+> - XXX
+
+> [!IMPORTANT]
+> # 1: 📜 XXXXX
+> - XXX
+
+> [!IMPORTANT]
+> # 1: 📜 XXXXX
+> - XXX
+
+> [!IMPORTANT]
+> # 1: 📜 XXXXX
+> - XXX
+
+> [!IMPORTANT]
+> # 1: 📜 XXXXX
 > - XXX
 
 
