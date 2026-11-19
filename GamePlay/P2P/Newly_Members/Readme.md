@@ -407,7 +407,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 21: Complete 📜 Tears of Guthix
 > - Crafting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - Access to tears minigame which gives free xp to lowest stat
-> - [ ] Start doing this minigame once a day<sup> (use games necklace to teleport)</sup>
+> - [ ] Start doing this minigame once a week<sup> (use games necklace to teleport)</sup>
 
 > [!IMPORTANT]
 > # 22: Complete 📜 Ribbiting Tale of Lily Pad 
@@ -553,16 +553,16 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - [ ] Bring magic shortbow and rune arrows w\ boots of lightness into temple
 
 > [!IMPORTANT]
-> # 47: 📜 Start R4D
+> # 47: Start 📜 RFD <sup>(Recipe For Disaster R4D)</sup>
 > - Complete the subquests in this order:
-> 	- [ ] Complete 📜 Mountain Dwarf
-> 	- [ ] Complete 📜 Pirate Pete<br>
+> 	- [ ] **Complete 📜 Mountain Dwarf**
+> 	- [ ] **Complete 📜 Pirate Pete**<br>
 > 		- Must weigh less than 27kg <sub>(bank d hide body, chaps, coif, and acumulator)</sub><br>
 >		- Must bank cat, cannot have it out or in your inventory
-> 	- [ ] Complete 📜 Wartface and Bentnoz
-> 	- [ ] Complete 📜 Evil Dave
-> 	- [ ] Complete 📜 Lumbridge Guide
-> 	- [ ] Complete 📜 Scratch Uglogwee
+> 	- [ ] **Complete 📜 Wartface and Bentnoz**
+> 	- [ ] **Complete 📜 Evil Dave**
+> 	- [ ] **Complete 📜 Lumbridge Guide**
+> 	- [ ] **Complete 📜 Scratch Uglogwee**
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
@@ -580,7 +580,10 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - The earlier you train agility the more useful it is throughout gameplay
 
 >[!NOTE]
->### 3) Keep this cycle up until around 60-65 slayer
+>### 3) Keep this cycle up until around ~50+ slayer
+
+>[!NOTE]
+>### 4) Get overhear Prayers (43+ Prayer)
 
 
 ---------------------------------------------------------------------------------------------
@@ -682,8 +685,9 @@ todo list
 > 	- [ ] After completing Jungle potion pick up extra items for legends quest
 >  		- x2 ardrigal
 >      	- x2 snake weed
-> ![](https://images.openai.com/static-rsc-4/EV-1AjkVrrsk16pVkC9rktK-ZnMd-gU9ja5yEz9wLOPGeCoDJJ9-8F17lWqRVQf1sv9zMdEils6uanG6EX5Qxx2eO2TYIjGl0LS4lrJui97dpaOG67f75uCoMczYdg4EUlGStNx6CImwfwGfJqlF7wqC3mo7CXtNdBJOTj0Rihc?raw=true)
 > - [ ] **Complete 📜 Shilo Vilage**
+> ![](https://images.openai.com/static-rsc-4/EV-1AjkVrrsk16pVkC9rktK-ZnMd-gU9ja5yEz9wLOPGeCoDJJ9-8F17lWqRVQf1sv9zMdEils6uanG6EX5Qxx2eO2TYIjGl0LS4lrJui97dpaOG67f75uCoMczYdg4EUlGStNx6CImwfwGfJqlF7wqC3mo7CXtNdBJOTj0Rihc?raw=true)
+
 
 > [!IMPORTANT]
 > # 18: get 100% Tai Bwo Wannai Village favor <sup>(my arms big adventure prereq)</sup>
@@ -717,12 +721,12 @@ todo list
 >   - x2 prayer potion
 >   - x1 extended stamina potion
 > - [ ] Available answers for Peers riddle to open the door<br>
-> 		- "My first is in mage, but not in wizard"		MIND<br>
->		- "My first is in tar, but not in a swamp"		TREE<br>
->		- "My first is in the well, but not at sea"		LIFE<br>
->		- "My first is in fish, but not in the sea"		FIRE<br>
->		- "My first is in water, and also in tea"		TIME<br>
->		- "My first is in wizard, but not in a mage"	WIND
+> 		 "My first is in mage, but not in wizard"		MIND<br>
+>		 "My first is in tar, but not in a swamp"		TREE<br>
+>		 "My first is in the well, but not at sea"		LIFE<br>
+>		 "My first is in fish, but not in the sea"		FIRE<br>
+>		 "My first is in water, and also in tea"		TIME<br>
+>		 "My first is in wizard, but not in a mage"	    WIND
 
 > [!IMPORTANT]
 > # 21: Complete 📜 Sleeping Giant
@@ -782,7 +786,7 @@ todo list
 
 > [!IMPORTANT]
 > # 1: Complete 📜 A Shell of a Friend
-> - Construction xp <sup>(quest prereq)</sup>
+> - Construction xp <sup>(quest prereq)</sup><br>
 > https://oldschool.runescape.wiki/w/A_Shell_of_a_Friend
 
 > [!IMPORTANT]
@@ -833,7 +837,7 @@ todo list
 
 > [!IMPORTANT]
 > # 1: Get 52 mining
-> - [ ] Wear varrock armor 1 body <sup>gives chance of double xp on iron ore</sup>
+> - [ ] Wear varrock armor 1 body <sup>(gives chance of double xp on iron ore)</sup>
 > - [ ] Power mine iron the whole way <sup>(Click Mine ore, wait, when mined immediately drop previous iron ore, repeat)</sup>
 > - [ ] Go to Al kharid mine where there are 3 iron rocks in a U. <sup>(glory -> al kharid -> run north OR ring of dueling -> arena -> go west outside of arena then north)</sup><br>
 > https://oldschool.runescape.wiki/w/Al_Kharid_mine
@@ -853,7 +857,7 @@ todo list
 > [!IMPORTANT]
 > # 1: Get 50 Crafting
 > - Cut part of your ruby stack to 50 crafting, if you haven't already.<br>
-> <sup>NOTE - You will cut ~2300 total Rubies to get to 70 crafting. You can continue to cut all your rubies now if you want but you only need 50 crafting to resume questing</sup>
+> - NOTE - You will cut ~2300 total Rubies to get to 70 crafting. You can continue to cut all your rubies now if you want but you only need 50 crafting to resume questing
 
 > [!IMPORTANT]
 > # 1: Get 31 Herblore
@@ -965,7 +969,58 @@ todo list
 
 > [!IMPORTANT]
 > # 1: Get 60 Hunter
-> - XXX
+> - [ ] Lvls 29-39 Cerulean Twitch + Sapphire Glacialis + Snowy Knight<br>
+> 	- Inventory:<br>
+> 		- Wear Nothing<br>
+>     	- x1 Insect net (wield it)<br>
+>		- x5 snare traps<br>
+>		- x5 Civitas Illa Teleport<br>
+>    	- x5 Varrock Teleport<br>
+> 		- x10 super hunter potion<br>
+> 	- Teleport to Civitas Illa Fortis<br>
+> 		- Run west to teleporting birds<br>
+>     	- Travel to Quetzacalli Gorge<br>
+>     	- Run over west bridge to the top of the snowy mountain<br>
+> 	- Catch Sapphire Glacialis as you see them<br>
+> 	- Set up two snare traps right by each other near where you see butterflies and birds<br>
+> 	- Take your hunter potion once your hunter level is 1-2 level higher than default. Take a sip often<br>
+> 	- Focus on the butterflies they are better xp but don't get far from your snares and keep them running<br>
+> 	- When catching butterflies look for the xp drop to know when you caught it and can run back<br>
+> - [ ] 39-44 Embertailed Jerboa<br>
+>	- Inventory:<br>
+>		- Wear nothing<br>
+>		- x5 Varrock tele tabs<br>
+>		-	x1 super antiposion<br>
+>		- x5 civitas illa teleport<br>
+>		- x5 box traps<br>
+>		- x2 mantaray<br>
+>		- rest of your hunter potions<br>
+>	- Teleport to Civititas Illa Fortis<br>
+>		- Run west to teleporting birds (quetzal)<br>
+>		- Travel to sunset coast<br>
+>		- Run northwest to hunter icon<br>
+>	- Keep yourself potted up and set up 3 traps in a triangle<br>
+>	- https://www.youtube.com/watch?v=V6QaIPc7W0Y
+> - [ ] 43–49 Falconry >> Spotted<br>
+>	- Rent a falcon for 500 coins at Piscatoris Falconry Area<br>
+>	- Located north west of gnome stonghold<br>
+>		- Get to gnome stronghold (varrock ge + spirit tree)<br>
+>		- leave gnome stronghold (go south)<br>
+>		- run west around gnome stronghold and make your way directly north to falconary spot<br>
+>	- https://www.youtube.com/watch?v=VI7BYA4zREg<br>
+> 	- Inventory: <sup>(You only need coins but once you are level 49 hunter you can step outside the area and start on razor-backed kebbits)</sup><br>
+>		- 5k coins<br>
+>		- x1 noose<br>
+>		- x15 ring of pursuit
+> 		- x5 Varrock teleport tab
+> - [ ] 49-60 Razor-backed Kebbits<br>
+>	- Location: see above, same as Falconry. This spot is on the west gate outsde the Piscatoris Falconry Area<br>
+>	- Inventory:<Br>
+>		- Noose wand (wield it)<br>
+>		- x1 extended Stamina Potion<br>
+>		- x5 Varrock teleport tab<br>
+>		- rest invetnroy Ring of Pursuit<br>
+>	- https://www.youtube.com/watch?v=pLhmcMKZQPQ
 
 > [!IMPORTANT]
 > # 1: Get 60 Firemaking
@@ -1191,6 +1246,10 @@ SLAYER MASTERS:
 		aberrant spectres	
 		Magic axes
 		Bears
+```
+```
+-> boosting guide/turael skip https://www.youtube.com/watch?v=kBlTuc_W1ZE
+-> bursting guide https://www.youtube.com/watch?v=mkCTm4_Kdls&t=350s
 ```
 
 ---------------------------------------------------------------------------------------------
