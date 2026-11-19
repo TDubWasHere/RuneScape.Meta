@@ -523,7 +523,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 42: 📊 Get 52 Agility
-> <sup>Once you are 52 you can start doing wilderness agility masses inside `agility fc` friends chat</sup>
+> <sup>Once you are 52 you can start doing wilderness agility masses inside `agility fc` chat-channel</sup>
 > - ~2 hours and 15 minutes
 > - [ ] Go to Brimhaven Agility Course <sup>Karmja glory teleport then west</sup>
 > - [ ] Get 100 tickets <sup>should be at level 48 agility</sup>
@@ -608,7 +608,7 @@ todo list
 
 > [!IMPORTANT]
 > # 4: Complete 📜 Shield of arrav (do black arm)
->	- in game friends chat: "osrs soa" to find a partner
+>	- in game chat-channel: "osrs soa" to find a partner
 
 > [!IMPORTANT]
 > # 5: Complete 📜 Ethically Acquired Antiquities
@@ -666,14 +666,14 @@ todo list
 > # 16: Element Workshop 1 and 2
 > - [ ] Teleport to camelot and run to seers bank (west)
 > - [ ] Bring all items needed for both Elemental Workshop 1 and Elemental Workshop 2
-> - [ ] Complete 📜 Elemental Workshop 1
-> - [ ] Complete 📜 Elemental workshop 2
+> - [ ] **Complete 📜 Elemental Workshop 1**
+> - [ ] **Complete 📜 Elemental workshop 2**
 
 
 > [!IMPORTANT]
 > # 17: 📜 Jungle Potion & 📜 Shilo Village
 > - [ ] get everything needed for both Jungle Potion and Shilo Village
-> - [ ] Bring:
+> - [ ] Additionally bring:
 > 	- x3 extended stamina
 > 	- bring ranged gear
 >   - x1 super antiposion
@@ -716,12 +716,12 @@ todo list
 >   - x10 food
 >   - x2 prayer potion
 >   - x1 extended stamina potion
-> - [ ] Available answers for Peers riddle to open the door
-> 		- "My first is in mage, but not in wizard"		MIND
->		- "My first is in tar, but not in a swamp"		TREE
->		- "My first is in the well, but not at sea"		LIFE
->		- "My first is in fish, but not in the sea"		FIRE
->		- "My first is in water, and also in tea"		TIME
+> - [ ] Available answers for Peers riddle to open the door<br>
+> 		- "My first is in mage, but not in wizard"		MIND<br>
+>		- "My first is in tar, but not in a swamp"		TREE<br>
+>		- "My first is in the well, but not at sea"		LIFE<br>
+>		- "My first is in fish, but not in the sea"		FIRE<br>
+>		- "My first is in water, and also in tea"		TIME<br>
 >		- "My first is in wizard, but not in a mage"	WIND
 
 > [!IMPORTANT]
@@ -750,36 +750,68 @@ todo list
 > - https://www.youtube.com/watch?v=UsPocLGxINc
 
 > [!IMPORTANT]
-> # 1: 📜 XXXXX
+> # 1: Complete 📜 The Birds And The Wasps
+> - Hunter xp <sup>(Peril Moons & MM2 prereq)</sup>
+> https://oldschool.runescape.wiki/w/The_Birds_and_the_Wasps
+
+> [!IMPORTANT]
+> # 1: Complete 📜 The Ascent of Acreuus
+> - Hunter xp <sup>(Peril Moons & MM2 prereq)</sup>
+> - [ ] bring x3 Kourend castle teleports
+> - [ ] Use Kourend castle teleport to start quest
+
+> [!IMPORTANT]
+> # 1: Complete 📜 Tower of Life
+> - Construction xp <sup>(prereq)</sup>
+
+> [!IMPORTANT]
+> # 1: 📊 Get 15 construction
+> - [ ] Bring in your inventory<br>
+>	- x3 watering can
+> 	- x10+ house teleport
+> 	- x10+ varrock teleport
+> 	- ????x1 hammer
+> 	- ????x1 saw
+> 	- Rest inventory bagged plant 2
+> - [ ] 1) House teleport & turn on building mode
+> - [ ] 2) Make "small plant space 2" and then remove it until all bagged plants are used
+> - [ ] 3) Teleport to varrock
+> - [ ] 4) fill up watering can (at fountain in varrock center)
+> - [ ] 5) rebank and grab more gabbed plants
+> - [ ] 6) Repeat back to step 1
+
+> [!IMPORTANT]
+> # 1: Complete 📜 A Shell of a Friend
+> - Construction xp <sup>(quest prereq)</sup>
+> https://oldschool.runescape.wiki/w/A_Shell_of_a_Friend
+
+> [!IMPORTANT]
+> # 1: Complete 📜 The Fremennik Isles
+> - woodcutting xp <sup>(quest prereq)</sup>
+> - [ ] do not use ranged or mage for these fights even if your melee sucks. Boss has +2k mage and ranged defense
+> - [ ] bring supercombat potion w\ 6 prayer pots
+
+> [!IMPORTANT]
+> # 1: Complete 📜 Enter The Abyss
 > - XXX
 
 > [!IMPORTANT]
-> # 1: 📜 XXXXX
-> - XXX
-
-> [!IMPORTANT]
-> # 1: 📜 XXXXX
-> - XXX
-
-> [!IMPORTANT]
-> # 1: 📜 XXXXX
-> - XXX
-
-> [!IMPORTANT]
-> # 1: 📜 XXXXX
-> - XXX
-
-> [!IMPORTANT]
-> # 1: 📜 XXXXX
-> - XXX
-
-> [!IMPORTANT]
-> # 1: 📜 XXXXX
-> - XXX
-
-> [!IMPORTANT]
-> # 1: 📜 XXXXX
-> - XXX
+> # 1: Varrock Easy Diary
+> - [ ] Bring 10 Varrock Teles
+> - [ ] Go to Varrock museum (north of west bank, south of altar)
+> - [ ] enter rope area
+> - [ ] get tools from wall
+> - [ ] search pile of rocks
+> - [ ] use on table to clean
+> - [ ] get any 3 artifacts:<br>
+>	- Pottery<br>
+>	- Ancient symbol<br>
+>	- Old symbol<br>
+>	- Ancient coin<br>
+>	- Old coin<br>
+> - [ ] use a artifact on an npc in the rope area and it'll tell you where to put it. <sup> (Only one artifact at a time)</sup>
+> - [ ] Go out of the rope and put the artifact where it belongs
+> - [ ] Repeat until you identified 3 artifacts and have max kudos
 
 > [!IMPORTANT]
 > # 1: 📜 XXXXX
