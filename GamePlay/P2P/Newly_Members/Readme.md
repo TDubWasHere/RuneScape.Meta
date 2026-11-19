@@ -208,6 +208,7 @@ LEGEND
 	x1 cake tin
 	x1 iron spit
 	x1 balls of wool
+
 	x1 rotten tomato (must buy near varrock ranged shop, south of ranged shop, north of the pub on the east side of town)
 ```
 
@@ -595,20 +596,225 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 ## 1) Purchase Supplies at GE
 ```
-todo list
+	x10 ape atoll teleport
+	x30 iorwerth camp teleport	
+	x30 civitas teleport
+	x21 rope
+	x4 bones
+	z2 cake
+	x40 coal
+	x5 pestle and mortar
+	x5 hammer
+	x3 knife
+	x3 chisel
+	x3 saw
+	x2 spade
+	x2 rake
+	x2 seed dipper
+	x5 tinderbox
+	x2 bucket
+	x5 candle
+	x3 ashes
+	x2 leather
+	x2 bucket of milk
+	x3 super antiposion potion
+	x3 bronze axe (woodcutting)
+	x33 bagged plant 2
+	x3 watering can
+	x2300 uncut ruby
+	x1200 gold ore
+	x50 harralander potions (unf)
+	x50 chocolate dust
+	x320 Ranarr potion (unf)
+	x320 snape grass
+	x10 lumberyard teleport
+	x5630 green dragon leather
+	x410 thread
+	x15 logs
+	x5 oak logs
+	x55 maple logs
+	x1100 mahogany logs
+	x26 magic logs
+	x5 box traps
+	x5 snare trap
+	x2 insect net
+	x2 noose wand
+	x55 ring of pursuit
+	x10 hunter potion
+	x3k feathers
+	x1 fly fishing rod
+	x6 gold bar
+	x6 Ball of Wool
+	x105 lockpick
+	x2 swamp tar
+	x4 charcoal
+	x7 molten glass
+	x100 steel nails
+	x15 planks
+	x3 yellow dye
+	x4 Beer
+	x3 bronze pickaxe
+	x2 soft clay
+	x2 bat bones
+	x2 climbing boots
+	x9 salmon
+	
+	
+	-> monkey madness
+		x1 monkey bones FROM karmja
+	-> RFD >> King Awowogei
+		x1 banana
+		x1 monkey nuts
+	-> desert treasure	
+		x6 steel bar
+		x1 silver bar
+		x1 garlic powder
+		x1 spice
+		x1 spiked boots
+	-> fremennick trials
+		x1 raw shark
+	-> shilo village
+		x1 bronze wire
+	-> shades of mort'ton
+		x2 Tarromin potion (unf)
+		x2 oak pyre log
+	-> enakhra's lament
+		x1 willow logs
+		x2 granite (5kg)
+	-> merlin's crystal
+		x1 bread
+		x1 bucket of wax
+	-> hero's quest
+		x1 fishing rod
+		x1 fishing bait
+		x1 harralander potion (unf)
+		x1 black full helm
+		x1 black platebody
+		x1 black platelegs
+	-> family crest
+		x1 shrimps
+		x1 tuna
+		x1 bass
+		x1 swordfish
+		x1 ring mould
+		x1 necklace mould
+	-> underground pass
+		x1 bow (not crossbow)
+		x1 arrows (metal, unposioned)
+	-> RFD >> Sir Amik Varze
+		x1 raw chicken
+		x1 pot of cream
+		x1 pot of cornflour
+	-> ratchers
+		x4 cheese
+		x1 marrentill
+		x1 unicorn horn dust
+		x1 kwuarm
+		x1 red spiders eggs
+		x2 weeds
+		x2 pot
+	-> regicide
+		x10 limestone
+		x1 cooked rabbit
+	-> mourning's end part 1
+		x1 bear fur
+		x2 silk
+		x1 red dye
+		x1 blue dye
+		x1 green dye
+		x1 bucket of water
+		x1 feather
+		x1 toad crunchies
+	-> Daddy's home
+		x5 bolt of cloth
+	-> the eyes of glourphrie 
+		x1 bucket of sap
+		x1 mud rune
+	-> The Ascent of Acreuus
+		x10 battlefront teleport
+		x10 Kourend Castle Teleport
+	-> varrock easy diary 
+		x1 bones
+		x1 earth talisman
+		x1 Essence
+	-> zogre flesh eaters
+		x1 Sanfew serum(4)
+	-> shades of mort'ton
+		x10 mort'ton teleport
+		x1 flamtaer bracelet
+	-> tower of life 
+		x1 raw swordfish
+		x1 raw chicken
+	-> the fremennik isles
+		x1 raw tuna
+		x8 split log
+		x1 neitiznot shield
+		x1 yak-hide armour (top)
+		x1 yak-hide armour (bottom)
+	-> legends quest
+		x5 papyrus
+		x1 machete
+		x1 rune axe
+		x1 sapphire
+		x1 emerald
+		x1 diamond
+		x1 opal
+		x1 jade
+		x1 red topax
+		x1 soul rune
+		x1 mind rune
+		x1 earth rune
+		x2 law rune
+		x1 unpowered orb
+		x3 cosmic rune
+		x30 water runes
+	-> peril moons
+		x1 big fishing net
+	-> watchtower
+		x1 death rune
+		x1 dragon bones
+		x1 guam potion (unf)
+		x1 jangerberries
+	-> enlightened journey
+		x10 potatoes
+		x3 papyrus
+		x8 empty sack
+		x1 red dye
+		x10 silk
+		x1 bowl
+		x12 willow branches
+	-> monkey madness 2
+		x1 lemon
+		x1 grapes
+	-> forgettable tale
+		x2 barley malt
+		x2 bucket of water
+		x1 kebab
+		x1 dwarven stout
+		x1 beer glass
+	-> eadgar's ruse
+		x1 climbing boots
+		x1 vodka
+		x1 pineapple cjunks
+		x10 grain
+		x5 raw chicken
+		x1 ranarr potion (unf)
+	-> my arm's big adventure
+		x8 supercompost
+	-> horror from the deep
+		x1 bronze longsword
+	-> tears of guthix
+		x1 sapphire lantern
 ```
 
 > [!IMPORTANT]
 > # 1: Complete 📜 Twilight's Promise
-> - XXX
 
 > [!IMPORTANT]
 > # 2: Complete 📜 Ratchers
-> - XXX
 
 > [!IMPORTANT]
 > # 3: Complete 📜 Contact
-> - XXX
 
 > [!IMPORTANT]
 > # 4: Complete 📜 Shield of arrav (do black arm)
@@ -620,15 +826,12 @@ todo list
 
 > [!IMPORTANT]
 > # 6: Complete 📜 Sheep Herder
-> - XXX
 
 > [!IMPORTANT]
 > # 7: Complete 📜 Underground Pass
-> - XXX
 
 > [!IMPORTANT]
 > # 8: Complete 📜 Regicide
-> - XXX
 
 > [!IMPORTANT]
 > # 9: Complete 📜 Roving Elves
@@ -639,15 +842,12 @@ todo list
 
 > [!IMPORTANT]
 > # 10: Complete 📜 Mourning's End Part 1
-> - XXX
 
 > [!IMPORTANT]
 > # 11: Complete 📜 Merlin's Crystal
-> - XXX
 
 > [!IMPORTANT]
 > # 12: Complete 📜 Alfred grimhand's barcrawl
-> - XXX
 
 > [!IMPORTANT]
 > # 13: 📊 Get 35 fishing
@@ -655,8 +855,7 @@ todo list
 
 > [!IMPORTANT]
 > # 14: 📊 Get 70 Cooking [costs 400k]
->  NOTE should we do minigame Tempoross?? get cooking fishing and firemaking xp???
->	- get 53 fishing using this method
+>  NOTE should we do minigame Tempoross?? get cooking fishing and firemaking xp??? get 53 fishing using this method ??
 > - buy 4k grapes
 > - buy 4k jug of water
 
@@ -743,11 +942,11 @@ todo list
 > - [ ] click altar again "use Flaming Altar"
 
 > [!IMPORTANT]
-> # 1: Complete 📜 Haunted Mine
+> # 23: Complete 📜 Haunted Mine
 > - XXX
 
 > [!IMPORTANT]
-> # 1: Resume & Complete 📜 The Eyes Of Glourphrie <sup>(MM2 prereq)</sup>
+> # 24: Resume & Complete 📜 The Eyes Of Glourphrie <sup>(MM2 prereq)</sup>
 > - [ ] talk to Brimstail to get random pieces<br>
 > 	- keep talking to him until he stops giving you pieces<br>
 > 	- drop your pieces and talk to him again<br>
@@ -755,22 +954,22 @@ todo list
 > - https://www.youtube.com/watch?v=UsPocLGxINc
 
 > [!IMPORTANT]
-> # 1: Complete 📜 The Birds And The Wasps
+> # 25: Complete 📜 The Birds And The Wasps
 > - Hunter xp <sup>(Peril Moons & MM2 prereq)</sup>
 > https://oldschool.runescape.wiki/w/The_Birds_and_the_Wasps
 
 > [!IMPORTANT]
-> # 1: Complete 📜 The Ascent of Acreuus
+> # 26: Complete 📜 The Ascent of Acreuus
 > - Hunter xp <sup>(Peril Moons & MM2 prereq)</sup>
 > - [ ] bring x3 Kourend castle teleports
 > - [ ] Use Kourend castle teleport to start quest
 
 > [!IMPORTANT]
-> # 1: Complete 📜 Tower of Life
+> # 27: Complete 📜 Tower of Life
 > - Construction xp <sup>(prereq)</sup>
 
 > [!IMPORTANT]
-> # 1: 📊 Get 15 construction
+> # 28: 📊 Get 15 construction
 > - [ ] Bring in your inventory<br>
 >	- x3 watering can
 > 	- x10+ house teleport
@@ -786,22 +985,21 @@ todo list
 > - [ ] 6) Repeat back to step 1
 
 > [!IMPORTANT]
-> # 1: Complete 📜 A Shell of a Friend
+> # 29: Complete 📜 A Shell of a Friend
 > - Construction xp <sup>(quest prereq)</sup><br>
 > https://oldschool.runescape.wiki/w/A_Shell_of_a_Friend
 
 > [!IMPORTANT]
-> # 1: Complete 📜 The Fremennik Isles
+> # 30: Complete 📜 The Fremennik Isles
 > - woodcutting xp <sup>(quest prereq)</sup>
 > - [ ] do not use ranged or mage for these fights even if your melee sucks. Boss has +2k mage and ranged defense
 > - [ ] bring supercombat potion w\ 6 prayer pots
 
 > [!IMPORTANT]
-> # 1: Complete 📜 Enter The Abyss
-> - XXX
+> # 31: Complete 📜 Enter The Abyss
 
 > [!IMPORTANT]
-> # 1: Varrock Easy Diary
+> # 32: Varrock Easy Diary
 > - [ ] Bring 10 Varrock Teles
 > - [ ] Go to Varrock museum (north of west bank, south of altar)
 > - [ ] enter rope area
@@ -819,7 +1017,7 @@ todo list
 > - [ ] Repeat until you identified 3 artifacts and have max kudos
 
 > [!IMPORTANT]
-> # 1: Complete 📜 Forgettable Tale & Herblore + Crafting Training
+> # 33: Complete 📜 Forgettable Tale & Herblore + Crafting Training
 > - Farming xp
 > - [ ] While waiting for your farming patch to grow (15-20 minutes)<br>
 > 	- Make all of your energy potions (50) for herblore training <sup>(Harralander potions (unf) + chocolate dust)</sup><br>
@@ -828,44 +1026,44 @@ todo list
 >	- Finish cutting all your rubies for crafting
 
 > [!IMPORTANT]
-> # 1: Complete 📜 Garden of Death
+> # 34: Complete 📜 Garden of Death
 > - Farming xp
 
 > [!IMPORTANT]
-> # 1: Complete 📜 Enlightened Journey 
+> # 35: Complete 📜 Enlightened Journey 
 > - MM2 prereq
 > - Fill up 1 empty sack with 10 potatoes (use potatoes on the sack)
 
 > [!IMPORTANT]
-> # 1: Get 52 mining
+> # 36: 📊 Get 52 mining
 > - [ ] Wear varrock armor 1 body <sup>(gives chance of double xp on iron ore)</sup>
 > - [ ] Power mine iron the whole way <sup>(Click Mine ore, wait, when mined immediately drop previous iron ore, repeat)</sup>
 > - [ ] Go to Al kharid mine where there are 3 iron rocks in a U. <sup>(glory -> al kharid -> run north OR ring of dueling -> arena -> go west outside of arena then north)</sup><br>
 > https://oldschool.runescape.wiki/w/Al_Kharid_mine
 
 > [!IMPORTANT]
-> # 1: Complete 📜 Watchtower
+> # 37: Complete 📜 Watchtower
 > - use castle wars (dueling ring) teleport to get to yanille
 
 > [!IMPORTANT]
-> # 1: Complete 📜 Family Crest
+> # 38: Complete 📜 Family Crest
 > - XXX
 
 > [!IMPORTANT]
-> # 1: Complete 📜 Hero's Quest
+> # 39: Complete 📜 Hero's Quest
 > - XXX
 
 > [!IMPORTANT]
-> # 1: Get 50 Crafting
+> # 40: 📊 Get 50 Crafting
 > - Cut part of your ruby stack to 50 crafting, if you haven't already.<br>
 > - NOTE - You will cut ~2300 total Rubies to get to 70 crafting. You can continue to cut all your rubies now if you want but you only need 50 crafting to resume questing
 
 > [!IMPORTANT]
-> # 1: Get 31 Herblore
+> # 41: Get 31 Herblore
 > - Finish making your energy potions <sup>(you might have already finished these)</sup>
 
 > [!IMPORTANT]
-> # 1: Get 53 Fishing
+> # 42: 📊 Get 53 Fishing
 > - [ ] Bring in your invy<br>
 >	- x1 Fly fishing rod<br>
 > 	- x3000 feathers<br>
@@ -875,7 +1073,7 @@ todo list
 > - [ ] Power fish <sup>(drop your trout and salmon when your inventory is full)</sup>
 
 > [!IMPORTANT]
-> # 1: Get 50 Smithing
+> # 43: 📊 Get 50 Smithing
 > - [ ] Take steel guantlets to Al kharid mind<br>
 >	- Find "avan fitzharmon" in the mine<br>
 >	- Give him your gauntlets to make **gold smith gauntlets**
@@ -889,24 +1087,22 @@ todo list
 > 	- https://www.youtube.com/watch?v=HsDEOxTBrlU<br>
 
 > [!IMPORTANT]
-> # 1: Get 50 woodcutting
+> # 44: 📊 Get 50 woodcutting
 > - Power chop teak logs the whole way <sup>(Chop a full inventory then drop the logs. Repeat)</sup>
 > - TODO location????
 
 > [!IMPORTANT]
-> # 1: Complete 📜 Eadgar's Ruse
-> - XXX
+> # 45: Complete 📜 Eadgar's Ruse
 
 > [!IMPORTANT]
-> # 1: Complete 📜 My Arm's Big Adventure
-> - XXX
+> # 46: Complete 📜 My Arm's Big Adventure
 
 > [!IMPORTANT]
-> # 1: Get 45 Herblore
+> # 47: Get 45 Herblore
 > - Make All your prayer potions <sup>Ranarr potion (unf) + Snape Grass)</sup>
 
 > [!IMPORTANT]
-> # 1: Complete 📜 Desert Treasure I
+> # 48: Complete 📜 Desert Treasure I
 > - [ ] FIRST BOSS NOTES<br>
 >	- Kill with water spells ideally <sup>(ranged is fine if you're 70+)</sup>
 > - [ ] SECOND DIAMOND NOTES (Shadow Diamiond)<br>
@@ -923,11 +1119,11 @@ todo list
 >		- Get ranged gear + food and pots (prayer & ranged)
 
 > [!IMPORTANT]
-> # 1: Complete 📜 Monkey Madness I
+> # 49: Complete 📜 Monkey Madness I
 > - Do **not** drop your Translation book
 
 > [!IMPORTANT]
-> # 1: Complete 📜 Legends Quest
+> # 50: Complete 📜 Legends Quest
 > - [ ] When inside the Kharazi Jungle<br>
 >		- Go south of the tree patch icon and pick 1 vanilla pod <sup>(RFD prereq)</sup>
 > - [ ] Use lamps:<br>
@@ -935,16 +1131,16 @@ todo list
 > 	- x3 Crafting (need 70)
 
 > [!IMPORTANT]
-> # 1: Finish 📜 RFD (recipe For Disaster)
-> - [ ] Complete King Awowogei
-> - [ ] Complete Sir Amik Varze
-> - [ ] Complete Final Culinaromancer <sup>()</sup>
+> # 51: Finish 📜 RFD (recipe For Disaster)
+> - [ ] **Complete 📜 King Awowogei**
+> - [ ] **Complete 📜 Sir Amik Varze**
+> - [ ] **Complete 📜 Final Culinaromancer** <sup>()</sup>
 >	- Bring your ice gloves
 >	- Bring your best gear w\ pots and food
 > - [ ] Use lamp on crafting
 
 > [!IMPORTANT]
-> # 1: 📜 Eagles' Peak & 📜 Pandemonium
+> # 52: 📜 Eagles' Peak & 📜 Pandemonium
 > - These quests will be done back to back<br>
 > - [ ] Bring in your invy:<br>
 >	- Glory<br>
@@ -954,7 +1150,7 @@ todo list
 > - [ ] **Complete 📜 Pandemonium**
 
 > [!IMPORTANT]
-> # 1: Unlock Tree Gnome Stronghold Balloon Route (Balloon Transport - Grand Tree)
+> # 53: Unlock Tree Gnome Stronghold Balloon Route (Balloon Transport - Grand Tree)
 > - [ ] Travel to Entrana <sup>(glory -> draynor village -> run to port)</sup><br>
 >	- No armor/weapon<br>
 > - [ ] Bring with you:<br>
@@ -964,12 +1160,12 @@ todo list
 > 	- x2 extended stamina potion
 
 > [!IMPORTANT]
-> # 1: Get 70 Crafting
+> # 54: 📊 Get 70 Crafting
 > - [ ] Cut the rest of your rubies if you have any left <sup>(you should be level 63+)</sup>
 > - [ ] Make green d hide bodies till 70
 
 > [!IMPORTANT]
-> # 1: Get 60 Hunter
+> # 55: 📊 Get 60 Hunter
 > - [ ] Lvls 29-39 Cerulean Twitch + Sapphire Glacialis + Snowy Knight<br>
 > 	- Inventory:<br>
 > 		- Wear Nothing<br>
@@ -1024,15 +1220,15 @@ todo list
 >	- https://www.youtube.com/watch?v=pLhmcMKZQPQ
 
 > [!IMPORTANT]
-> # 1: Get 60 Firemaking
+> # 56: 📊 Get 60 Firemaking
 > - [ ] Burn your 1100 Mahogany logs
 
 > [!IMPORTANT]
-> # 1: Get 69 Slayer
+> # 57: 📊 Get 69 Slayer
 > - See Slayer Guide if you need tips
 
 > [!IMPORTANT]
-> # 1: Complete 📜 Perilous Monns
+> # 58: Complete 📜 Perilous Monns
 > - [Watch how the fighting michanics work](https://www.youtube.com/watch?v=ugHndNlCvtQ)<br>
 > - [ ] Bring melee Gear only <sup>(Bosses have 2k+ defense for ranged and mage)</sup><br>
 >		- You need each style of attack (stab, slash, crush)<br>
@@ -1046,7 +1242,7 @@ todo list
 >	- 6. now use your talsimans to find the pool and use them
 
 > [!IMPORTANT]
-> # 1: Complete 📜 Monkey Madness II
+> # 59: Complete 📜 Monkey Madness II
 > - [ ] Also Grab x5 Ape Atol Teleport
 > - [ ] TO GET ANOTHER TRANSLATION BOOK<br>
 > 	- King Narcode will give you one when you speak with him while having the mysterious note you found in Glough's house.
