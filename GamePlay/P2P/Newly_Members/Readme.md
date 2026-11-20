@@ -14,6 +14,8 @@
 LEGEND
 	📜 = quest
 	📊 = skilling
+
+	Any time you see "[Start/Resume/Complete] 📜 [QUEST NAME]" you can then activate that quest in your runelite plugin quest helper
 ```
 
 # 1) Build F2P starter account before buying members
@@ -449,7 +451,17 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Located in Varrock Museum (north of the east bank)
 
 > [!IMPORTANT]
-> # 28: 📜 Animal Magnetism & Nature Spirit
+> # 28: Complete 📜 Daddy's Home
+> - Construction xp <sup>(MM2 & Peril Moons prereq)</sup>
+> - [ ] Bring with you:<br>
+>	- x10 planks<br>
+> 	- x5 bolts of cloth<br>
+> 	- x100 steel nails<br>
+> 	- x1 hammer<br>
+>	- x1 saw
+
+> [!IMPORTANT]
+> # 29: 📜 Animal Magnetism & Nature Spirit
 > - Unlocks Accumulator
 > - For x20 Eco-tokens bring in your invy:
 > 	- [ ] x4 Bones
@@ -460,42 +472,42 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - [ ] Immediately after Resume & **Complete 📜 Animal Magnetism**
 
 > [!IMPORTANT]
-> # 29: Alfred Grimhand's Barcrawl <sup>(Horror from the deep Prereq)</sup>
+> # 30: Alfred Grimhand's Barcrawl <sup>(Horror from the deep Prereq)</sup>
 > - https://oldschool.runescape.wiki/w/Alfred_Grimhand%27s_Barcrawl#mapFullscreen
 > - There is a RuneLite quest help for this, search barcrawl
 
 > [!IMPORTANT]
-> # 30: Complete 📜 Horror from the Deep <sup>(R4D Prereq)</sup>
+> # 31: Complete 📜 Horror from the Deep <sup>(R4D Prereq)</sup>
 > - Unlocks godbook for mage bonus
 
 > [!IMPORTANT]
-> # 31: Complete 📜 Murder Mystery <sup>(R4D Prereq)</sup>
+> # 32: Complete 📜 Murder Mystery <sup>(R4D Prereq)</sup>
 > - Crafting XP <sup>(Lost City Prereq)</sup>
 
 > [!CAUTION]
-> # 32: Resume & Complete 📜 Nature Spirit <sup>(R4D Prereq)</sup>
+> # 33: Resume & Complete 📜 Nature Spirit <sup>(R4D Prereq)</sup>
 > - [WARNING] Gives 2k def xp
 > - Crafting xp <sup>(Lost City Prereq)</sup>
 
 > [!IMPORTANT]
-> # 33: Complete 📜 Haunted Mine
+> # 34: Complete 📜 Haunted Mine
 > - Strength xp (22,000)
 > - [ ] Use Mort'tron teleport to start quest
 
 > [!CAUTION]
-> # 34: Complete 📜 Dragon Slayer <sup>(R4D Prereq)</sup>
+> # 35: Complete 📜 Dragon Slayer <sup>(R4D Prereq)</sup>
 > - WARNING gives 18k def xp
 > - Ability to wear rune pl8 and dragonhide body
 > - Ability to be assigned Slayer Tasks for slayer skill
 
 > [!IMPORTANT]
-> # 35: Complete 📜 The Golem
+> # 36: Complete 📜 The Golem
 > - Crafting XP <sup>(Lost City Prereq)</sup>
 > - Thieving XP <sup>(R4D Prereq)</sup>
 > - [ ] Use Necklace of Passage teleport "Eagle's Eyrie"
 
 > [!IMPORTANT]
-> # 36: Complete 📜 Lost City <sup>(R4D Prereq)</sup>
+> # 37: Complete 📜 Lost City <sup>(R4D Prereq)</sup>
 > - Unlocks ability to wield Dragon Weapons
 > - [ ] When you are told to bank everything:<Br>
 > 	- Add food to your invy (you will fight monsters with no armor)<br>
@@ -503,14 +515,32 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - [ ] After you kill the spirit , chop down the tree and get **4 dramen branches** which we will use for future quests <sup>(RFD & MM2)</sup>
 
 > [!IMPORTANT]
-> # 37: Complete 📜 Sea slug
+> # 38: Complete 📜 Fairytale I
+> - prereq to unlock fairyrings
+
+> [!IMPORTANT]
+> # 39: Start 📜 Fairytale II
+> - unlocks fairyrings
+> - You do not have to complete this quest, nor do you need the skill requirements to start
+> - [ ] Do the first XXX steps to unlock fairyrings<br>
+>	1) Start Fairytale II – Cure a Queen by speaking to Martin the Master Gardener in Draynor Village.<br>
+>	2) Wait 5 minutes, then speak to Martin again.<br>
+>	3) Follow the quest to Fairy Nuff's grotto in Zanaris.<br>
+>	4) Progress until you reach the Fairy Godfather in the throne room.<br>
+>	5) Ask him what happened to the Fairy Queen and agree to help find her.<br>
+>	6) Speak to the Fairy Coordinator outside the throne room.<br>
+>	7) Speak to Fairy Fixit near the fairy ring.<br>
+
+
+> [!IMPORTANT]
+> # 40: Complete 📜 Sea slug
 > - Fishing xp <sup>(fishing contest prereq)</sup>
 
 > [!IMPORTANT]
-> # 38: Complete 📜 Fishing Contest <sup>(R4D Prereq)</sup>
+> # 41: Complete 📜 Fishing Contest <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
-> # 39: Complete 📜 Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
+> # 42: Complete 📜 Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
 > - [ ] Use all 14 wolf bones for arrow tips
 > - [ ] Make ~50 arrows
 > - [ ] Make sure you **keep**:<br>
@@ -519,14 +549,14 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > 	- arrows
 
 > [!IMPORTANT]
-> # 40: Complete 📜 BioHazard <sup>(R4D Prereq)</sup>
+> # 43: Complete 📜 BioHazard <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
-> # 41: Complete 📜 Underground Pass <sup>(R4D Prereq)</sup>
+> # 44: Complete 📜 Underground Pass <sup>(R4D Prereq)</sup>
 > - Agility xp
 
 > [!IMPORTANT]
-> # 42: 📊 Get 52 Agility
+> # 45: 📊 Get 52 Agility
 > <sup>Once you are 52 you can start doing wilderness agility masses inside `agility fc` chat-channel</sup>
 > - ~2 hours and 15 minutes
 > - [ ] Go to Brimhaven Agility Course <sup>Karmja glory teleport then west</sup>
@@ -537,27 +567,27 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > 	- [ ] Spinning Trap <sup>fallback if no spike trap</sup>
 
 > [!IMPORTANT]
-> # 43: Complete 📜 Shadow of the Storm <sup>(R4D Prereq)</sup>
+> # 46: Complete 📜 Shadow of the Storm <sup>(R4D Prereq)</sup>
 > - [ ] Bring x2 Waterskins
 > - [ ] when you go past alkarid bank start this quest by talking to Father Reen who is at the bank in al karihd
 
 > [!IMPORTANT]
-> # 44: Complete 📜 The Dig Site <sup>(R4D & DT1 Prereq)</sup>
+> # 47: Complete 📜 The Dig Site <sup>(R4D & DT1 Prereq)</sup>
 
 > [!IMPORTANT]
-> # 45: 📊 Get 48 Thieving
+> # 48: 📊 Get 48 Thieving
 > - steal from the Hosidius fruit stalls <sup>by woodcutting guild</sup>
 >	- [ ] Use skills necklace tele
 > 	- [ ] Stay at one stall, drop your item immediately, wait for respond 
 
 > [!IMPORTANT]
-> # 46: Complete 📜 Temple of Ikov <sup>(R4D Prereq)</sup>
+> # 49: Complete 📜 Temple of Ikov <sup>(R4D Prereq)</sup>
 > - [ ] Do NOT bring energy potions, you need food
 > - [ ] After getting boots of lightness remove candle and tinderbox from inventory and get more food
 > - [ ] Bring magic shortbow and rune arrows w\ boots of lightness into temple
 
 > [!IMPORTANT]
-> # 47: Start 📜 RFD <sup>(Recipe For Disaster R4D)</sup>
+> # 50: Start 📜 RFD <sup>(Recipe For Disaster R4D)</sup>
 > - Complete the subquests in this order:
 > 	- [ ] **Complete 📜 Mountain Dwarf**
 > 	- [ ] **Complete 📜 Pirate Pete**<br>
@@ -587,7 +617,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 >### 3) Keep this cycle up until around ~50+ slayer
 
 >[!NOTE]
->### 4) Get overhear Prayers (43+ Prayer)
+>### 4) Get overhead Prayers (43+ Prayer)
 
 
 ---------------------------------------------------------------------------------------------
@@ -945,7 +975,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 23: Complete 📜 Haunted Mine
-> - XXX
+> - Great strength xp (22k)
 
 > [!IMPORTANT]
 > # 24: Resume & Complete 📜 The Eyes Of Glourphrie <sup>(MM2 prereq)</sup>
@@ -1049,16 +1079,14 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 38: Complete 📜 Family Crest
-> - XXX
 
 > [!IMPORTANT]
 > # 39: Complete 📜 Hero's Quest
-> - XXX
 
 > [!IMPORTANT]
 > # 40: 📊 Get 50 Crafting
 > - Cut part of your ruby stack to 50 crafting, if you haven't already.<br>
-> - NOTE - You will cut ~2300 total Rubies to get to 70 crafting. You can continue to cut all your rubies now if you want but you only need 50 crafting to resume questing
+> - You will cut ~2300 total Rubies to get to 70 crafting. You can continue to cut all your rubies now if you want but you only need 50 crafting to resume questing
 
 > [!IMPORTANT]
 > # 41: Get 31 Herblore
@@ -1136,7 +1164,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 51: Finish 📜 RFD (recipe For Disaster)
 > - [ ] **Complete 📜 King Awowogei**
 > - [ ] **Complete 📜 Sir Amik Varze**
-> - [ ] **Complete 📜 Final Culinaromancer** <sup>()</sup>
+> - [ ] **Complete 📜 Final Culinaromancer**
 >	- Bring your ice gloves
 >	- Bring your best gear w\ pots and food
 > - [ ] Use lamp on crafting
