@@ -449,13 +449,15 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Located in Varrock Museum (north of the east bank)
 
 > [!IMPORTANT]
-> # 28: Complete 📜 Animal Magnetism
+> # 28: 📜 Animal Magnetism & Nature Spirit
 > - Unlocks Accumulator
 > - For x20 Eco-tokens bring in your invy:
 > 	- [ ] x4 Bones
 >   - [ ] x4 pot <sup>(empty)</sup>
 >   - [ ] x4 bucket <sup>(empty)</sup>
-> - NOTE when you run by Drezel stop and talk to him to start 📜 Nature Spirit
+> - [ ] **Start 📜 Animal Magnetism**
+> - [ ] when you run by Drezel stop and talk to him to **start 📜 Nature Spirit**
+> - [ ] Immediately after Resume & **Complete 📜 Animal Magnetism**
 
 > [!IMPORTANT]
 > # 29: Alfred Grimhand's Barcrawl <sup>(Horror from the deep Prereq)</sup>
@@ -471,7 +473,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Crafting XP <sup>(Lost City Prereq)</sup>
 
 > [!CAUTION]
-> # 32: Complete 📜 Nature Spirit <sup>(R4D Prereq)</sup>
+> # 32: Resume & Complete 📜 Nature Spirit <sup>(R4D Prereq)</sup>
 > - [WARNING] Gives 2k def xp
 > - Crafting xp <sup>(Lost City Prereq)</sup>
 
