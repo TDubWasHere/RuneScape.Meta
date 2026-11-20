@@ -72,8 +72,9 @@ LEGEND
 -> x6 knife							(500)
 -> x5 spade							()
 -> x6 tinderbox						(500)
--> x2 hammer						(500)
+-> x3 hammer						(500)
 -> x3 bucket						(500)
+-> x2 saw
 -> x2 vial							()
 -> x3 pestle and mortar				()
 -> x600 📊 normal logs					(16.5k)
@@ -98,7 +99,7 @@ LEGEND
 -> x7 rope							()
 -> x13 bread						(1k)
 -> x3 cake tin						(500)
--> x3 plank						    (500)
+-> x13 plank						    (500)
 -> x5 vial of water
 
 -> 📜 Touris Trap
@@ -681,7 +682,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 	x2 swamp tar
 	x4 charcoal
 	x7 molten glass
-	x100 steel nails
+	x200 steel nails
 	x15 planks
 	x3 yellow dye
 	x4 Beer
@@ -757,8 +758,6 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 		x1 bucket of water
 		x1 feather
 		x1 toad crunchies
-	-> Daddy's home
-		x5 bolt of cloth
 	-> the eyes of glourphrie 
 		x1 bucket of sap
 		x1 mud rune
@@ -777,6 +776,8 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 	-> tower of life 
 		x1 raw swordfish
 		x1 raw chicken
+	-> Daddy's home
+		x5 bolt of cloth
 	-> the fremennik isles
 		x1 raw tuna
 		x8 split log
