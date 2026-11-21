@@ -1,1 +1,600 @@
-todo
+## 1) Purchase Supplies at GE
+```
+	x10 ape atoll teleport
+	x30 iorwerth camp teleport	
+	x30 civitas teleport
+	x21 rope
+	x4 bones
+	z2 cake
+	x40 coal
+	x5 pestle and mortar
+	x5 hammer
+	x3 knife
+	x3 chisel
+	x3 saw
+	x2 spade
+	x2 rake
+	x2 seed dipper
+	x5 tinderbox
+	x2 bucket
+	x5 candle
+	x3 ashes
+	x2 leather
+	x2 bucket of milk
+	x3 super antiposion potion
+	x3 bronze axe (woodcutting)
+	x33 bagged plant 2
+	x3 watering can
+	x2300 uncut ruby
+	x1200 gold ore
+	x50 harralander potions (unf)
+	x50 chocolate dust
+	x320 Ranarr potion (unf)
+	x320 snape grass
+	x10 lumberyard teleport
+	x5630 green dragon leather
+	x410 thread
+	x15 logs
+	x5 oak logs
+	x55 maple logs
+	x1100 mahogany logs
+	x26 magic logs
+	x5 box traps
+	x5 snare trap
+	x2 insect net
+	x2 noose wand
+	x55 ring of pursuit
+	x10 hunter potion
+	x3k feathers
+	x1 fly fishing rod
+	x6 gold bar
+	x6 Ball of Wool
+	x105 lockpick
+	x2 swamp tar
+	x4 charcoal
+	x7 molten glass
+	x200 steel nails
+	x15 planks
+	x3 yellow dye
+	x4 Beer
+	x3 bronze pickaxe
+	x2 soft clay
+	x2 bat bones
+	x2 climbing boots
+	x9 salmon
+	
+	
+	-> monkey madness
+		x1 monkey bones FROM karmja
+	-> RFD >> King Awowogei
+		x1 banana
+		x1 monkey nuts
+	-> desert treasure	
+		x6 steel bar
+		x1 silver bar
+		x1 garlic powder
+		x1 spice
+		x1 spiked boots
+	-> fremennick trials
+		x1 raw shark
+	-> shilo village
+		x1 bronze wire
+	-> shades of mort'ton
+		x2 Tarromin potion (unf)
+		x2 oak pyre log
+	-> enakhra's lament
+		x1 willow logs
+		x2 granite (5kg)
+	-> merlin's crystal
+		x1 bread
+		x1 bucket of wax
+	-> hero's quest
+		x1 fishing rod
+		x1 fishing bait
+		x1 harralander potion (unf)
+		x1 black full helm
+		x1 black platebody
+		x1 black platelegs
+	-> family crest
+		x1 shrimps
+		x1 tuna
+		x1 bass
+		x1 swordfish
+		x1 ring mould
+		x1 necklace mould
+	-> underground pass
+		x1 bow (not crossbow)
+		x1 arrows (metal, unposioned)
+	-> RFD >> Sir Amik Varze
+		x1 raw chicken
+		x1 pot of cream
+		x1 pot of cornflour
+	-> ratchers
+		x4 cheese
+		x1 marrentill
+		x1 unicorn horn dust
+		x1 kwuarm
+		x1 red spiders eggs
+		x2 weeds
+		x2 pot
+	-> regicide
+		x10 limestone
+		x1 cooked rabbit
+	-> mourning's end part 1
+		x1 bear fur
+		x2 silk
+		x1 red dye
+		x1 blue dye
+		x1 green dye
+		x1 bucket of water
+		x1 feather
+		x1 toad crunchies
+	-> the eyes of glourphrie 
+		x1 bucket of sap
+		x1 mud rune
+	-> The Ascent of Acreuus
+		x10 battlefront teleport
+		x10 Kourend Castle Teleport
+	-> varrock easy diary 
+		x1 bones
+		x1 earth talisman
+		x1 Essence
+	-> zogre flesh eaters
+		x1 Sanfew serum(4)
+	-> shades of mort'ton
+		x10 mort'ton teleport
+		x1 flamtaer bracelet
+	-> tower of life 
+		x1 raw swordfish
+		x1 raw chicken
+	-> Daddy's home
+		x5 bolt of cloth
+	-> the fremennik isles
+		x1 raw tuna
+		x8 split log
+		x1 neitiznot shield
+		x1 yak-hide armour (top)
+		x1 yak-hide armour (bottom)
+	-> legends quest
+		x5 papyrus
+		x1 machete
+		x1 rune axe
+		x1 sapphire
+		x1 emerald
+		x1 diamond
+		x1 opal
+		x1 jade
+		x1 red topax
+		x1 soul rune
+		x1 mind rune
+		x1 earth rune
+		x2 law rune
+		x1 unpowered orb
+		x3 cosmic rune
+		x30 water runes
+	-> peril moons
+		x1 big fishing net
+	-> watchtower
+		x1 death rune
+		x1 dragon bones
+		x1 guam potion (unf)
+		x1 jangerberries
+	-> enlightened journey
+		x10 potatoes
+		x3 papyrus
+		x8 empty sack
+		x1 red dye
+		x10 silk
+		x1 bowl
+		x12 willow branches
+	-> monkey madness 2
+		x1 lemon
+		x1 grapes
+	-> forgettable tale
+		x2 barley malt
+		x2 bucket of water
+		x1 kebab
+		x1 dwarven stout
+		x1 beer glass
+	-> eadgar's ruse
+		x1 climbing boots
+		x1 vodka
+		x1 pineapple cjunks
+		x10 grain
+		x5 raw chicken
+		x1 ranarr potion (unf)
+	-> my arm's big adventure
+		x8 supercompost
+	-> horror from the deep
+		x1 bronze longsword
+	-> tears of guthix
+		x1 sapphire lantern
+```
+
+> [!IMPORTANT]
+> # 1: Complete 📜 Twilight's Promise
+
+> [!IMPORTANT]
+> # 2: Complete 📜 Ratchers
+
+> [!IMPORTANT]
+> # 3: Complete 📜 Contact
+
+> [!IMPORTANT]
+> # 4: Complete 📜 Shield of arrav (do black arm)
+>	- in game chat-channel: "osrs soa" to find a partner
+
+> [!IMPORTANT]
+> # 5: Complete 📜 Ethically Acquired Antiquities
+> - Thieving xp
+
+> [!IMPORTANT]
+> # 6: Complete 📜 Sheep Herder
+
+> [!IMPORTANT]
+> # 7: Complete 📜 Underground Pass
+
+> [!IMPORTANT]
+> # 8: Complete 📜 Regicide
+
+> [!IMPORTANT]
+> # 9: Complete 📜 Roving Elves
+> - NOTE when you **make naphtha** inside rimington, make sure to make 2 barrels of it so you have one already made for mournings end part 1.<Br>
+>	- means you need two barrels
+>	- need to make two barrels of tar
+>	- need 20 coal and need a full invy of it when you go to rimgington
+
+> [!IMPORTANT]
+> # 10: Complete 📜 Mourning's End Part 1
+
+> [!IMPORTANT]
+> # 11: Complete 📜 Merlin's Crystal
+
+> [!IMPORTANT]
+> # 12: Complete 📜 Alfred grimhand's barcrawl
+
+> [!IMPORTANT]
+> # 13: 📊 Get 35 fishing
+>  todo figure out method
+
+> [!IMPORTANT]
+> # 14: 📊 Get 70 Cooking [costs 400k]
+>  NOTE should we do minigame Tempoross?? get cooking fishing and firemaking xp??? get 53 fishing using this method ??
+> - buy 4k grapes
+> - buy 4k jug of water
+
+> [!IMPORTANT]
+> # 15: 📊 Get 44 Woodcutting
+> - Cut down teak logs
+>   - NOTE bring x5 camelot teleport tabs in inventory
+> 	- TODO figure out location (cannot do monkey madness location yet)
+
+> [!IMPORTANT]
+> # 16: Element Workshop 1 and 2
+> - [ ] Teleport to camelot and run to seers bank (west)
+> - [ ] Bring all items needed for both Elemental Workshop 1 and Elemental Workshop 2
+> - [ ] **Complete 📜 Elemental Workshop 1**
+> - [ ] **Complete 📜 Elemental workshop 2**
+
+
+> [!IMPORTANT]
+> # 17: 📜 Jungle Potion & 📜 Shilo Village
+> - [ ] get everything needed for both Jungle Potion and Shilo Village
+> - [ ] Additionally bring:
+> 	- x3 extended stamina
+> 	- bring ranged gear
+>   - x1 super antiposion
+>   - x1 machete
+> - [ ] **Complete 📜 Jungle Potion**
+> 	- [ ] After completing Jungle potion pick up extra items for legends quest
+>  		- x2 ardrigal
+>      	- x2 snake weed
+> - [ ] **Complete 📜 Shilo Vilage**
+> ![](https://images.openai.com/static-rsc-4/EV-1AjkVrrsk16pVkC9rktK-ZnMd-gU9ja5yEz9wLOPGeCoDJJ9-8F17lWqRVQf1sv9zMdEils6uanG6EX5Qxx2eO2TYIjGl0LS4lrJui97dpaOG67f75uCoMczYdg4EUlGStNx6CImwfwGfJqlF7wqC3mo7CXtNdBJOTj0Rihc?raw=true)
+
+
+> [!IMPORTANT]
+> # 18: get 100% Tai Bwo Wannai Village favor <sup>(my arms big adventure prereq)</sup>
+> - [ ] Go to Tai Bwo Wannai village.
+> - [ ] Speak to Murcaily beside the Hardwood Grove gate. (northeast side of Tai Bwo Wannai Village)
+> - [ ] Agree to help clean up the village.
+> - [ ] Equip your machete.
+> - [ ] Cut some light jungle near the village. (south of murcaily)
+> - [ ] Collect the thatch spars.
+> - [ ] Repair one of the damaged fences. (south of light jungle patch)
+> - [ ] Important: Return to Murcaily and claim your first trading sticks. This unlocks the ability to earn favour from killing Jungle Spiders.
+> - [ ] Head north to the farming patch near the anvil north of the tribal statue
+> - [ ] Find the Jungle Spiders.
+> - [ ] Kill them repeatedly.
+> - [ ] Each spider gives approximately 1–2% favour.
+
+> [!IMPORTANT]
+> # 19: Start 📜 Zogre Flesh Eaters
+> - [ ] use dueling ring castle wars tele x3
+> - [ ] when in yanille talk to hazelmere **Resume 📜 The Eyes Of Glouphrie** (no items needed)
+> 	- watch 3 cut scenes
+> - [ ] Resume & **Complete 📜 Zogre Flesh Eaters**
+
+> [!IMPORTANT]
+> # 20: Complete 📜 Fremennick Trials
+> - [ ] When first starting this quest bring:<br>
+>	- do **not wear** any armor or weapons
+>   - x1 axe you are ok with dropping
+>	- x2 ring of recoil
+>   - x10 food
+>   - x2 prayer potion
+>   - x1 extended stamina potion
+> - [ ] Available answers for Peers riddle to open the door<br>
+> 		 "My first is in mage, but not in wizard"		MIND<br>
+>		 "My first is in tar, but not in a swamp"		TREE<br>
+>		 "My first is in the well, but not at sea"		LIFE<br>
+>		 "My first is in fish, but not in the sea"		FIRE<br>
+>		 "My first is in water, and also in tea"		TIME<br>
+>		 "My first is in wizard, but not in a mage"	    WIND
+
+> [!IMPORTANT]
+> # 21: Complete 📜 Sleeping Giant
+> - when making the blame make note of what Kovac tells you to make it, it'll be in red IE "flat and broad" (this is randomized for each player and will ask you for the answer)
+
+> [!IMPORTANT]
+> # 22: Complete 📜 Shades of Mort'ton
+> - [ ] switch to world 377 <sup>there is a dedicated world for mort'ton</sup>
+> - [ ] repair the WALLS (not the altar itself)
+> 	- need 100% repair state
+>	- need 20% Sancity
+> - [ ] click altar with tinderbox
+> - [ ] click altar again "use Flaming Altar"
+
+> [!IMPORTANT]
+> # 23: Complete 📜 Haunted Mine
+> - Great strength xp (22k)
+
+> [!IMPORTANT]
+> # 24: Resume & Complete 📜 The Eyes Of Glourphrie <sup>(MM2 prereq)</sup>
+> - [ ] talk to Brimstail to get random pieces<br>
+> 	- keep talking to him until he stops giving you pieces<br>
+> 	- drop your pieces and talk to him again<br>
+> 	- repeat until you have 15+ pieces<br>
+> - https://www.youtube.com/watch?v=UsPocLGxINc
+
+> [!IMPORTANT]
+> # 25: Complete 📜 The Birds And The Wasps
+> - Hunter xp <sup>(Peril Moons & MM2 prereq)</sup>
+> https://oldschool.runescape.wiki/w/The_Birds_and_the_Wasps
+
+> [!IMPORTANT]
+> # 26: Complete 📜 The Ascent of Acreuus
+> - Hunter xp <sup>(Peril Moons & MM2 prereq)</sup>
+> - [ ] bring x3 Kourend castle teleports
+> - [ ] Use Kourend castle teleport to start quest
+
+> [!IMPORTANT]
+> # 27: Complete 📜 Tower of Life
+> - Construction xp <sup>(prereq)</sup>
+
+> [!IMPORTANT]
+> # 28: 📊 Get 15 construction
+> - [ ] Bring in your inventory<br>
+>	- x3 watering can
+> 	- x10+ house teleport
+> 	- x10+ varrock teleport
+> 	- ????x1 hammer
+> 	- ????x1 saw
+> 	- Rest inventory bagged plant 2
+> - [ ] 1) House teleport & turn on building mode
+> - [ ] 2) Make "small plant space 2" and then remove it until all bagged plants are used
+> - [ ] 3) Teleport to varrock
+> - [ ] 4) fill up watering can (at fountain in varrock center)
+> - [ ] 5) rebank and grab more gabbed plants
+> - [ ] 6) Repeat back to step 1
+
+> [!IMPORTANT]
+> # 29: Complete 📜 A Shell of a Friend
+> - Construction xp <sup>(quest prereq)</sup><br>
+> https://oldschool.runescape.wiki/w/A_Shell_of_a_Friend
+
+> [!IMPORTANT]
+> # 30: Complete 📜 The Fremennik Isles
+> - woodcutting xp <sup>(quest prereq)</sup>
+> - [ ] do not use ranged or mage for these fights even if your melee sucks. Boss has +2k mage and ranged defense
+> - [ ] bring supercombat potion w\ 6 prayer pots
+
+> [!IMPORTANT]
+> # 31: Complete 📜 Enter The Abyss
+
+> [!IMPORTANT]
+> # 32: Varrock Easy Diary
+> - [ ] Bring 10 Varrock Teles
+> - [ ] Go to Varrock museum (north of west bank, south of altar)
+> - [ ] enter rope area
+> - [ ] get tools from wall
+> - [ ] search pile of rocks
+> - [ ] use on table to clean
+> - [ ] get any 3 artifacts:<br>
+>	- Pottery<br>
+>	- Ancient symbol<br>
+>	- Old symbol<br>
+>	- Ancient coin<br>
+>	- Old coin<br>
+> - [ ] use a artifact on an npc in the rope area and it'll tell you where to put it. <sup> (Only one artifact at a time)</sup>
+> - [ ] Go out of the rope and put the artifact where it belongs
+> - [ ] Repeat until you identified 3 artifacts and have max kudos
+
+> [!IMPORTANT]
+> # 33: Complete 📜 Forgettable Tale & Herblore + Crafting Training
+> - Farming xp
+> - [ ] While waiting for your farming patch to grow (15-20 minutes)<br>
+> 	- Make all of your energy potions (50) for herblore training <sup>(Harralander potions (unf) + chocolate dust)</sup><br>
+>	- Then cut rubies with a chisel for crafting until your patch has grown<br>
+> - [ ] While waiting for your beer to brew (~10 minutes)<br>
+>	- Finish cutting all your rubies for crafting
+
+> [!IMPORTANT]
+> # 34: Complete 📜 Garden of Death
+> - Farming xp
+
+> [!IMPORTANT]
+> # 35: Complete 📜 Enlightened Journey 
+> - MM2 prereq
+> - Fill up 1 empty sack with 10 potatoes (use potatoes on the sack)
+
+> [!IMPORTANT]
+> # 36: 📊 Get 52 mining
+> - [ ] Wear varrock armor 1 body <sup>(gives chance of double xp on iron ore)</sup>
+> - [ ] Power mine iron the whole way <sup>(Click Mine ore, wait, when mined immediately drop previous iron ore, repeat)</sup>
+> - [ ] Go to Al kharid mine where there are 3 iron rocks in a U. <sup>(glory -> al kharid -> run north OR ring of dueling -> arena -> go west outside of arena then north)</sup><br>
+> https://oldschool.runescape.wiki/w/Al_Kharid_mine
+
+> [!IMPORTANT]
+> # 37: Complete 📜 Watchtower
+> - use castle wars (dueling ring) teleport to get to yanille
+
+> [!IMPORTANT]
+> # 38: Complete 📜 Family Crest
+
+> [!IMPORTANT]
+> # 39: Complete 📜 Hero's Quest
+
+> [!IMPORTANT]
+> # 40: 📊 Get 50 Crafting
+> - Cut part of your ruby stack to 50 crafting, if you haven't already.<br>
+> - You will cut ~2300 total Rubies to get to 70 crafting. You can continue to cut all your rubies now if you want but you only need 50 crafting to resume questing
+
+> [!IMPORTANT]
+> # 41: Get 31 Herblore
+> - Finish making your energy potions <sup>(you might have already finished these)</sup>
+
+> [!IMPORTANT]
+> # 42: 📊 Get 53 Fishing
+> - [ ] Bring in your invy<br>
+>	- x1 Fly fishing rod<br>
+> 	- x3000 feathers<br>
+> 	- x1 glory (wear it)<br>
+> - [ ] Go to Barbatian village and fly fish <sup>(Glory -> edgeville -> run south)</sup>
+> - [ ] Do this in a high populated FREE TO PLAY world <sup>(To contribute to when you picked up fish)</sup>
+> - [ ] Power fish <sup>(drop your trout and salmon when your inventory is full)</sup>
+
+> [!IMPORTANT]
+> # 43: 📊 Get 50 Smithing
+> - [ ] Take steel guantlets to Al kharid mind<br>
+>	- Find "avan fitzharmon" in the mine<br>
+>	- Give him your gauntlets to make **gold smith gauntlets**
+> - [ ] Bring in your inventory:<Br>
+>	- 300k cash<br>
+>	- ice gloves<br>
+>	- goldsmith gauntlents<br>
+>	- glory & ring of dueling (Wear both)<br>
+> - [ ] Use Blast furnace on a blast furnace world to make gold bars
+> - [ ] Use minigame teleport (blast furnace) or go to GE -> northwest mine travel<br>
+> 	- https://www.youtube.com/watch?v=HsDEOxTBrlU<br>
+
+> [!IMPORTANT]
+> # 44: 📊 Get 50 woodcutting
+> - Power chop teak logs the whole way <sup>(Chop a full inventory then drop the logs. Repeat)</sup>
+> - TODO location????
+
+> [!IMPORTANT]
+> # 45: Complete 📜 Eadgar's Ruse
+
+> [!IMPORTANT]
+> # 46: Complete 📜 My Arm's Big Adventure
+
+> [!IMPORTANT]
+> # 47: Get 45 Herblore
+> - Make All your prayer potions <sup>Ranarr potion (unf) + Snape Grass)</sup>
+
+> [!IMPORTANT]
+> # 48: Complete 📜 Desert Treasure I
+> - [ ] FIRST BOSS NOTES<br>
+>	- Kill with water spells ideally <sup>(ranged is fine if you're 70+)</sup>
+> - [ ] SECOND DIAMOND NOTES (Shadow Diamiond)<br>
+>	- Thieving the chest in the dessert usually takes 50+ failed attempts<br>
+>	- Bank EVERYTHING in your inventory and bring:<br>
+>		- Glory (wear)<br>
+>		- 2k Coins<br>
+>		- x1 super antiposion<br>
+>    	- x2 mantaray<br>
+>		- x1 shanty pass<br>
+> 		- rest lockpicks<br>
+>	- Once successful<br>
+>		- Get all quest items back into invy<br>
+>		- Get ranged gear + food and pots (prayer & ranged)
+
+> [!IMPORTANT]
+> # 49: Complete 📜 Monkey Madness I
+> - Do **not** drop your Translation book
+
+> [!IMPORTANT]
+> # 50: Complete 📜 Legends Quest
+> - [ ] When inside the Kharazi Jungle<br>
+>		- Go south of the tree patch icon and pick 1 vanilla pod <sup>(RFD prereq)</sup>
+> - [ ] Use lamps:<br>
+>	- x1 Thieving (need 55)
+> 	- x3 Crafting (need 70)
+
+> [!IMPORTANT]
+> # 51: Finish 📜 RFD (recipe For Disaster)
+> - [ ] **Complete 📜 King Awowogei**
+> - [ ] **Complete 📜 Sir Amik Varze**
+> - [ ] **Complete 📜 Final Culinaromancer**
+>	- Bring your ice gloves
+>	- Bring your best gear w\ pots and food
+> - [ ] Use lamp on crafting
+
+> [!IMPORTANT]
+> # 52: 📜 Eagles' Peak & 📜 Pandemonium
+> - These quests will be done back to back<br>
+> - [ ] Bring in your invy:<br>
+>	- Glory<br>
+>	- Hammer<br>
+>	- Saw
+> - [ ] **Complete 📜 Eagle's Peak**
+> - [ ] **Complete 📜 Pandemonium**
+
+> [!IMPORTANT]
+> # 53: Unlock Tree Gnome Stronghold Balloon Route (Balloon Transport - Grand Tree)
+> - [ ] Travel to Entrana <sup>(glory -> draynor village -> run to port)</sup><br>
+>	- No armor/weapon<br>
+> - [ ] Bring with you:<br>
+>	- x13 Magic logs
+>	- glory (wear)
+>	- Ring of dueling (wear)
+> 	- x2 extended stamina potion
+
+> [!IMPORTANT]
+> # 54: 📊 Get 70 Crafting
+> - [ ] Cut the rest of your rubies if you have any left <sup>(you should be level 63+)</sup>
+> - [ ] Make green d hide bodies till 70
+
+> [!IMPORTANT]
+> # 55: 📊 Get 60 Hunter
+> - [Hunter Guide](https://github.com/TDubWasHere/RuneScape.Meta/tree/main/GamePlay/P2P/Skills/Hunter)
+
+> [!IMPORTANT]
+> # 56: 📊 Get 60 Firemaking
+> - [ ] Burn your 1100 Mahogany logs
+
+> [!IMPORTANT]
+> # 57: 📊 Get 69 Slayer
+> - See Slayer Guide if you need tips
+
+> [!IMPORTANT]
+> # 58: Complete 📜 Perilous Monns
+> - [Watch how the fighting michanics work](https://www.youtube.com/watch?v=ugHndNlCvtQ)<br>
+> - [ ] Bring melee Gear only <sup>(Bosses have 2k+ defense for ranged and mage)</sup><br>
+>		- You need each style of attack (stab, slash, crush)<br>
+> 			- Rune scimmi & rune Battleaxe (for crush)<br>
+> - [ ] on the talisman locating step<br>
+>	- 1. Head through the southwest doorway into the Ancient Prison.<br>
+>	- 2. Continue southwest until you reach the room with the Sulphur Nagua.<br>
+>	- 3. Run past the Nagua (you don't need to kill them).<br>
+>	- 4. Take the southwestern passage.<br>
+>	- 5. This leads into the Ancient Shrine, where the Lunar Chest is located.<br>
+>	- 6. now use your talsimans to find the pool and use them
+
+> [!IMPORTANT]
+> # 59: Complete 📜 Monkey Madness II
+> - [ ] Also Grab x5 Ape Atol Teleport
+> - [ ] TO GET ANOTHER TRANSLATION BOOK<br>
+> 	- King Narcode will give you one when you speak with him while having the mysterious note you found in Glough's house.
+
