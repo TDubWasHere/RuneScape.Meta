@@ -4,7 +4,7 @@ ENTITY HIDER:
 ENTITY HIDER:
 ENTITY HIDER:
 ENTITY HIDER:
-	<-> changed to filter if you've added them as a friend, instead of friends
+	<-> changed to filter if you've added them as a friend, instead of accepted friends & online
 		>> FIND: 
 			if (player.isFriend())
 			{
@@ -16,7 +16,7 @@ ENTITY HIDER:
 PLAYER INDICATOR (playerindicators/PlayerIndicatorsService.java):
 PLAYER INDICATOR (playerindicators/PlayerIndicatorsService.java):
 PLAYER INDICATOR (playerindicators/PlayerIndicatorsService.java):
-	<-> changed to filter if you've added them as a friend, instead of friends
+	<-> changed to filter if you've added them as a friend, instead of accepted friends & online
 		>> FIND: 
 			else if (player.isFriend() && isEnabled.test(config.highlightFriends()))
 		>> CHANGE TO:
