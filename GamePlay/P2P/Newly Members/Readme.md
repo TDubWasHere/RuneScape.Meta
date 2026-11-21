@@ -18,8 +18,8 @@ LEGEND
 	Any time you see "[Start/Resume/Complete] 📜 [QUEST NAME]" you can then activate that quest in your runelite plugin quest helper
 ```
 
-# 1) Build F2P starter account before buying members
-
+# 1) Build [F2P starter account](https://github.com/TDubWasHere/RuneScape.Meta/tree/main/GamePlay/F2P/Starter%20Account) before buying members
+> - You will be doing these same quests no matter what, so wait to buy members 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
