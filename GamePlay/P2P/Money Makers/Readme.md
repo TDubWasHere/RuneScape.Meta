@@ -140,3 +140,18 @@ https://www.youtube.com/watch?v=AwclIKUTMPo
 	-> run south
 ```
 
+
+------------------------------------------------------
+
+```
+FRONST DRAGON NOTES
+FRONST DRAGON NOTES
+FRONST DRAGON NOTES
+FRONST DRAGON NOTES
+	-> 87 sailing
+	-> 72 construction (need a Eternal Brazier on your boat)
+	
+	Quality of life:
+		-> 83 agility
+		-> DLP Fairy ring
+```
