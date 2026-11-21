@@ -1,4 +1,4 @@
-EDITING/CONTENT CREATION NOTES
+```EDITING/CONTENT CREATION NOTES
 EDITING/CONTENT CREATION NOTES
 EDITING/CONTENT CREATION NOTES
 EDITING/CONTENT CREATION NOTES
@@ -8,7 +8,7 @@ EDITING/CONTENT CREATION NOTES
 		-> NOTE do not have any arrows (icons showing) before you go into this quest
 
 	P2P - sailing quest troubled tortugans:
-		>> cool cut scene of a ship coming in at the step where you sail to the island AFTER getting the turtle shield
+		>> cool cut scene of a ship coming in at the step where you sail to the island AFTER getting the turtle shield```
 	
 	
 	
