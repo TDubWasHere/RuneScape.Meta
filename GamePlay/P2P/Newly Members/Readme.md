@@ -15,7 +15,8 @@ LEGEND
 	📜 = quest
 	📊 = skilling
 
-	Any time you see "[Start/Resume/Complete] 📜 [QUEST NAME]" you can then activate that quest in your runelite plugin quest helper
+	Any time you see "[Start/Resume/Complete] 📜 [QUEST NAME]"
+		you can then activate that quest in your runelite plugin quest helper
 ```
 
 # 1) Build [F2P starter account](https://github.com/TDubWasHere/RuneScape.Meta/tree/main/GamePlay/F2P/Starter%20Account) before buying members
