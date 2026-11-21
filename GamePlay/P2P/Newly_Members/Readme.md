@@ -558,7 +558,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 45: 📊 Get 52 Agility
-> <sup>Once you are 52 you can start doing wilderness agility masses inside `agility fc` chat-channel</sup>
+> <sup>Once you are 52 you can start doing [wilderness agility masses](https://github.com/TDubWasHere/RuneScape.Meta/blob/main/GamePlay/P2P/Money%20Makers/Readme.md#wilderness-agility-course-massing) inside `agility fc` chat-channel</sup>
 > - ~2 hours and 15 minutes
 > - [ ] Go to Brimhaven Agility Course <sup>Karmja glory teleport then west</sup>
 > - [ ] Get 100 tickets <sup>should be at level 48 agility</sup>
@@ -613,6 +613,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Best immediate money maker <sup>(1.5m-4m per hour)</sup>
 > - Can sustain a bond with 4-8 hours of massing
 > - The earlier you train agility the more useful it is throughout gameplay
+> - [Wilderness Agility Mass Guide](https://github.com/TDubWasHere/RuneScape.Meta/blob/main/GamePlay/P2P/Money%20Makers/Readme.md#wilderness-agility-course-massing)
 
 >[!NOTE]
 >### 3) Keep this cycle up until around ~50+ slayer
