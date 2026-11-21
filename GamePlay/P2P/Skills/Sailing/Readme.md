@@ -196,16 +196,20 @@
 		-> Pirate Shipwrecks
 			-> south of Knights Outpost (pest control)
 			-> use pest control + summon boat for easy travel
-	-> do upgrades @ 68
+	-> do upgrades @ 70
 		>> camphor hull
 		>> camphor mast and canvas sails
 		>> adamant helm
 		>> camphor cargo hold
+		>> adamant cannon
+		>> Recruit Jobless Jim
+			-> Travel to Port Khazard, south of Ardougne.
+			-> Enter the building with the anvil.
+			-> Talk to Jittery Jim and recruit him.
 	-> switch spots @ 73 sailing
 	-> do upgrades @ 75
 		>> greater teleport focus
 		>> rune salvaging hook (x2)
-		>> adamant cannon
 		>> adamant helm
 	-> switch spots @ 80 sailing
 	-> do upgrades @ XX
