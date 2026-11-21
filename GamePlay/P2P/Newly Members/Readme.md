@@ -606,22 +606,24 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 # 5) Make Money & Train Slayer
 
 >[!NOTE]
->### 1) cycle between [training slayer](https://github.com/TDubWasHere/RuneScape.Meta/tree/main/GamePlay/P2P/Skills/Slayer) and [making money methods](https://github.com/TDubWasHere/RuneScape.Meta/blob/main/GamePlay/P2P/Money%20Makers/Readme.md)
-
->[!NOTE]
->### 2) join a wilderness agility mass any time you are playing and they are running
+>### 1) Join a wilderness agility mass any time you are playing and they are running
 > - Best immediate money maker <sup>(1.5m-4m per hour)</sup>
 > - Can sustain a bond with 4-8 hours of massing
 > - The earlier you train agility the more useful it is throughout gameplay
 > - [Wilderness Agility Mass Guide](https://github.com/TDubWasHere/RuneScape.Meta/blob/main/GamePlay/P2P/Money%20Makers/Readme.md#wilderness-agility-course-massing)
 
 >[!NOTE]
->### 3) Keep this cycle up until around ~50+ slayer
-> [Slayer Guide](https://github.com/TDubWasHere/RuneScape.Meta/tree/main/GamePlay/P2P/Skills/Slayer)
+>### 2) Cycle between [training slayer](https://github.com/TDubWasHere/RuneScape.Meta/tree/main/GamePlay/P2P/Skills/Slayer) and [making money methods](https://github.com/TDubWasHere/RuneScape.Meta/blob/main/GamePlay/P2P/Money%20Makers/Readme.md)
 
 >[!NOTE]
->### 4) Get overhead Prayers (43+ Prayer)
+>### 3) Get overhead Prayers (43+ Prayer)
 > [Prayer Guide](https://github.com/TDubWasHere/RuneScape.Meta/tree/main/GamePlay/P2P/Skills/Prayer)
+
+>[!NOTE]
+>### 4) Keep this cycle up until around ~50+ slayer
+> [Slayer Guide](https://github.com/TDubWasHere/RuneScape.Meta/tree/main/GamePlay/P2P/Skills/Slayer)
+
+
 
 
 ---------------------------------------------------------------------------------------------
