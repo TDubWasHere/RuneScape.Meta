@@ -633,6 +633,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 # Follow the dedicated [Mid Game Questing Guide](https://github.com/TDubWasHere/RuneScape.Meta/blob/main/GamePlay/P2P/Mid%20Game%20Questing/Readme.md])
 
 
+<br><br>
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
@@ -642,7 +643,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 .<br>
 .<br>
 .<br>
-NOTES
+NOTES TODO add somewhere
 
 ```
 -> mage arena i				>> god cape
