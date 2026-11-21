@@ -23,30 +23,30 @@
 	x2 bucket of milk
 	x3 super antiposion potion
 	x3 bronze axe (woodcutting)
-	x33 bagged plant 2
-	x3 watering can
-	x2300 uncut ruby
-	x1200 gold ore
-	x50 harralander potions (unf)
-	x50 chocolate dust
-	x320 Ranarr potion (unf)
-	x320 snape grass
+	x33 📊 bagged plant 2
+	x3 📊 watering can
+	x2300 📊 uncut ruby
+	x1200 📊 gold ore
+	x50 📊 harralander potions (unf)
+	x50 📊 chocolate dust
+	x320 📊 Ranarr potion (unf)
+	x320 📊 snape grass
 	x10 lumberyard teleport
-	x5630 green dragon leather
-	x410 thread
+	x5630 📊 green dragon leather
+	x410 📊 thread
 	x15 logs
 	x5 oak logs
-	x55 maple logs
-	x1100 mahogany logs
+	x55 📊 maple logs
+	x1100 📊 mahogany logs
 	x26 magic logs
 	x5 box traps
 	x5 snare trap
 	x2 insect net
 	x2 noose wand
-	x55 ring of pursuit
-	x10 hunter potion
-	x3k feathers
-	x1 fly fishing rod
+	x55 📊 ring of pursuit
+	x10 📊 hunter potion
+	x3k 📊 feathers
+	x1 📊 fly fishing rod
 	x6 gold bar
 	x6 Ball of Wool
 	x105 lockpick
@@ -62,8 +62,7 @@
 	x2 bat bones
 	x2 climbing boots
 	x9 salmon
-	
-	
+		
 	-> monkey madness
 		x1 monkey bones FROM karmja
 	-> RFD >> King Awowogei
