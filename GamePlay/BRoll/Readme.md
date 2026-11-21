@@ -3,7 +3,7 @@ EDITING/CONTENT CREATION NOTES
 EDITING/CONTENT CREATION NOTES
 EDITING/CONTENT CREATION NOTES
 EDITING/CONTENT CREATION NOTES
-	P2P - sailing quest "Crab quest" has cut scene of kicking a panguine (to record it)
+	P2P - sailing quest "Crab quest" has cut scene of kicking a penguin (to record it)
 		-> also has a sunset pan out
 		-> NOTE do not have any buffs
 		-> NOTE do not have any arrows (icons showing) before you go into this quest
