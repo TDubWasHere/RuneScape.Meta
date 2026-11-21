@@ -630,7 +630,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 # 6) Mid Game Questing
 
-# Follow the dedicated (Mid Game Questing Guide)[https://github.com/TDubWasHere/RuneScape.Meta/blob/main/GamePlay/P2P/Mid%20Game%20Questing/Readme.md]
+# Follow the dedicated [Mid Game Questing Guide](https://github.com/TDubWasHere/RuneScape.Meta/blob/main/GamePlay/P2P/Mid%20Game%20Questing/Readme.md])
 
 
 ---------------------------------------------------------------------------------------------
