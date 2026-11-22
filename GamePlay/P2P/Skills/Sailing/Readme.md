@@ -199,7 +199,6 @@
 	-> do upgrades @ 70
 		>> camphor hull
 		>> camphor mast and canvas sails
-		>> adamant helm
 		>> camphor cargo hold
 		>> adamant cannon
 		>> Recruit Jobless Jim
